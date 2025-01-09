@@ -1,0 +1,1057 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "セブンティーン",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "annotation": [
+        {
+          "original": "鏡",
+          "annotation": "かがみ"
+        },
+        {
+          "original": "写",
+          "annotation": "うつ"
+        },
+        {
+          "original": "しかのような"
+        }
+      ],
+      "lyric": "鏡しかのような",
+      "translation": "就像镜子那样照搬的"
+    },
+    {
+      "annotation": [
+        {
+          "original": "瓜",
+          "annotation": "うり"
+        },
+        {
+          "original": "二",
+          "annotation": "ふた"
+        },
+        {
+          "original": "つの"
+        },
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        },
+        {
+          "original": "に"
+        }
+      ],
+      "lyric": "瓜二つの世界に",
+      "translation": "一模一样的两个世界"
+    },
+    {
+      "annotation": [
+        {
+          "original": "それぞれ"
+        },
+        {
+          "original": "生",
+          "annotation": "う"
+        },
+        {
+          "original": "まれた"
+        },
+        {
+          "original": "二人",
+          "annotation": "ふたり"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        }
+      ],
+      "lyric": "それぞれ生まれた二人の私",
+      "translation": "在这其中却也诞生了两个我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "在",
+          "annotation": "あ"
+        },
+        {
+          "original": "るべき"
+        },
+        {
+          "original": "場所",
+          "annotation": "ばしょ"
+        },
+        {
+          "original": "が"
+        },
+        {
+          "original": "違",
+          "annotation": "ちが"
+        },
+        {
+          "original": "ったか"
+        }
+      ],
+      "lyric": "在るべき場所が違ったか",
+      "translation": "是我搞错了本应该存在的位置"
+    },
+    {
+      "annotation": [
+        {
+          "original": "神様",
+          "annotation": "かみさま"
+        },
+        {
+          "original": "が"
+        },
+        {
+          "original": "間違",
+          "annotation": "まちが"
+        },
+        {
+          "original": "ったか"
+        }
+      ],
+      "lyric": "神様が間違ったか",
+      "translation": "还是神明大人犯了错"
+    },
+    {
+      "annotation": [
+        {
+          "original": "同",
+          "annotation": "おな"
+        },
+        {
+          "original": "じ"
+        },
+        {
+          "original": "姿形",
+          "annotation": "すがたかたち"
+        },
+        {
+          "original": "中身",
+          "annotation": "なかみ"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "真反対",
+          "annotation": "まはんたい"
+        }
+      ],
+      "lyric": "同じ姿形中身は真反対",
+      "translation": "我们明明外貌相同 内心却完全相反"
+    },
+    {
+      "annotation": [
+        {
+          "original": "違和感",
+          "annotation": "いわかん"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "どうやら"
+        }
+      ],
+      "lyric": "違和感はどうやら",
+      "translation": "这份违和感看来"
+    },
+    {
+      "annotation": [
+        {
+          "original": "ずっと"
+        },
+        {
+          "original": "前",
+          "annotation": "まえ"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "育",
+          "annotation": "そだ"
+        },
+        {
+          "original": "ってた"
+        }
+      ],
+      "lyric": "ずっと前に育ってた",
+      "translation": "早已在我心中产生"
+    },
+    {
+      "annotation": [
+        {
+          "original": "パパ"
+        },
+        {
+          "original": "も"
+        },
+        {
+          "original": "ママ"
+        },
+        {
+          "original": "も"
+        },
+        {
+          "original": "大事",
+          "annotation": "だいじ"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "思",
+          "annotation": "おも"
+        },
+        {
+          "original": "ってる"
+        }
+      ],
+      "lyric": "パパもママも大事に思ってる",
+      "translation": "虽然爸爸和妈妈也很重视我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "だけど"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "どうやら"
+        }
+      ],
+      "lyric": "だけど私はどうやら",
+      "translation": "但我总感到哪里不对劲"
+    },
+    {
+      "annotation": [
+        {
+          "original": "此処",
+          "annotation": "ここ"
+        },
+        {
+          "original": "じゃ"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "じゃないから"
+        }
+      ],
+      "lyric": "此処じゃ私じゃないから",
+      "translation": "待在这里的不应该是我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "赤",
+          "annotation": "あか"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "赤",
+          "annotation": "あか"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "黒",
+          "annotation": "くろ"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "黒",
+          "annotation": "くろ"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "戻",
+          "annotation": "もど"
+        },
+        {
+          "original": "るの"
+        }
+      ],
+      "lyric": "赤は赤に黒は黒に戻るの",
+      "translation": "所以我要让一切回到正轨"
+    },
+    {
+      "annotation": [
+        {
+          "original": "次元",
+          "annotation": "じげん"
+        },
+        {
+          "original": "を"
+        },
+        {
+          "original": "隔",
+          "annotation": "へだ"
+        },
+        {
+          "original": "てた"
+        },
+        {
+          "original": "向",
+          "annotation": "む"
+        },
+        {
+          "original": "こう"
+        },
+        {
+          "original": "側",
+          "annotation": "がわ"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        },
+        {
+          "original": "じゃ"
+        }
+      ],
+      "lyric": "次元を隔てた向こう側の世界じゃ",
+      "translation": "这里是隔着一个次元的另一侧的世界"
+    },
+    {
+      "annotation": [
+        {
+          "original": "今日",
+          "annotation": "きょう"
+        },
+        {
+          "original": "だって"
+        }
+      ],
+      "lyric": "今日だって",
+      "translation": "即使今天"
+    },
+    {
+      "annotation": [
+        {
+          "original": "残酷",
+          "annotation": "ざんこく"
+        },
+        {
+          "original": "な"
+        },
+        {
+          "original": "悪魔",
+          "annotation": "あくま"
+        },
+        {
+          "original": "が"
+        },
+        {
+          "original": "鳴",
+          "annotation": "な"
+        },
+        {
+          "original": "いている"
+        }
+      ],
+      "lyric": "残酷な悪魔が鳴いている",
+      "translation": "残酷的恶魔也仍在鸣叫"
+    },
+    {
+      "annotation": [
+        {
+          "original": "あっち"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "は"
+        },
+        {
+          "original": "怖",
+          "annotation": "こわ"
+        },
+        {
+          "original": "がりで"
+        },
+        {
+          "original": "泣",
+          "annotation": "な"
+        },
+        {
+          "original": "き虫",
+          "annotation": "むし"
+        },
+        {
+          "original": "なの"
+        }
+      ],
+      "lyric": "あっちの私は怖がりで泣き虫なの",
+      "translation": "那个世界的我是个胆小的爱哭鬼"
+    },
+    {
+      "annotation": [
+        {
+          "original": "見",
+          "annotation": "み"
+        },
+        {
+          "original": "て"
+        },
+        {
+          "original": "見",
+          "annotation": "み"
+        },
+        {
+          "original": "ぬ"
+        },
+        {
+          "original": "振",
+          "annotation": "ふ"
+        },
+        {
+          "original": "りできないから"
+        }
+      ],
+      "lyric": "見て見ぬ振りできないから",
+      "translation": "所以我做不到对其视而不见"
+    },
+    {
+      "annotation": [
+        {
+          "original": "これじゃハッピーエンドとはいかない"
+        }
+      ],
+      "lyric": "これじゃハッピーエンドとはいかない",
+      "translation": "既然这不是什么能够称为圆满的结局"
+    },
+    {
+      "annotation": [
+        {
+          "original": "それじゃ"
+        },
+        {
+          "original": "救",
+          "annotation": "すく"
+        },
+        {
+          "original": "いに"
+        },
+        {
+          "original": "行",
+          "annotation": "い"
+        },
+        {
+          "original": "くね"
+        },
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        }
+      ],
+      "lyric": "それじゃ救いに行くね世界",
+      "translation": "那就向着拯救世界的目标而前进吧"
+    },
+    {
+      "annotation": [
+        {
+          "original": "こんな"
+        },
+        {
+          "original": "乱暴",
+          "annotation": "らんぼう"
+        },
+        {
+          "original": "な"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "を"
+        },
+        {
+          "original": "許",
+          "annotation": "ゆる"
+        },
+        {
+          "original": "して"
+        }
+      ],
+      "lyric": "こんな乱暴な私を許して",
+      "translation": "请原谅如此乱来的我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "きっと"
+        },
+        {
+          "original": "やり遂",
+          "annotation": "と"
+        },
+        {
+          "original": "げるから"
+        }
+      ],
+      "lyric": "きっとやり遂げるから",
+      "translation": "因为我相信我一定会成功"
+    },
+    {
+      "annotation": [
+        {
+          "original": "これはバッドエンドなんかじゃない"
+        }
+      ],
+      "lyric": "これはバッドエンドなんかじゃない",
+      "translation": "这可不能说是什么坏结局"
+    },
+    {
+      "annotation": [
+        {
+          "original": "どこに"
+        },
+        {
+          "original": "居",
+          "annotation": "い"
+        },
+        {
+          "original": "たとしても"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "は"
+        }
+      ],
+      "lyric": "どこに居たとしても私は",
+      "translation": "无论我身处何地 我也会对自己说"
+    },
+    {
+      "annotation": [
+        {
+          "original": "そう"
+        },
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        },
+        {
+          "original": "で"
+        },
+        {
+          "original": "一人",
+          "annotation": "ひとり"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "オリジナル"
+        }
+      ],
+      "lyric": "そう世界で一人のオリジナル",
+      "translation": "没错 我就是这世界独一无二的原创"
+    },
+    {
+      "annotation": [
+        {
+          "original": "誇",
+          "annotation": "ほこ"
+        },
+        {
+          "original": "らしく"
+        },
+        {
+          "original": "思",
+          "annotation": "おも"
+        },
+        {
+          "original": "ってくれたら"
+        },
+        {
+          "original": "嬉",
+          "annotation": "うれ"
+        },
+        {
+          "original": "しいな"
+        }
+      ],
+      "lyric": "誇らしく思ってくれたら嬉しいな",
+      "translation": "如果你能以此为豪 我会感到很高兴"
+    },
+    {
+      "annotation": [
+        {
+          "original": "境界",
+          "annotation": "きょうかい"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "線",
+          "annotation": "せん"
+        },
+        {
+          "original": "で"
+        },
+        {
+          "original": "切",
+          "annotation": "き"
+        },
+        {
+          "original": "り"
+        },
+        {
+          "original": "分",
+          "annotation": "わ"
+        },
+        {
+          "original": "けた"
+        },
+        {
+          "original": "こちら"
+        },
+        {
+          "original": "側",
+          "annotation": "がわ"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        },
+        {
+          "original": "じゃ"
+        }
+      ],
+      "lyric": "境界の線で切り分けたこちら側の世界じゃ",
+      "translation": "这里是被境界线划分出的另一侧的世界"
+    },
+    {
+      "annotation": [
+        {
+          "original": "今日",
+          "annotation": "きょう"
+        },
+        {
+          "original": "だって"
+        }
+      ],
+      "lyric": "今日だって",
+      "translation": "即使今天"
+    },
+    {
+      "annotation": [
+        {
+          "original": "呑気",
+          "annotation": "のんき"
+        },
+        {
+          "original": "な"
+        },
+        {
+          "original": "天使",
+          "annotation": "てんし"
+        },
+        {
+          "original": "が"
+        },
+        {
+          "original": "あくびする"
+        }
+      ],
+      "lyric": "呑気な天使があくびする",
+      "translation": "悠闲的天使却在打哈欠"
+    },
+    {
+      "annotation": [
+        {
+          "original": "気付",
+          "annotation": "きづ"
+        },
+        {
+          "original": "いて"
+        },
+        {
+          "original": "しまった"
+        },
+        {
+          "original": "悪",
+          "annotation": "あく"
+        },
+        {
+          "original": "は"
+        }
+      ],
+      "lyric": "気付いてしまった悪は",
+      "translation": "即使是偶然察觉的邪恶"
+    },
+    {
+      "annotation": [
+        {
+          "original": "見逃",
+          "annotation": "みのが"
+        },
+        {
+          "original": "せないから"
+        }
+      ],
+      "lyric": "見逃せないから",
+      "translation": "也绝不能放过"
+    },
+    {
+      "annotation": [
+        {
+          "original": "帰",
+          "annotation": "かえ"
+        },
+        {
+          "original": "り道",
+          "annotation": "みち"
+        },
+        {
+          "original": "を"
+        },
+        {
+          "original": "交換",
+          "annotation": "こうかん"
+        },
+        {
+          "original": "しよう"
+        }
+      ],
+      "lyric": "帰り道を交換しよう",
+      "translation": "让我们交换返程的道路吧"
+    },
+    {
+      "annotation": [
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "が"
+        },
+        {
+          "original": "希望",
+          "annotation": "きぼう"
+        },
+        {
+          "original": "になるの"
+        }
+      ],
+      "lyric": "私が希望になるの",
+      "translation": "我会成为你的希望"
+    },
+    {
+      "annotation": [
+        {
+          "original": "お別",
+          "annotation": "わか"
+        },
+        {
+          "original": "れは"
+        },
+        {
+          "original": "少",
+          "annotation": "すこ"
+        },
+        {
+          "original": "し"
+        },
+        {
+          "original": "寂",
+          "annotation": "さみ"
+        },
+        {
+          "original": "しいけれど"
+        }
+      ],
+      "lyric": "お別れは少し寂しいけれど",
+      "translation": "虽然分别令我稍感落寞"
+    },
+    {
+      "annotation": [
+        {
+          "original": "いつか"
+        },
+        {
+          "original": "目尻",
+          "annotation": "めじり"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "作",
+          "annotation": "つく"
+        },
+        {
+          "original": "った"
+        },
+        {
+          "original": "傷",
+          "annotation": "きず"
+        },
+        {
+          "original": "も"
+        }
+      ],
+      "lyric": "いつか目尻に作った傷も",
+      "translation": "不知何时在我眼角留下的伤痕"
+    },
+    {
+      "annotation": [
+        {
+          "original": "理不尽",
+          "annotation": "りふじん"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "立",
+          "annotation": "た"
+        },
+        {
+          "original": "ち向",
+          "annotation": "む"
+        },
+        {
+          "original": "かった"
+        },
+        {
+          "original": "証",
+          "annotation": "あかし"
+        },
+        {
+          "original": "だから"
+        }
+      ],
+      "lyric": "理不尽に立ち向かった証だから",
+      "translation": "是我曾面对过不讲理的命运的证明"
+    },
+    {
+      "annotation": [
+        {
+          "original": "いつかハッピーエンドになるまで"
+        }
+      ],
+      "lyric": "いつかハッピーエンドになるまで",
+      "translation": "直到某天我们构成完美结局之前"
+    },
+    {
+      "annotation": [
+        {
+          "original": "世界",
+          "annotation": "せかい"
+        },
+        {
+          "original": "を"
+        },
+        {
+          "original": "相手",
+          "annotation": "あいて"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "戦",
+          "annotation": "たたか"
+        },
+        {
+          "original": "うの"
+        }
+      ],
+      "lyric": "世界を相手に戦うの",
+      "translation": "就将世界作为对手与之对抗吧"
+    },
+    {
+      "annotation": [
+        {
+          "original": "こんな"
+        },
+        {
+          "original": "乱暴",
+          "annotation": "らんぼう"
+        },
+        {
+          "original": "な"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "をずっと"
+        }
+      ],
+      "lyric": "こんな乱暴な私をずっと",
+      "translation": "对于这样总是乱来的我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "愛",
+          "annotation": "あい"
+        },
+        {
+          "original": "してくれてありがとう"
+        }
+      ],
+      "lyric": "愛してくれてありがとう",
+      "translation": "感谢你一直包容着爱着我"
+    },
+    {
+      "annotation": [
+        {
+          "original": "これはバッドエンドなんかじゃない"
+        }
+      ],
+      "lyric": "これはバッドエンドなんかじゃない",
+      "translation": "我保证这绝对不会是什么坏结局"
+    },
+    {
+      "annotation": [
+        {
+          "original": "どこに"
+        },
+        {
+          "original": "居",
+          "annotation": "い"
+        },
+        {
+          "original": "たとしても"
+        },
+        {
+          "original": "私",
+          "annotation": "わたし"
+        },
+        {
+          "original": "は"
+        }
+      ],
+      "lyric": "どこに居たとしても私は",
+      "translation": "无论你身处何地 我也会对你说"
+    },
+    {
+      "annotation": [
+        {
+          "original": "あなたの"
+        },
+        {
+          "original": "唯一無二",
+          "annotation": "ゆいつむに"
+        },
+        {
+          "original": "の"
+        },
+        {
+          "original": "オリジナル"
+        }
+      ],
+      "lyric": "あなたの唯一無二のオリジナル",
+      "translation": "你都是这世界独一无二的原创"
+    },
+    {
+      "annotation": [
+        {
+          "original": "誇",
+          "annotation": "ほこ"
+        },
+        {
+          "original": "らしく"
+        },
+        {
+          "original": "生",
+          "annotation": "い"
+        },
+        {
+          "original": "きるよ"
+        }
+      ],
+      "lyric": "誇らしく生きるよ",
+      "translation": "请昂首挺胸地活下去"
+    },
+    {
+      "annotation": [
+        {
+          "original": "さあ"
+        },
+        {
+          "original": "在",
+          "annotation": "あ"
+        },
+        {
+          "original": "るべき"
+        },
+        {
+          "original": "場所",
+          "annotation": "ばしょ"
+        },
+        {
+          "original": "に"
+        },
+        {
+          "original": "帰",
+          "annotation": "かえ"
+        },
+        {
+          "original": "ろう"
+        }
+      ],
+      "lyric": "さあ在るべき場所に帰ろう",
+      "translation": "让我们回到原本的人生轨迹吧"
+    },
+    {
+      "annotation": [
+        {
+          "original": "さよならを"
+        },
+        {
+          "original": "告",
+          "annotation": "つ"
+        },
+        {
+          "original": "げたセブンティーン"
+        }
+      ],
+      "lyric": "さよならを告げたセブンティーン",
+      "translation": "这就是我们宣告再见的十七岁"
+    }
+  ]
+}

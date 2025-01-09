@@ -7,6 +7,7 @@
     "yoasobi"
   ],
   "conventionalCommits.scopes": [
-    "shema"
+    "shema",
+    "data"
   ]
 }

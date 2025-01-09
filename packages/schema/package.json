@@ -10,7 +10,7 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "build": "typescript-json-schema tsconfig.json SongJsonSchema -o schema.json"
+    "build": "typescript-json-schema tsconfig.json SongJsonSchema -o schema.json --required"
   },
   "exports": {
     "./type": "./index.ts",
