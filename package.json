@@ -11,5 +11,8 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "prepare": "bun --filter @nl/schema build"
+  }
 }

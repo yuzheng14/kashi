@@ -1,0 +1,19 @@
+{
+  "name": "@nl/schema",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript-json-schema": "^0.65.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "typescript-json-schema tsconfig.json SongJsonSchema -o schema.json"
+  },
+  "exports": {
+    "./type": "./index.ts",
+    "./json": "./schema.json"
+  }
+}
