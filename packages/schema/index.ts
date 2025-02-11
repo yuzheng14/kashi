@@ -20,6 +20,8 @@ interface SingleLineLyric {
   translation?: string
   /** the original lyric 原始歌词 */
   lyric: string
+  /** the romanization of the lyric 歌词罗马音 */
+  romanization: string
   annotation: AnnotatedLyricWord[]
 }
 

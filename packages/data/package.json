@@ -15,5 +15,8 @@
   },
   "exports": {
     ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "vite build"
   }
 }

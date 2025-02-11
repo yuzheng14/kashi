@@ -27,6 +27,9 @@ defineProps<{
         </template>
       </div>
       <div class="translation">{{ lyric.translation }}</div>
+      <div class="romanization">
+        {{ lyric.romanization }}
+      </div>
     </div>
   </div>
 </template>
@@ -48,11 +51,4 @@ rt {
   gap: 1rem;
   margin-top: 2rem;
 }
-
-/* .japanese {
-  margin-bottom: 0;
-}
-.translation {
-  margin-top: 0;
-} */
 </style>
