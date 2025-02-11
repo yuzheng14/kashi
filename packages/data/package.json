@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "@nl/schema": "workspace:*"
+  },
+  "exports": {
+    ".": "./dist/index.js"
   }
 }
