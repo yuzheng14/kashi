@@ -265,7 +265,7 @@
         { "original": "言葉", "annotation": "ことば" },
         { "original": "に" },
         { "original": "また" },
-        { "original": "一人" },
+        { "original": "一人", "annotation": "ひとり" },
         { "original": "堕", "annotation": "お" },
         { "original": "ちる" }
       ]
