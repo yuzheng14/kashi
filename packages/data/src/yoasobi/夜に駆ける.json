@@ -1,0 +1,751 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "夜に駆ける",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "沈むように溶けてゆくように",
+      "translation": "像是沉溺溶化一般",
+      "romanization": "shi zu mu you ni to ke te yuku you ni",
+      "annotation": [
+        { "original": "沈", "annotation": "しず" },
+        { "original": "むように" },
+        { "original": "溶", "annotation": "と" },
+        { "original": "けてゆくように" }
+      ]
+    },
+    {
+      "lyric": "二人だけの空が広がる夜に",
+      "translation": "在只有你我二人的广阔夜空之下",
+      "romanization": "fu ta ri dake no sora ga hi ro ga ru yoru ni",
+      "annotation": [
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "だけの" },
+        { "original": "空", "annotation": "そら" },
+        { "original": "が" },
+        { "original": "広", "annotation": "ひろ" },
+        { "original": "がる" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "「さよなら」だけだった",
+      "translation": "你只留下了一句「再见了」",
+      "romanization": "sa yo na ra da ke da tta",
+      "annotation": [
+        { "original": "「さよなら」" },
+        { "original": "だけ" },
+        { "original": "だった" }
+      ]
+    },
+    {
+      "lyric": "その一言で全てが分かった",
+      "translation": "但仅仅这三个字我就明白了一切",
+      "romanization": "so no hi to ko to de su be te ga wa ka tta",
+      "annotation": [
+        { "original": "その" },
+        { "original": "一言", "annotation": "ひとこと" },
+        { "original": "で" },
+        { "original": "全", "annotation": "すべ" },
+        { "original": "てが" },
+        { "original": "分", "annotation": "わ" },
+        { "original": "かった" }
+      ]
+    },
+    {
+      "lyric": "日が沈み出した空と君の姿",
+      "translation": "日落时分的天空与你的身影",
+      "romanization": "hi ga si zu mi da si ta so ra to ki mi no su ga ta",
+      "annotation": [
+        { "original": "日", "annotation": "ひ" },
+        { "original": "が" },
+        { "original": "沈", "annotation": "しず" },
+        { "original": "み出", "annotation": "だ" },
+        { "original": "した" },
+        { "original": "空", "annotation": "そら" },
+        { "original": "と" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "姿", "annotation": "すがた" }
+      ]
+    },
+    {
+      "lyric": "フェンス越しに重なっていた",
+      "translation": "在围栏的外侧重叠在一起",
+      "romanization": "fe nn su go si ni ta na tte i ta",
+      "annotation": [
+        { "original": "フェンス" },
+        { "original": "越", "annotation": "ご" },
+        { "original": "しに" },
+        { "original": "重", "annotation": "かさ" },
+        { "original": "なっていた" }
+      ]
+    },
+    {
+      "lyric": "初めて会った日から",
+      "translation": "从相遇的那天开始",
+      "romanization": "ha ji me te a tta hi ka ra",
+      "annotation": [
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めて" },
+        { "original": "会", "annotation": "あ" },
+        { "original": "った" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "僕の心の全てを奪った",
+      "translation": "我的内心全部都被你夺去",
+      "romanization": "bo ku no ko ko ro no su be te wo u ba tta",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "の" },
+        { "original": "心", "annotation": "こころ" },
+        { "original": "の" },
+        { "original": "全", "annotation": "すべ" },
+        { "original": "てを" },
+        { "original": "奪", "annotation": "うば" },
+        { "original": "った" }
+      ]
+    },
+    {
+      "lyric": "どこか儚い空気を纏う君は",
+      "translation": "缠绕着飘渺氤氲的你",
+      "romanization": "do ko ka ha ka na i kuu ki wo ma to u ki mi ha",
+      "annotation": [
+        { "original": "どこか" },
+        { "original": "儚", "annotation": "はかな" },
+        { "original": "い" },
+        { "original": "空気", "annotation": "くうき" },
+        { "original": "を" },
+        { "original": "纏", "annotation": "まと" },
+        { "original": "う" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "寂しい目をしてたんだ",
+      "translation": "眼神却显得如此寂寞",
+      "romanization": "sa bi shi i me wo si te tann da",
+      "annotation": [
+        { "original": "寂", "annotation": "さび" },
+        { "original": "しい" },
+        { "original": "目", "annotation": "め" },
+        { "original": "を" },
+        { "original": "してたんだ" }
+      ]
+    },
+    {
+      "lyric": "いつだってチックタックと",
+      "translation": "在这时针不停转动的世界里",
+      "romanization": "i tsu da tte chi kku ta kku to",
+      "annotation": [
+        { "original": "いつだって" },
+        { "original": "チックタック" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "鳴る世界で何度だってさ",
+      "translation": "无论多少次",
+      "romanization": "na ru se ka i de na nn do da tte sa",
+      "annotation": [
+        { "original": "鳴", "annotation": "な" },
+        { "original": "る" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "で" },
+        { "original": "何度", "annotation": "なんど" },
+        { "original": "だってさ" }
+      ]
+    },
+    {
+      "lyric": "触れる心無い言葉うるさい声に",
+      "translation": "去触碰那残酷之言刺耳之声",
+      "romanization": "hu re ru ko ko ro na i ko to ba u ru sa i ko e ni",
+      "annotation": [
+        { "original": "触", "annotation": "ふ" },
+        { "original": "れる" },
+        { "original": "心無", "annotation": "こころな" },
+        { "original": "い" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "うるさい" },
+        { "original": "声", "annotation": "こえ" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "涙が零れそうでも",
+      "translation": "都会泫然欲泣",
+      "romanization": "na mi da ga o bo re so u de mo",
+      "annotation": [
+        { "original": "涙", "annotation": "なみだ" },
+        { "original": "が" },
+        { "original": "零", "annotation": "おぼ" },
+        { "original": "れそうでも" }
+      ]
+    },
+    {
+      "lyric": "ありきたりな喜びきっと二人なら見つけられる",
+      "translation": "但若是两个人的话 一定能寻找到属于我们的平凡的喜悦",
+      "romanization": "a ri ki ta ri na yo ro ko bi ki tto hu ta ri na ra mi tsu ke ra re ru",
+      "annotation": [
+        { "original": "ありきたりな" },
+        { "original": "喜", "annotation": "よろこ" },
+        { "original": "び" },
+        { "original": "きっと" },
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "なら" },
+        { "original": "見", "annotation": "み" },
+        { "original": "つけられる" }
+      ]
+    },
+    {
+      "lyric": "騒がしい日々に笑えない君に",
+      "translation": "为在喧嚣的日子里失去笑容的你",
+      "romanization": "sa wa ga shi i hi bi ni wa ra e na i ki mi ni",
+      "annotation": [
+        { "original": "騒", "annotation": "さわ" },
+        { "original": "がしい" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" },
+        { "original": "笑", "annotation": "わら" },
+        { "original": "えない" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "思い付く限り眩しい明日を",
+      "translation": "献上所能想象到的一切耀眼的明天",
+      "romanization": "o mo i tsu ku ka gi ri ma bu si i a si su wo",
+      "annotation": [
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "付", "annotation": "つ" },
+        { "original": "く" },
+        { "original": "限", "annotation": "かぎ" },
+        { "original": "り" },
+        { "original": "眩", "annotation": "まぶ" },
+        { "original": "しい" },
+        { "original": "明日", "annotation": "あす" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "明けない夜に落ちてゆく前に",
+      "translation": "在坠入永不破晓的黑夜之前",
+      "romanization": "a ke na i yo ru ni o chi te yu ku ma e ni",
+      "annotation": [
+        { "original": "明", "annotation": "あ" },
+        { "original": "けない" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "に" },
+        { "original": "落", "annotation": "お" },
+        { "original": "ちてゆく" },
+        { "original": "前", "annotation": "まえ" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "僕の手を掴んでほら",
+      "translation": "来 抓住我的手吧",
+      "romanization": "bo ku no te wo tsu ka nn de ho ra",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "の" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "掴", "annotation": "つか" },
+        { "original": "んで" },
+        { "original": "ほら" }
+      ]
+    },
+    {
+      "lyric": "忘れてしまいたくて閉じ込めた日々も",
+      "translation": "即使是那些想要尽数忘却的封闭的日子",
+      "romanization": "wa su re te si ma i ta ku te to ji ko me ta hi bi mo",
+      "annotation": [
+        { "original": "忘", "annotation": "わす" },
+        { "original": "れて" },
+        { "original": "しまいたくて" },
+        { "original": "閉", "annotation": "と" },
+        { "original": "じ込", "annotation": "こ" },
+        { "original": "めた" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "抱きしめた温もりで溶かすから",
+      "translation": "我也会用相拥时的温暖将其溶化",
+      "romanization": "da ki si me ta nu ku mo ri de to ka su ka ra",
+      "annotation": [
+        { "original": "抱", "annotation": "だ" },
+        { "original": "きしめた" },
+        { "original": "温", "annotation": "ぬく" },
+        { "original": "もりで" },
+        { "original": "溶", "annotation": "と" },
+        { "original": "かす" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "怖くないよいつか日が昇るまで",
+      "translation": "没有什么害怕的哦 直到黎明再次降临",
+      "romanization": "ko wa ku na i yo i tsu ka hi ga no bo ru ma de",
+      "annotation": [
+        { "original": "怖", "annotation": "こわ" },
+        { "original": "くないよ" },
+        { "original": "いつか" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "が" },
+        { "original": "昇", "annotation": "のぼ" },
+        { "original": "る" },
+        { "original": "まで" }
+      ]
+    },
+    {
+      "lyric": "二人でいよう",
+      "translation": "两人紧紧相依吧",
+      "romanization": "hu ta ri de i yo u",
+      "annotation": [
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "で" },
+        { "original": "いよう" }
+      ]
+    },
+    {
+      "lyric": "君にしか見えない",
+      "translation": "讨厌总是注视着",
+      "romanization": "ki mi ni si ka mi e na i",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "に" },
+        { "original": "しか" },
+        { "original": "見", "annotation": "み" },
+        { "original": "えない" }
+      ]
+    },
+    {
+      "lyric": "何かを見つめる君が嫌いだ",
+      "translation": "我所看不见的东西的你",
+      "romanization": "na ni ka wo mi tsu me ru ki mi ga ki ra i da",
+      "annotation": [
+        { "original": "何", "annotation": "なに" },
+        { "original": "かを" },
+        { "original": "見", "annotation": "み" },
+        { "original": "つめる" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "が" },
+        { "original": "嫌", "annotation": "きら" },
+        { "original": "いだ" }
+      ]
+    },
+    {
+      "lyric": "見惚れているかのような恋するような",
+      "translation": "讨厌你那看得入迷一般",
+      "romanization": "mi to re te i ru ka no yo u na ko i su ru yo u na",
+      "annotation": [
+        { "original": "見惚", "annotation": "みと" },
+        { "original": "れているかのような" },
+        { "original": "恋", "annotation": "こい" },
+        { "original": "するような" }
+      ]
+    },
+    {
+      "lyric": "そんな顔が嫌いだ",
+      "translation": "坠入爱河一般的表情啊",
+      "romanization": "so nn na ka o ga ki ra i da",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "顔", "annotation": "かお" },
+        { "original": "が" },
+        { "original": "嫌", "annotation": "きら" },
+        { "original": "いだ" }
+      ]
+    },
+    {
+      "lyric": "信じていたいけど信じれないこと",
+      "translation": "虽然曾想要去相信却无法相信",
+      "romanization": "si nn ji te i ta i ke do si nn ji re na i ko to",
+      "annotation": [
+        { "original": "信", "annotation": "しん" },
+        { "original": "じていたいけど" },
+        { "original": "信", "annotation": "しん" },
+        { "original": "じれない" },
+        { "original": "こと" }
+      ]
+    },
+    {
+      "lyric": "そのたんび怒って泣いていくの",
+      "translation": "那时一定会生气地哭出来吧",
+      "romanization": "so no ta nn bi o ko tte na i te i ku no",
+      "annotation": [
+        { "original": "その" },
+        { "original": "たんび" },
+        { "original": "怒", "annotation": "おこ" },
+        { "original": "って" },
+        { "original": "泣", "annotation": "な" },
+        { "original": "いていくの" }
+      ]
+    },
+    {
+      "lyric": "それでもきっといつかはきっと僕らはきっと",
+      "translation": "即便如此我仍然相信着 终有一天我们一定能够",
+      "romanization": "so re de mo ki tto i tsu ka ha ki tto bo ku ra ha ki tto",
+      "annotation": [
+        { "original": "それでも" },
+        { "original": "きっと" },
+        { "original": "いつかは" },
+        { "original": "きっと" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らは" },
+        { "original": "きっと" }
+      ]
+    },
+    {
+      "lyric": "分かり合えるさ信じてるよ",
+      "translation": "心意相通",
+      "romanization": "wa ka ri a e ru sa shi nn ji te ru yo",
+      "annotation": [
+        { "original": "分", "annotation": "わ" },
+        { "original": "かり" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "えるさ" },
+        { "original": "信", "annotation": "しん" },
+        { "original": "じてるよ" }
+      ]
+    },
+    {
+      "lyric": "もう嫌だって疲れたんだって",
+      "translation": "你说着「已经受够了啊」「已经疲惫了啊」",
+      "romanization": "mo u i ya da tte tsu ka re ta nn da tte",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "嫌", "annotation": "いや" },
+        { "original": "だって" },
+        { "original": "疲", "annotation": "つか" },
+        { "original": "れたんだって" }
+      ]
+    },
+    {
+      "lyric": "がむしゃらに差し伸べた僕の手を振り払う君",
+      "translation": "将我不顾一切向你伸出的手甩开",
+      "romanization": "ga mu sya ra ni sa si no be ta bo ku no te wo hu ri ha ra u ki mi",
+      "annotation": [
+        { "original": "がむしゃらに" },
+        { "original": "差", "annotation": "さ" },
+        { "original": "し" },
+        { "original": "伸", "annotation": "の" },
+        { "original": "べた" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "の" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "振", "annotation": "ふ" },
+        { "original": "り" },
+        { "original": "払", "annotation": "はら" },
+        { "original": "う" },
+        { "original": "君", "annotation": "きみ" }
+      ]
+    },
+    {
+      "lyric": "もう嫌だって疲れたよなんて",
+      "translation": "「已经受够了啊」「已经疲惫了啊」",
+      "romanization": "mo u i ya da tte tsu ka re ta yo na nn te",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "嫌", "annotation": "いや" },
+        { "original": "だって" },
+        { "original": "疲", "annotation": "つか" },
+        { "original": "れたよなんて" }
+      ]
+    },
+    {
+      "lyric": "本当は僕も言いたいんだ",
+      "translation": "其实我也想这样说啊",
+      "romanization": "ho nn to u ha bo ku mo i i ta i nn da",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "は" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "も" },
+        { "original": "言", "annotation": "い" },
+        { "original": "いたいんだ" }
+      ]
+    },
+    {
+      "lyric": "ほらまたチックタックと",
+      "translation": "看啊 在这时针仍然不停转动的世界里",
+      "romanization": "ho ra ma ta che kku da kku to",
+      "annotation": [
+        { "original": "ほら" },
+        { "original": "また" },
+        { "original": "チックタックと" }
+      ]
+    },
+    {
+      "lyric": "鳴る世界で何度だってさ",
+      "translation": "无论多少次",
+      "romanization": "na ru se ka i de na nn do da tte sa",
+      "annotation": [
+        { "original": "鳴", "annotation": "な" },
+        { "original": "る" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "で" },
+        { "original": "何度", "annotation": "なんど" },
+        { "original": "だってさ" }
+      ]
+    },
+    {
+      "lyric": "君の為に用意した言葉どれも届かない",
+      "translation": "为了你而准备的话语一句都不能传达给你",
+      "romanization": "ki mi no ta me ni you i si ta ko to ba do re mo to do ka na i",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "為", "annotation": "ため" },
+        { "original": "に" },
+        { "original": "用意", "annotation": "ようい" },
+        { "original": "した" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "どれも" },
+        { "original": "届", "annotation": "とど" },
+        { "original": "かない" }
+      ]
+    },
+    {
+      "lyric": "「終わりにしたい」だなんてさ",
+      "translation": "「想要结束了啊」",
+      "romanization": "o wa ri ni shi ta i da na nn te sa",
+      "annotation": [
+        { "original": "「" },
+        { "original": "終", "annotation": "お" },
+        { "original": "わりにしたい" },
+        { "original": "」" },
+        { "original": "だなんてさ" }
+      ]
+    },
+    {
+      "lyric": "釣られて言葉にした時",
+      "translation": "当我不由说出这句话的时候",
+      "romanization": "tsu ra re te ko to ba ni shi ta to ki",
+      "annotation": [
+        { "original": "釣", "annotation": "つ" },
+        { "original": "られて" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "にした" },
+        { "original": "時", "annotation": "とき" }
+      ]
+    },
+    {
+      "lyric": "君は初めて笑った",
+      "translation": "你第一次绽放了笑容",
+      "romanization": "ki mi ha ha ji me te wa ra tta",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" },
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めて" },
+        { "original": "笑", "annotation": "わら" },
+        { "original": "った" }
+      ]
+    },
+    {
+      "lyric": "騒がしい日々に笑えなくなっていた",
+      "translation": "在喧嚣的日子里失去笑容的你",
+      "romanization": "sa wa ga shi i hi bi ni wa ra e na ku na te i ta",
+      "annotation": [
+        { "original": "騒", "annotation": "さわ" },
+        { "original": "がしい" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" },
+        { "original": "笑", "annotation": "わら" },
+        { "original": "えなくなっていた" }
+      ]
+    },
+    {
+      "lyric": "僕の目に映る君は綺麗だ",
+      "translation": "在我的眼中却无比动人",
+      "romanization": "bo ku no me ni u tsu ru ki mi ha ki re i da",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "の" },
+        { "original": "目", "annotation": "め" },
+        { "original": "に" },
+        { "original": "映", "annotation": "うつ" },
+        { "original": "る" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" },
+        { "original": "綺麗", "annotation": "きれい" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "明けない夜に溢れた涙も",
+      "translation": "于永不破晓的黑夜里夺眶而出的眼泪",
+      "romanization": "a ke na i yo ru ni ko bo re ta na mi da mo",
+      "annotation": [
+        { "original": "明", "annotation": "あ" },
+        { "original": "けない" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "に" },
+        { "original": "溢", "annotation": "こぼ" },
+        { "original": "れた" },
+        { "original": "涙", "annotation": "なみだ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "君の笑顔に溶けていく",
+      "translation": "也会因为你的笑容而消散",
+      "romanization": "ki mi no e i ga o ni to ke te i ku",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "笑顔", "annotation": "えいがお" },
+        { "original": "に" },
+        { "original": "溶", "annotation": "と" },
+        { "original": "けていく" }
+      ]
+    },
+    {
+      "lyric": "変わらない日々に泣いていた僕を",
+      "translation": "你将于一层不变的日子里哭泣的我",
+      "romanization": "ka wa ra na i hi bi ni na i te i ta bo ku wo",
+      "annotation": [
+        { "original": "変", "annotation": "か" },
+        { "original": "わらない" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" },
+        { "original": "泣", "annotation": "な" },
+        { "original": "いていた" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "君は優しく終わりへと誘う",
+      "translation": "温柔地引向终结",
+      "romanization": "ki mi ha ya sa shi ku o wa ri he to sa so u",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" },
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しく" },
+        { "original": "終", "annotation": "お" },
+        { "original": "わりへと" },
+        { "original": "誘", "annotation": "さそ" },
+        { "original": "う" }
+      ]
+    },
+    {
+      "lyric": "沈むように溶けてゆくように",
+      "translation": "像是沉溺溶化一般",
+      "romanization": "si zu mu yo u ni to ke te yu ku yo u ni",
+      "annotation": [
+        { "original": "沈", "annotation": "しず" },
+        { "original": "むように" },
+        { "original": "溶", "annotation": "と" },
+        { "original": "けてゆくように" }
+      ]
+    },
+    {
+      "lyric": "染み付いた霧が晴れる",
+      "translation": "染上的氤氲终于散开",
+      "romanization": "si mi tsu i ta ki ri ga ha re ru",
+      "annotation": [
+        { "original": "染", "annotation": "し" },
+        { "original": "み付", "annotation": "つ" },
+        { "original": "いた" },
+        { "original": "霧", "annotation": "きり" },
+        { "original": "が" },
+        { "original": "晴", "annotation": "は" },
+        { "original": "れる" }
+      ]
+    },
+    {
+      "lyric": "忘れてしまいたくて閉じ込めた日々に",
+      "translation": "在想要尽数忘却的封闭的日子中",
+      "romanization": "wa su re te shi ma i ta ku te to ji ko me ta hi bi ni",
+      "annotation": [
+        { "original": "忘", "annotation": "わす" },
+        { "original": "れてしまいたくて" },
+        { "original": "閉", "annotation": "とじ" },
+        { "original": "込", "annotation": "こ" },
+        { "original": "めた" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "差し伸べてくれた君の手を取る",
+      "translation": "紧握住你向我伸出的双手",
+      "romanization": "sa si no be te ku re ta ki mi no te wo to ru",
+      "annotation": [
+        { "original": "差", "annotation": "さ" },
+        { "original": "し" },
+        { "original": "伸", "annotation": "の" },
+        { "original": "べてくれた" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "取", "annotation": "と" },
+        { "original": "る" }
+      ]
+    },
+    {
+      "lyric": "涼しい風が空を泳ぐように今吹き抜けていく",
+      "translation": "凉爽的风如同泳于夜空一般吹拂而过",
+      "romanization": "su zu shi i ka ze ga so ra wo o yo gu you ni i ma hu ki nu ke te i ku",
+      "annotation": [
+        { "original": "涼", "annotation": "すず" },
+        { "original": "しい" },
+        { "original": "風", "annotation": "かぜ" },
+        { "original": "が" },
+        { "original": "空", "annotation": "そら" },
+        { "original": "を" },
+        { "original": "泳", "annotation": "およ" },
+        { "original": "ぐように" },
+        { "original": "今", "annotation": "いま" },
+        { "original": "吹", "annotation": "ふ" },
+        { "original": "き" },
+        { "original": "抜", "annotation": "ぬ" },
+        { "original": "けていく" }
+      ]
+    },
+    {
+      "lyric": "繋いだ手を離さないでよ",
+      "translation": "不要松开紧紧牵住的双手哦",
+      "romanization": "tsu na ga i da te wo ha na sa na i de yo",
+      "annotation": [
+        { "original": "繋", "annotation": "つなが" },
+        { "original": "いだ" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "離", "annotation": "はな" },
+        { "original": "さないでよ" }
+      ]
+    },
+    {
+      "lyric": "二人今、夜に駆け出していく",
+      "translation": "两人现在，向夜晚飞奔而去",
+      "romanization": "hu ta ri i ma yo ru ni ka ke da si te i ku",
+      "annotation": [
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "今", "annotation": "いま" },
+        { "original": "、" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "に" },
+        { "original": "駆", "annotation": "か" },
+        { "original": "け" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "していく" }
+      ]
+    }
+  ]
+}
