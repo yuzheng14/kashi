@@ -1,0 +1,647 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "祝福",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "遥か遠くに浮かぶ星を",
+      "translation": "在遥远深空漂浮的星球",
+      "romanization": "haru ka too ku ni u ka bu hoshi o",
+      "annotation": [
+        { "original": "遥", "annotation": "はる" },
+        { "original": "か" },
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くに" },
+        { "original": "浮", "annotation": "う" },
+        { "original": "かぶ" },
+        { "original": "星", "annotation": "ほし" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "思い眠りにつく君の",
+      "translation": "思念着它入睡的你",
+      "romanization": "omo i nemu ri ni tsu ku kimi no",
+      "annotation": [
+        { "original": "想", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "眠", "annotation": "ねむ" },
+        { "original": "りにつく" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "選ぶ未来が望む道が",
+      "translation": "所选择的未来 所向往的道路",
+      "romanization": "era bu mirai ga nozo mu michi ga",
+      "annotation": [
+        { "original": "選", "annotation": "えら" },
+        { "original": "ぶ" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "が" },
+        { "original": "望", "annotation": "のぞ" },
+        { "original": "む" },
+        { "original": "道", "annotation": "みち" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "何処へ続いていても",
+      "translation": "无论通往何处",
+      "romanization": "doko e tsudu i te i te mo",
+      "annotation": [
+        { "original": "何処", "annotation": "どこ" },
+        { "original": "へ" },
+        { "original": "続", "annotation": "つづ" },
+        { "original": "いていても" }
+      ]
+    },
+    {
+      "lyric": "共に生きるから",
+      "translation": "我都会伴随在你身边",
+      "romanization": "tomo ni i ki ru ka ra",
+      "annotation": [
+        { "original": "共", "annotation": "とも" },
+        { "original": "に" },
+        { "original": "生", "annotation": "い" },
+        { "original": "きるから" }
+      ]
+    },
+    {
+      "lyric": "ずっと昔の記憶",
+      "translation": "这是很久以前的记忆",
+      "romanization": "zu tto mukashi no kioku",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "昔", "annotation": "むかし" },
+        { "original": "の" },
+        { "original": "記憶", "annotation": "きおく" }
+      ]
+    },
+    {
+      "lyric": "連れられて来たこの星で君は",
+      "translation": "被带来到这颗星球上的你",
+      "romanization": "tsu re ra re te ki ta ko no hoshi de kimi wa",
+      "annotation": [
+        { "original": "連", "annotation": "つ" },
+        { "original": "れられて" },
+        { "original": "来", "annotation": "き" },
+        { "original": "た" },
+        { "original": "この" },
+        { "original": "星", "annotation": "ほし" },
+        { "original": "で" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "願い続けてた",
+      "translation": "一直在许愿",
+      "romanization": "nega i tsudu ke te ta",
+      "annotation": [
+        { "original": "願", "annotation": "ねが" },
+        { "original": "い" },
+        { "original": "続", "annotation": "つづ" },
+        { "original": "けてた" }
+      ]
+    },
+    {
+      "lyric": "遠くで煌めく景色に",
+      "translation": "遥远且闪耀的景色",
+      "romanization": "too ku de kira me ku keshiki ni",
+      "annotation": [
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くで" },
+        { "original": "煌", "annotation": "きら" },
+        { "original": "めく" },
+        { "original": "景色", "annotation": "けしき" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "飛び込むことが出来たのなら",
+      "translation": "如果能飞入其中的话",
+      "romanization": "to bi ko mu ko to ga deki ta no na ra",
+      "annotation": [
+        { "original": "飛", "annotation": "と" },
+        { "original": "び" },
+        { "original": "込", "annotation": "こ" },
+        { "original": "むことが" },
+        { "original": "出来", "annotation": "でき" },
+        { "original": "たのなら" }
+      ]
+    },
+    {
+      "lyric": "一人孤独な世界で",
+      "translation": "独身一人处在孤独的世界中",
+      "romanization": "hitori kodoku na sekai de",
+      "annotation": [
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "孤独", "annotation": "こどく" },
+        { "original": "な" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "祈り願う",
+      "translation": "许下愿望",
+      "romanization": "ino ri nega u",
+      "annotation": [
+        { "original": "祈", "annotation": "いの" },
+        { "original": "り" },
+        { "original": "願", "annotation": "ねが" },
+        { "original": "う" }
+      ]
+    },
+    {
+      "lyric": "夢を描き",
+      "translation": "描绘梦想",
+      "romanization": "yume o ega ki",
+      "annotation": [
+        { "original": "夢", "annotation": "ゆめ" },
+        { "original": "を" },
+        { "original": "描", "annotation": "えが" },
+        { "original": "き" }
+      ]
+    },
+    {
+      "lyric": "未来を見る",
+      "translation": "看见未来",
+      "romanization": "mirai o mi ru",
+      "annotation": [
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "を" },
+        { "original": "見", "annotation": "み" },
+        { "original": "る" }
+      ]
+    },
+    {
+      "lyric": "逃げ出すよりも進むことを",
+      "translation": "与其逃避不如前进",
+      "romanization": "ni ge da su yo ri mo susu mu ko to o",
+      "annotation": [
+        { "original": "逃", "annotation": "に" },
+        { "original": "げ" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "すよりも" },
+        { "original": "進", "annotation": "すす" },
+        { "original": "むことを" }
+      ]
+    },
+    {
+      "lyric": "君が選んだのなら",
+      "translation": "如果你是这样选择的话",
+      "romanization": "kimi ga eran da no na ra",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "が" },
+        { "original": "選", "annotation": "えら" },
+        { "original": "んだのなら" }
+      ]
+    },
+    {
+      "lyric": "誰かが描いたイメージじゃなくて",
+      "translation": "这不是谁描绘出来的景象",
+      "romanization": "dare ka ga ega i ta ime-ji ja na ku te",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かが" },
+        { "original": "描", "annotation": "えが" },
+        { "original": "いた" },
+        { "original": "イメージじゃなくて" }
+      ]
+    },
+    {
+      "lyric": "誰かが選んだステージじゃなくて",
+      "translation": "也不是谁选择的舞台",
+      "romanization": "dare ka ga eran da sute-ji ja na ku te",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かが" },
+        { "original": "選", "annotation": "えら" },
+        { "original": "んだ" },
+        { "original": "ステージじゃなくて" }
+      ]
+    },
+    {
+      "lyric": "僕たちが作っていくストーリー",
+      "translation": "而是我们一起创作的故事",
+      "romanization": "boku ta chi ga tsuku tte i ku suto-ri-",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "たちが" },
+        { "original": "作", "annotation": "つく" },
+        { "original": "っていく" },
+        { "original": "ストーリー" }
+      ]
+    },
+    {
+      "lyric": "決して一人にはさせないから",
+      "translation": "绝不会仅让一个人去书写",
+      "romanization": "ke shi te hitori ni wa sa se na i ka ra",
+      "annotation": [
+        { "original": "決", "annotation": "け" },
+        { "original": "して" },
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "には" },
+        { "original": "させない" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "いつかその胸に秘めた",
+      "translation": "直到某一天埋藏在胸中的",
+      "romanization": "i tsu ka so no mune ni hi me ta",
+      "annotation": [
+        { "original": "いつか" },
+        { "original": "その" },
+        { "original": "胸", "annotation": "むね" },
+        { "original": "に" },
+        { "original": "秘", "annotation": "ひ" },
+        { "original": "めた" }
+      ]
+    },
+    {
+      "lyric": "刃が鎖を断ち切るまで",
+      "translation": "刀刃将锁链割断为止",
+      "romanization": "yaiba ga kusari o ta chi ki ru ma de",
+      "annotation": [
+        { "original": "刃", "annotation": "やいば" },
+        { "original": "が" },
+        { "original": "鎖", "annotation": "くさり" },
+        { "original": "を" },
+        { "original": "断", "annotation": "た" },
+        { "original": "ち" },
+        { "original": "切", "annotation": "き" },
+        { "original": "るまで" }
+      ]
+    },
+    {
+      "lyric": "ずっと共に闘うよ",
+      "translation": "我们都会一起战斗的哦",
+      "romanization": "zu tto tomo ni tataka u yo",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "共", "annotation": "とも" },
+        { "original": "に" },
+        { "original": "闘", "annotation": "たたか" },
+        { "original": "うよ" }
+      ]
+    },
+    {
+      "lyric": "決め付けられた運命",
+      "translation": "将被决定了的命运",
+      "romanization": "ki me tsu ke ra re ta unmei",
+      "annotation": [
+        { "original": "決", "annotation": "き" },
+        { "original": "め" },
+        { "original": "付", "annotation": "つ" },
+        { "original": "けられた" },
+        { "original": "運命", "annotation": "うんめい" }
+      ]
+    },
+    {
+      "lyric": "そんなの壊して",
+      "translation": "尽数打破",
+      "romanization": "son na no kowa shi te",
+      "annotation": [
+        { "original": "そんなの" },
+        { "original": "壊", "annotation": "こわ" },
+        { "original": "して" }
+      ]
+    },
+    {
+      "lyric": "僕達は操り人形じゃない",
+      "translation": "我们并非任人操纵的傀儡",
+      "romanization": "bokutachi wa ayatsu ri ningyou ja na i",
+      "annotation": [
+        { "original": "僕達", "annotation": "ぼくたち" },
+        { "original": "は" },
+        { "original": "操", "annotation": "あやつ" },
+        { "original": "り" },
+        { "original": "人形", "annotation": "にんぎょう" },
+        { "original": "じゃない" }
+      ]
+    },
+    {
+      "lyric": "君の世界だ 君の未来だ",
+      "translation": "你的世界 你的未来",
+      "romanization": "kimi no sekai da  kimi no mirai da",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "だ" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "どんな物語にでも出来る",
+      "translation": "怎样的故事都可以发生",
+      "romanization": "don na monogatari ni de mo deki ru",
+      "annotation": [
+        { "original": "どんな" },
+        { "original": "物語", "annotation": "ものがたり" },
+        { "original": "にでも" },
+        { "original": "出来", "annotation": "でき" },
+        { "original": "る" }
+      ]
+    },
+    {
+      "lyric": "逃げる様に 隠れる様に",
+      "translation": "为了逃跑 为了隐瞒",
+      "romanization": "ni ge ru you ni  kaku re ru you ni",
+      "annotation": [
+        { "original": "逃", "annotation": "に" },
+        { "original": "げる" },
+        { "original": "様", "annotation": "よう" },
+        { "original": "に" },
+        { "original": "隠", "annotation": "かく" },
+        { "original": "れる" },
+        { "original": "様", "annotation": "よう" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "乗り込んで来たコクピットには",
+      "translation": "进入到驾驶舱中的",
+      "romanization": "no ri kon de ki ta kokupitto ni wa",
+      "annotation": [
+        { "original": "乗", "annotation": "の" },
+        { "original": "り" },
+        { "original": "込", "annotation": "こ" },
+        { "original": "んで" },
+        { "original": "来", "annotation": "き" },
+        { "original": "た" },
+        { "original": "コクピット" },
+        { "original": "には" }
+      ]
+    },
+    {
+      "lyric": "泣き虫な君はもう居ない",
+      "translation": "爱哭鬼的你已经不复存在",
+      "romanization": "na ki mushi na kimi wa mo u i na i",
+      "annotation": [
+        { "original": "泣", "annotation": "な" },
+        { "original": "き" },
+        { "original": "虫", "annotation": "むし" },
+        { "original": "な" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" },
+        { "original": "もう" },
+        { "original": "居", "annotation": "い" },
+        { "original": "ない" }
+      ]
+    },
+    {
+      "lyric": "いつの間にかこんなに強く",
+      "translation": "不知什么时候 你已经变得这么强大了",
+      "romanization": "i tsu no ma ni ka kon na ni tsuyo ku",
+      "annotation": [
+        { "original": "いつの" },
+        { "original": "間", "annotation": "ま" },
+        { "original": "にか" },
+        { "original": "こんなに" },
+        { "original": "強", "annotation": "つよ" },
+        { "original": "く" }
+      ]
+    },
+    {
+      "lyric": "これは君の人生",
+      "translation": "这便是你的人生",
+      "romanization": "ko re wa kimi no jinsei",
+      "annotation": [
+        { "original": "これは" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "人生", "annotation": "じんせい" }
+      ]
+    },
+    {
+      "lyric": "誰のものでもない",
+      "translation": "（不是某人的所有物）",
+      "romanization": "dare no mo no de mo na i",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "の" },
+        { "original": "ものでも" },
+        { "original": "ない" }
+      ]
+    },
+    {
+      "lyric": "それは答えなんて無い",
+      "translation": "人生是没有答案的",
+      "romanization": "so re wa kota e nan te na i",
+      "annotation": [
+        { "original": "それは" },
+        { "original": "答", "annotation": "こた" },
+        { "original": "えなんて" },
+        { "original": "無", "annotation": "な" },
+        { "original": "い" }
+      ]
+    },
+    {
+      "lyric": "自分で選ぶ道",
+      "translation": "（是自己选择的道路）",
+      "romanization": "jibun de era bu michi",
+      "annotation": [
+        { "original": "自分", "annotation": "じぶん" },
+        { "original": "で" },
+        { "original": "選", "annotation": "えら" },
+        { "original": "ぶ" },
+        { "original": "道", "annotation": "みち" }
+      ]
+    },
+    {
+      "lyric": "もう呪縛は解いて",
+      "translation": "已经解除了咒语的束缚",
+      "romanization": "mo u jubaku wa to i te",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "呪縛", "annotation": "じゅばく" },
+        { "original": "は" },
+        { "original": "解", "annotation": "と" },
+        { "original": "いて" }
+      ]
+    },
+    {
+      "lyric": "定められたフィクションから今",
+      "translation": "从既定的虚构幻象中 现在",
+      "romanization": "sada me ra re ta fikushon ka ra ima",
+      "annotation": [
+        { "original": "定", "annotation": "さだ" },
+        { "original": "められた" },
+        { "original": "フィクション" },
+        { "original": "から" },
+        { "original": "今", "annotation": "いま" }
+      ]
+    },
+    {
+      "lyric": "飛び出すんだ",
+      "translation": "已经飞了出来",
+      "romanization": "to bi da sun da",
+      "annotation": [
+        { "original": "飛", "annotation": "と" },
+        { "original": "び" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "すんだ" }
+      ]
+    },
+    {
+      "lyric": "飛び立つんだ",
+      "translation": "飞了起来",
+      "romanization": "to bi ta tsun da",
+      "annotation": [
+        { "original": "飛", "annotation": "と" },
+        { "original": "び" },
+        { "original": "立", "annotation": "た" },
+        { "original": "つんだ" }
+      ]
+    },
+    {
+      "lyric": "誰にも追いつけないスピードで",
+      "translation": "用谁也追不上的速度",
+      "romanization": "dare ni mo o i tsu ke na i supi-do de",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "にも" },
+        { "original": "追", "annotation": "お" },
+        { "original": "いつけない" },
+        { "original": "スピードで" }
+      ]
+    },
+    {
+      "lyric": "地面蹴り上げ空を舞う",
+      "translation": "从地面飞上天空起舞吧",
+      "romanization": "jimen ke ri a ge sora o ma u",
+      "annotation": [
+        { "original": "地面", "annotation": "じめん" },
+        { "original": "蹴", "annotation": "け" },
+        { "original": "り" },
+        { "original": "上", "annotation": "あ" },
+        { "original": "げ" },
+        { "original": "空", "annotation": "そら" },
+        { "original": "を" },
+        { "original": "舞", "annotation": "ま" },
+        { "original": "う" }
+      ]
+    },
+    {
+      "lyric": "呪い呪われた未来は",
+      "translation": "被诅咒的未来",
+      "romanization": "noro i noro wa re ta mirai wa",
+      "annotation": [
+        { "original": "呪", "annotation": "のろ" },
+        { "original": "い" },
+        { "original": "呪", "annotation": "のろ" },
+        { "original": "われた" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "君がその手で変えていくんだ",
+      "translation": "将会有你那双手来改变",
+      "romanization": "kimi ga so no te de ka e te i kun da",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "が" },
+        { "original": "その" },
+        { "original": "手", "annotation": "て" },
+        { "original": "で" },
+        { "original": "変", "annotation": "か" },
+        { "original": "えていくんだ" }
+      ]
+    },
+    {
+      "lyric": "逃げずに進んだことできっと",
+      "translation": "不逃避而是继续前进 一定",
+      "romanization": "ni ge zu ni susun da ko to de ki tto",
+      "annotation": [
+        { "original": "逃", "annotation": "に" },
+        { "original": "げずに" },
+        { "original": "進", "annotation": "すす" },
+        { "original": "んだことできっと" }
+      ]
+    },
+    {
+      "lyric": "掴めるものが沢山あるよ",
+      "translation": "能抓住更多东西的哦",
+      "romanization": "tsuka me ru mo no ga takusan a ru yo",
+      "annotation": [
+        { "original": "掴", "annotation": "つか" },
+        { "original": "めるものが" },
+        { "original": "沢山", "annotation": "たくさん" },
+        { "original": "あるよ" }
+      ]
+    },
+    {
+      "lyric": "もっと強くなれる",
+      "translation": "也会让你变得更强",
+      "romanization": "mo tto tsuyo ku na re ru",
+      "annotation": [
+        { "original": "もっと" },
+        { "original": "強", "annotation": "つよ" },
+        { "original": "くなれる" }
+      ]
+    },
+    {
+      "lyric": "この星に生まれたこと",
+      "translation": "生在这颗星球上",
+      "romanization": "ko no hoshi ni u ma re ta ko to",
+      "annotation": [
+        { "original": "この" },
+        { "original": "星", "annotation": "ほし" },
+        { "original": "に" },
+        { "original": "生", "annotation": "う" },
+        { "original": "まれたこと" }
+      ]
+    },
+    {
+      "lyric": "この世界で生き続けること",
+      "translation": "在这世界上生活下去",
+      "romanization": "ko no sekai de i ki tsudu ke ru ko to",
+      "annotation": [
+        { "original": "この" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "で" },
+        { "original": "生", "annotation": "い" },
+        { "original": "き" },
+        { "original": "続", "annotation": "つづ" },
+        { "original": "けること" }
+      ]
+    },
+    {
+      "lyric": "その全てを愛せる様に",
+      "translation": "为了能爱上这一切",
+      "romanization": "so no sube te o ai se ru you ni",
+      "annotation": [
+        { "original": "その" },
+        { "original": "全", "annotation": "すべ" },
+        { "original": "てを" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "せる" },
+        { "original": "様", "annotation": "よう" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "目一杯の祝福を君に",
+      "translation": "给予你竭尽全力的祝福",
+      "romanization": "meippai no shukufuku o kimi ni",
+      "annotation": [
+        { "original": "目一杯", "annotation": "めいっぱい" },
+        { "original": "の" },
+        { "original": "祝福", "annotation": "しゅくふく" },
+        { "original": "を" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "に" }
+      ]
+    }
+  ]
+}
