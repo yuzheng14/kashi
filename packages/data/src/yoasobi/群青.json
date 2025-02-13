@@ -742,17 +742,6 @@
       ]
     },
     {
-      "romanization": "ta si ka ni so ko ni i ma mo so ko ni a ru yo",
-      "lyric": "確かにそこに今もそこにあるよ",
-      "translation": "也确实存在，如今依然存在于那里哟",
-      "annotation": [
-        { "original": "確", "annotation": "たし" },
-        { "original": "かにそこに" },
-        { "original": "今", "annotation": "いま" },
-        { "original": "もそこにあるよ" }
-      ]
-    },
-    {
       "romanization": "si ra zu si ra zu ka ku si te ta",
       "lyric": "知らず知らず隠してた",
       "translation": "将那在不知不觉中隐藏起来的",
