@@ -1,4 +1,4 @@
-import { all } from '@nl/data'
+import { all } from '@kashijs/data'
 import { defineLoader } from 'vitepress'
 
 type Type = typeof all

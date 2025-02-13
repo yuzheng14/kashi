@@ -1,5 +1,5 @@
 {
-  "name": "nippon-lyrics",
+  "name": "kashijs",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -13,6 +13,6 @@
     "packages/*"
   ],
   "scripts": {
-    "prepare": "bun --filter @nl/schema build"
+    "prepare": "bun --filter @kashijs/schema build"
   }
 }

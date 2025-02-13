@@ -1,4 +1,4 @@
-import type { SongJsonSchema } from '@nl/schema/type'
+import type { SongJsonSchema } from '@kashijs/schema/type'
 import _セブンティーン from './セブンティーン.json'
 import _群青 from './群青.json'
 

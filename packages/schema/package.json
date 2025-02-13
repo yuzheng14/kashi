@@ -1,5 +1,5 @@
 {
-  "name": "@nl/schema",
+  "name": "@kashijs/schema",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

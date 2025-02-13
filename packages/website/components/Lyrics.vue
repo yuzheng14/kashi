@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { SongJsonSchema } from '@nl/schema/type'
+import type { SongJsonSchema } from '@kashijs/schema/type'
 
 defineProps<{
   lyricsData: SongJsonSchema

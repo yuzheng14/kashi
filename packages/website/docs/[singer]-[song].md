@@ -11,7 +11,7 @@ const { params, title } = useData()
 
 title.value = `${params.value.song} - ${params.value.singer}`
 
-/** @type {import('@nl/schema/type').SongJsonSchema} */
+/** @type {import('@kashijs/schema/type').SongJsonSchema} */
 const lyricsData = data[params.value.singer][params.value.song]
 </script>
 

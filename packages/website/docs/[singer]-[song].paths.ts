@@ -1,4 +1,4 @@
-import { all } from '@nl/data'
+import { all } from '@kashijs/data'
 export default {
   paths: () =>
     Object.entries(all).flatMap(([singer, songs]) =>

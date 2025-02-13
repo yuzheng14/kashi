@@ -1,5 +1,5 @@
 {
-  "name": "@nl/data",
+  "name": "@kashijs/data",
   "module": "dist/index.js",
   "type": "module",
   "devDependencies": {
@@ -11,7 +11,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@nl/schema": "workspace:*"
+    "@kashijs/schema": "workspace:*"
   },
   "exports": {
     ".": "./dist/index.js"

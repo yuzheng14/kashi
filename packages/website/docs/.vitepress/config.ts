@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { all } from '@nl/data'
+import { all } from '@kashijs/data'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

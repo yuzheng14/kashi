@@ -1,4 +1,4 @@
-# @nl/schema
+# @kashijs/schema
 
 To install dependencies:
 
