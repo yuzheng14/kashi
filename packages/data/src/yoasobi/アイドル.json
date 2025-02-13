@@ -1,0 +1,910 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "アイドル",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "無敵の笑顔で荒らすメディア",
+      "translation": "露出无敌笑容来摧毁媒体",
+      "romanization": "mu te ki no e ga o de a ra su me di a",
+      "annotation": [
+        { "original": "無敵", "annotation": "むてき" },
+        { "original": "の" },
+        { "original": "笑顔", "annotation": "えがお" },
+        { "original": "で" },
+        { "original": "荒", "annotation": "あ" },
+        { "original": "らす" },
+        { "original": "メディア" }
+      ]
+    },
+    {
+      "lyric": "知りたいその秘密ミステリアス",
+      "translation": "身藏秘密 他人看来只觉神秘",
+      "romanization": "shi ri ta i so no hi mi tsu mi su te ri a su",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "りたい" },
+        { "original": "その" },
+        { "original": "秘密", "annotation": "ひみつ" },
+        { "original": "ミステリアス" }
+      ]
+    },
+    {
+      "lyric": "抜けてるとこさえ彼女のエリア",
+      "translation": "就连冒失的模样 也都尽在她的领域",
+      "romanization": "nu ke te ru to ko sa e ka no jo no e ri a",
+      "annotation": [
+        { "original": "抜", "annotation": "ぬ" },
+        { "original": "けてるとこさえ" },
+        { "original": "彼女", "annotation": "かのじょ" },
+        { "original": "の" },
+        { "original": "エリア" }
+      ]
+    },
+    {
+      "lyric": "完璧で嘘つきな君は",
+      "translation": "完美且撒谎的你便是",
+      "romanization": "ka n pe ki de u so tsu ki na ki mi ha(wa)",
+      "annotation": [
+        { "original": "完璧", "annotation": "かんぺき" },
+        { "original": "で" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "つきな" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "天才的なアイドル様",
+      "translation": "天才般的偶像大人",
+      "romanization": "te n sa i te ki na a i do ru sa ma",
+      "annotation": [
+        { "original": "天才的", "annotation": "てんさいてき" },
+        { "original": "な" },
+        { "original": "アイドル" },
+        { "original": "様", "annotation": "さま" }
+      ]
+    },
+    {
+      "lyric": "今日何食べた?",
+      "translation": "今天你吃了些什么？",
+      "romanization": "kyo u na ni ta be ta",
+      "annotation": [
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "何", "annotation": "なに" },
+        { "original": "食", "annotation": "た" },
+        { "original": "べた?" }
+      ]
+    },
+    {
+      "lyric": "好きな本は?",
+      "translation": "喜欢的书是？",
+      "romanization": "su ki na ho n wa",
+      "annotation": [
+        { "original": "好", "annotation": "す" },
+        { "original": "きな" },
+        { "original": "本", "annotation": "ほん" },
+        { "original": "は?" }
+      ]
+    },
+    {
+      "lyric": "遊びに行くならどこに行くの?",
+      "translation": "如果你想出去玩的话 会去哪里？",
+      "romanization": "a so bi ni i ku na ra do ko ni i ku no",
+      "annotation": [
+        { "original": "遊", "annotation": "あそ" },
+        { "original": "びに" },
+        { "original": "行", "annotation": "い" },
+        { "original": "くなら" },
+        { "original": "どこに" },
+        { "original": "行", "annotation": "い" },
+        { "original": "くの?" }
+      ]
+    },
+    {
+      "lyric": "何も食べてない",
+      "translation": "今天我什么也没吃",
+      "romanization": "na ni mo ta be te na i",
+      "annotation": [
+        { "original": "何", "annotation": "なに" },
+        { "original": "も" },
+        { "original": "食", "annotation": "た" },
+        { "original": "べてない" }
+      ]
+    },
+    {
+      "lyric": "それは内緒",
+      "translation": "那个保密",
+      "romanization": "so re ha(wa) na i sho",
+      "annotation": [
+        { "original": "それ" },
+        { "original": "は" },
+        { "original": "内緒", "annotation": "ないしょ" }
+      ]
+    },
+    {
+      "lyric": "何を聞かれてものらりくらり",
+      "translation": "无论被问到什么都蒙混过关",
+      "romanization": "na ni wo ki ka re te mo no ra ri ku ra ri",
+      "annotation": [
+        { "original": "何", "annotation": "なに" },
+        { "original": "を" },
+        { "original": "聞", "annotation": "き" },
+        { "original": "かれてものらりくらり" }
+      ]
+    },
+    {
+      "lyric": "そう淡々と",
+      "translation": "没错 既要淡然",
+      "romanization": "so u ta n ta n to",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "淡々", "annotation": "たんたん" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "だけど燦々と",
+      "translation": "但又 不失璀璨",
+      "romanization": "da ke do sa n sa n to",
+      "annotation": [
+        { "original": "だけど" },
+        { "original": "燦々", "annotation": "さんさん" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "見えそうで見えない秘密は蜜の味",
+      "translation": "若隐若现的秘密 蕴含着甜蜜的气息",
+      "romanization": "mi e so u de mi e na i hi mi tsu wa mi tsu no a ji",
+      "annotation": [
+        { "original": "見", "annotation": "み" },
+        { "original": "えそうで" },
+        { "original": "見", "annotation": "み" },
+        { "original": "えない" },
+        { "original": "秘密", "annotation": "ひみつ" },
+        { "original": "は" },
+        { "original": "蜜", "annotation": "みつ" },
+        { "original": "の" },
+        { "original": "味", "annotation": "あじ" }
+      ]
+    },
+    {
+      "lyric": "あれもないないない",
+      "translation": "那个也回答没有没有",
+      "romanization": "a re mo na i na i na i",
+      "annotation": [
+        { "original": "あれ" },
+        { "original": "も" },
+        { "original": "ないないない" }
+      ]
+    },
+    {
+      "lyric": "これもないないない",
+      "translation": "这个也回答没有没有",
+      "romanization": "ko re mo na i na i na i",
+      "annotation": [
+        { "original": "これ" },
+        { "original": "も" },
+        { "original": "ないないない" }
+      ]
+    },
+    {
+      "lyric": "好きなタイプは?",
+      "translation": "喜欢的类型是？",
+      "romanization": "su ki na ta i pu wa",
+      "annotation": [
+        { "original": "好", "annotation": "す" },
+        { "original": "きな" },
+        { "original": "タイプ" },
+        { "original": "は?" }
+      ]
+    },
+    {
+      "lyric": "相手は?",
+      "translation": "对象是？",
+      "romanization": "a i te wa",
+      "annotation": [
+        { "original": "相手", "annotation": "あいて" },
+        { "original": "は?" }
+      ]
+    },
+    {
+      "lyric": "さあ答えて",
+      "translation": "来吧 回答我",
+      "romanization": "sa a ko ta e te",
+      "annotation": [
+        { "original": "さあ" },
+        { "original": "答", "annotation": "こた" },
+        { "original": "えて" }
+      ]
+    },
+    {
+      "lyric": "「誰かを好きになることなんて",
+      "translation": "「究竟有没有喜欢上一个人",
+      "romanization": "da re ka wo su ki ni na ru ko to na n te",
+      "annotation": [
+        { "original": "「" },
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かを" },
+        { "original": "好", "annotation": "す" },
+        { "original": "きになることなんて" }
+      ]
+    },
+    {
+      "lyric": "私分からなくてさ」",
+      "translation": "我真的不知道啊」",
+      "romanization": "wa ta shi wa ka ra na ku te sa",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "分", "annotation": "わ" },
+        { "original": "からなくてさ」" }
+      ]
+    },
+    {
+      "lyric": "嘘か本当か知り得ない",
+      "translation": "说出的话语真假难辨",
+      "romanization": "u so ka ho n to u ka shi ri e na i",
+      "annotation": [
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "か" },
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "か" },
+        { "original": "知", "annotation": "し" },
+        { "original": "り" },
+        { "original": "得", "annotation": "え" },
+        { "original": "ない" }
+      ]
+    },
+    {
+      "lyric": "そんな言葉にまた一人堕ちる",
+      "translation": "你的话语 又让一人为你沦陷",
+      "romanization": "so n na ko to ba ni ma ta hi to ri o chi ru",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "に" },
+        { "original": "また" },
+        { "original": "一人" },
+        { "original": "堕", "annotation": "お" },
+        { "original": "ちる" }
+      ]
+    },
+    {
+      "lyric": "また好きにさせる",
+      "translation": "坠入你的爱河",
+      "romanization": "ma ta su ki ni sa se ru",
+      "annotation": [
+        { "original": "また" },
+        { "original": "好", "annotation": "す" },
+        { "original": "きにさせる" }
+      ]
+    },
+    {
+      "lyric": "誰もが目を奪われていく",
+      "translation": "无论谁的视线都将被你夺去",
+      "romanization": "da re mo ga me wo u ba wa re te i ku",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "もが" },
+        { "original": "目", "annotation": "め" },
+        { "original": "を" },
+        { "original": "奪", "annotation": "うば" },
+        { "original": "われていく" }
+      ]
+    },
+    {
+      "lyric": "君は完璧で究極のアイドル",
+      "translation": "你便是完美且究极的偶像",
+      "romanization": "ki mi wa ka n pe ki de kyu u kyo ku no a i do ru",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "は" },
+        { "original": "完璧", "annotation": "かんぺき" },
+        { "original": "で" },
+        { "original": "究極", "annotation": "きゅうきょく" },
+        { "original": "の" },
+        { "original": "アイドル" }
+      ]
+    },
+    {
+      "lyric": "金輪際現れない",
+      "translation": "从今往后不会再出现",
+      "romanization": "ko n ri n za i a ra wa re na i",
+      "annotation": [
+        { "original": "金輪際", "annotation": "こんりんざい" },
+        { "original": "現", "annotation": "あらわ" },
+        { "original": "れない" }
+      ]
+    },
+    {
+      "lyric": "一番星の生まれ変わり",
+      "translation": "一等星的来生转世",
+      "romanization": "i chi ba n bo shi no u ma re ka wa ri",
+      "annotation": [
+        { "original": "一番星", "annotation": "いちばんぼし" },
+        { "original": "の" },
+        { "original": "生", "annotation": "う" },
+        { "original": "まれ" },
+        { "original": "変", "annotation": "か" },
+        { "original": "わり" }
+      ]
+    },
+    {
+      "lyric": "その笑顔で愛してるで",
+      "translation": "你的那笑容 让人坠入爱河",
+      "romanization": "so no e ga o de a i shi te ru de",
+      "annotation": [
+        { "original": "その" },
+        { "original": "笑顔", "annotation": "えがお" },
+        { "original": "で" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "してるで" }
+      ]
+    },
+    {
+      "lyric": "誰も彼も虜にしていく",
+      "translation": "无论是谁都将化作你的俘虏",
+      "romanization": "da re mo ka re mo to ri ko ni shi te i ku",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "も" },
+        { "original": "彼", "annotation": "かれ" },
+        { "original": "も" },
+        { "original": "虜", "annotation": "とりこ" },
+        { "original": "にしていく" }
+      ]
+    },
+    {
+      "lyric": "その瞳がその言葉が",
+      "translation": "你的双眸 你所说的话",
+      "romanization": "so no hi to mi ga so no ko to ba ga",
+      "annotation": [
+        { "original": "その" },
+        { "original": "瞳", "annotation": "ひとみ" },
+        { "original": "が" },
+        { "original": "その" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "嘘でもそれは完全なアイ",
+      "translation": "即便全是谎言 那也是完美的爱",
+      "romanization": "u so de mo so re wa ka n ze n na a i",
+      "annotation": [
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "でも" },
+        { "original": "それは" },
+        { "original": "完全", "annotation": "かんぜん" },
+        { "original": "な" },
+        { "original": "アイ" }
+      ]
+    },
+    {
+      "lyric": "はいはいあの子は特別です",
+      "translation": "对对 那个孩子是最特别的",
+      "romanization": "ha i ha i a no ko wa to ku be tsu de su",
+      "annotation": [
+        { "original": "はいはい" },
+        { "original": "あの" },
+        { "original": "子", "annotation": "こ" },
+        { "original": "は" },
+        { "original": "特別", "annotation": "とくべつ" },
+        { "original": "です" }
+      ]
+    },
+    {
+      "lyric": "我々はハナからおまけです",
+      "translation": "我等从一开始便早已败北",
+      "romanization": "wa re wa re wa ha na ka ra o ma ke de su",
+      "annotation": [
+        { "original": "我々", "annotation": "われわれ" },
+        { "original": "は" },
+        { "original": "ハナから" },
+        { "original": "おまけです" }
+      ]
+    },
+    {
+      "lyric": "お星様の引き立て役Bです",
+      "translation": "就只是一等星的陪衬B",
+      "romanization": "o ho shi sa ma no hi ki ta te ya ku B de su",
+      "annotation": [
+        { "original": "お" },
+        { "original": "星様", "annotation": "ほしさま" },
+        { "original": "の" },
+        { "original": "引", "annotation": "ひ" },
+        { "original": "き" },
+        { "original": "立", "annotation": "た" },
+        { "original": "て" },
+        { "original": "役", "annotation": "やく" },
+        { "original": "Bです" }
+      ]
+    },
+    {
+      "lyric": "全てがあの子のお陰なわけない",
+      "translation": "一切都托了那个孩子的福 那怎可能",
+      "romanization": "su be te ga a no ko no o ka ge na wa ke na i",
+      "annotation": [
+        { "original": "全", "annotation": "すべ" },
+        { "original": "てが" },
+        { "original": "あの" },
+        { "original": "子", "annotation": "こ" },
+        { "original": "の" },
+        { "original": "お" },
+        { "original": "陰", "annotation": "かげ" },
+        { "original": "なわけない" }
+      ]
+    },
+    {
+      "lyric": "洒落臭い",
+      "translation": "心高气傲",
+      "romanization": "sha ra ku sa i",
+      "annotation": [
+        { "original": "洒落臭", "annotation": "しゃらくさ" },
+        { "original": "い" }
+      ]
+    },
+    {
+      "lyric": "妬み嫉妬なんてないわけがない",
+      "translation": "怎可能无人嫉妒",
+      "romanization": "ne ta mi shi tto na n te na i wa ke ga na i",
+      "annotation": [
+        { "original": "妬", "annotation": "ねた" },
+        { "original": "み" },
+        { "original": "嫉妬", "annotation": "しっと" },
+        { "original": "なんて" },
+        { "original": "ないわけがない" }
+      ]
+    },
+    {
+      "lyric": "これはネタじゃない",
+      "translation": "这又不是什么老套剧情",
+      "romanization": "ko re wa ne ta ja na i",
+      "annotation": [
+        { "original": "これ" },
+        { "original": "は" },
+        { "original": "ネタ" },
+        { "original": "じゃない" }
+      ]
+    },
+    {
+      "lyric": "からこそ許せない",
+      "translation": "正因如此才更难饶恕",
+      "romanization": "ka ra ko so yu ru se na i",
+      "annotation": [
+        { "original": "からこそ" },
+        { "original": "許", "annotation": "ゆる" },
+        { "original": "せない" }
+      ]
+    },
+    {
+      "lyric": "完璧じゃない君じゃ許せない",
+      "translation": "无法饶恕那个并非完美的你",
+      "romanization": "ka n pe ki ja na i ki mi ja yu ru se na i",
+      "annotation": [
+        { "original": "完璧", "annotation": "かんぺき" },
+        { "original": "じゃない" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "じゃ" },
+        { "original": "許", "annotation": "ゆる" },
+        { "original": "せない" }
+      ]
+    },
+    {
+      "lyric": "自分を許せない",
+      "translation": "我无法原谅这样的自己",
+      "romanization": "ji bu n wo yu ru se na i",
+      "annotation": [
+        { "original": "自分", "annotation": "じぶん" },
+        { "original": "を" },
+        { "original": "許", "annotation": "ゆる" },
+        { "original": "せない" }
+      ]
+    },
+    {
+      "lyric": "誰よりも強い君以外は認めない",
+      "translation": "除你以外 我都难以认可谁能更胜他人",
+      "romanization": "da re yo ri mo tsu yo i ki mi i ga i wa mi to me na i",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "よりも" },
+        { "original": "強", "annotation": "つよ" },
+        { "original": "い" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "以外", "annotation": "いがい" },
+        { "original": "は" },
+        { "original": "認", "annotation": "みと" },
+        { "original": "めない" }
+      ]
+    },
+    {
+      "lyric": "誰もが信じ崇めてる",
+      "translation": "无论谁都将你奉作信仰",
+      "romanization": "da re mo ga shi n ji a ga me te ru",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "もが" },
+        { "original": "信", "annotation": "しん" },
+        { "original": "じ" },
+        { "original": "崇", "annotation": "あが" },
+        { "original": "めてる" }
+      ]
+    },
+    {
+      "lyric": "まさに最強で無敵のアイドル",
+      "translation": "你正是那最强且无敌的偶像",
+      "romanization": "ma sa ni sa i kyo u de mu te ki no a i do ru",
+      "annotation": [
+        { "original": "まさに" },
+        { "original": "最強", "annotation": "さいきょう" },
+        { "original": "で" },
+        { "original": "無敵", "annotation": "むてき" },
+        { "original": "の" },
+        { "original": "アイドル" }
+      ]
+    },
+    {
+      "lyric": "弱点なんて見当たらない",
+      "translation": "弱点在你身上绝不存在",
+      "romanization": "ja ku te n na n te mi a ta ra na i",
+      "annotation": [
+        { "original": "弱点", "annotation": "じゃくてん" },
+        { "original": "なんて" },
+        { "original": "見当", "annotation": "みあ" },
+        { "original": "たらない" }
+      ]
+    },
+    {
+      "lyric": "一番星を宿している",
+      "translation": "一等星寄于你身",
+      "romanization": "i chi ba n bo shi wo ya do shi te i ru",
+      "annotation": [
+        { "original": "一番星", "annotation": "いちばんぼし" },
+        { "original": "を" },
+        { "original": "宿", "annotation": "やど" },
+        { "original": "している" }
+      ]
+    },
+    {
+      "lyric": "弱いとこなんて見せちゃダメダメ",
+      "translation": "软弱的地方 可不能被看到",
+      "romanization": "yo wa i to ko na n te mi se cha da me da me",
+      "annotation": [
+        { "original": "弱", "annotation": "よわ" },
+        { "original": "いとこなんて" },
+        { "original": "見", "annotation": "み" },
+        { "original": "せちゃダメダメ" }
+      ]
+    },
+    {
+      "lyric": "知りたくないとこは見せずに",
+      "translation": "不让他人看到不想知晓的一面",
+      "romanization": "shi ri ta ku na i to ko wa mi se zu ni",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "りたくないとこは" },
+        { "original": "見", "annotation": "み" },
+        { "original": "せずに" }
+      ]
+    },
+    {
+      "lyric": "唯一無二じゃなくちゃイヤイヤ",
+      "translation": "必须保持自身的独一无二",
+      "romanization": "yu i i tsu mu ni ja na ku cha i ya i ya",
+      "annotation": [
+        { "original": "唯一無二", "annotation": "ゆいつむに" },
+        { "original": "じゃなくちゃ" },
+        { "original": "イヤイヤ" }
+      ]
+    },
+    {
+      "lyric": "それこそ本物のアイ",
+      "translation": "这才是我真正的爱",
+      "romanization": "so re ko so ho n mo no no a i",
+      "annotation": [
+        { "original": "それこそ" },
+        { "original": "本物", "annotation": "ほんもの" },
+        { "original": "の" },
+        { "original": "アイ" }
+      ]
+    },
+    {
+      "lyric": "得意の笑顔で沸かすメディア",
+      "translation": "露出擅长的笑容来惹沸媒体",
+      "romanization": "to ku i no e ga o de wa ka su me di a",
+      "annotation": [
+        { "original": "得意", "annotation": "とくい" },
+        { "original": "の" },
+        { "original": "笑顔", "annotation": "えがお" },
+        { "original": "で" },
+        { "original": "沸", "annotation": "わ" },
+        { "original": "かす" },
+        { "original": "メディア" }
+      ]
+    },
+    {
+      "lyric": "隠しきるこの秘密だけは",
+      "translation": "唯独藏起这个秘密",
+      "romanization": "ka ku shi ki ru ko no hi mi tsu da ke wa",
+      "annotation": [
+        { "original": "隠", "annotation": "かく" },
+        { "original": "しきる" },
+        { "original": "この" },
+        { "original": "秘密", "annotation": "ひみつ" },
+        { "original": "だけは" }
+      ]
+    },
+    {
+      "lyric": "愛してるって嘘で積むキャリア",
+      "translation": "用爱的谎言所积累起的经验",
+      "romanization": "a i shi te ru tte u so de tsu mu kya ri a",
+      "annotation": [
+        { "original": "愛", "annotation": "あい" },
+        { "original": "してるって" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "で" },
+        { "original": "積", "annotation": "つ" },
+        { "original": "む" },
+        { "original": "キャリア" }
+      ]
+    },
+    {
+      "lyric": "これこそ私なりの愛だ",
+      "translation": "这正属于是我的爱",
+      "romanization": "ko re ko so wa ta shi na ri no a i da",
+      "annotation": [
+        { "original": "これこそ" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "なり" },
+        { "original": "の" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "流れる汗も綺麗なアクア",
+      "translation": "就连滴落的汗水 也是美丽的蓝宝石",
+      "romanization": "na ga re ru a se mo ki re i na a ku a",
+      "annotation": [
+        { "original": "流", "annotation": "なが" },
+        { "original": "れる" },
+        { "original": "汗", "annotation": "あせ" },
+        { "original": "も" },
+        { "original": "綺麗", "annotation": "きれい" },
+        { "original": "な" },
+        { "original": "アクア" }
+      ]
+    },
+    {
+      "lyric": "ルビーを隠したこの瞼",
+      "translation": "隐藏着红宝石的那双眼帘",
+      "romanization": "ru bii wo ka ku shi ta ko no ma bu ta",
+      "annotation": [
+        { "original": "ルビー" },
+        { "original": "を" },
+        { "original": "隠", "annotation": "かく" },
+        { "original": "した" },
+        { "original": "この" },
+        { "original": "瞼", "annotation": "まぶた" }
+      ]
+    },
+    {
+      "lyric": "歌い踊り舞う私はマリア",
+      "translation": "酣歌恒舞的我便是那玛利亚",
+      "romanization": "u ta i o do ri ma u wa ta shi wa ma ri a",
+      "annotation": [
+        { "original": "歌", "annotation": "うた" },
+        { "original": "い" },
+        { "original": "踊", "annotation": "おど" },
+        { "original": "り" },
+        { "original": "舞", "annotation": "ま" },
+        { "original": "う" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "は" },
+        { "original": "マリア" }
+      ]
+    },
+    {
+      "lyric": "そう嘘はとびきりの愛だ",
+      "translation": "没错 谎言便是最特别的爱",
+      "romanization": "so u u so wa to bi ki ri no a i da",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "は" },
+        { "original": "とびきりの" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "誰かに愛されたことも",
+      "translation": "从未被他人所爱",
+      "romanization": "da re ka ni a i sa re ta ko to mo",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かに" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "された" },
+        { "original": "ことも" }
+      ]
+    },
+    {
+      "lyric": "誰かのこと愛したこともない",
+      "translation": "也未爱着他人",
+      "romanization": "da re ka no ko to a i shi ta ko to mo na i",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かの" },
+        { "original": "こと" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "した" },
+        { "original": "ことも" },
+        { "original": "ない" }
+      ]
+    },
+    {
+      "lyric": "そんな私の嘘がいつか本当になること",
+      "translation": "我这虚渺的谎言 总有一日会化作真实",
+      "romanization": "so n na wa ta shi no u so ga i tsu ka ho n to u ni na ru ko to",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "が" },
+        { "original": "いつか" },
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "になる" },
+        { "original": "こと" }
+      ]
+    },
+    {
+      "lyric": "信じてる",
+      "translation": "我如此坚信",
+      "romanization": "shi n ji te ru",
+      "annotation": [
+        { "original": "信", "annotation": "しん" },
+        { "original": "じてる" }
+      ]
+    },
+    {
+      "lyric": "いつかきっと全部手に入れる",
+      "translation": "总有一日我必将得到一切",
+      "romanization": "i tsu ka ki tto ze n bu te ni i re ru",
+      "annotation": [
+        { "original": "いつか" },
+        { "original": "きっと" },
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "手", "annotation": "て" },
+        { "original": "に" },
+        { "original": "入", "annotation": "い" },
+        { "original": "れる" }
+      ]
+    },
+    {
+      "lyric": "私はそう欲張りなアイドル",
+      "translation": "我就是如此贪婪的偶像",
+      "romanization": "wa ta shi wa so u yo ku ba ri na a i do ru",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "は" },
+        { "original": "そう" },
+        { "original": "欲張", "annotation": "よくば" },
+        { "original": "りな" },
+        { "original": "アイドル" }
+      ]
+    },
+    {
+      "lyric": "等身大でみんなのこと",
+      "translation": "面对大家 不加矫饰",
+      "romanization": "to u shi n da i de mi n na no ko to",
+      "annotation": [
+        { "original": "等身大", "annotation": "とうしんだい" },
+        { "original": "で" },
+        { "original": "みんな" },
+        { "original": "の" },
+        { "original": "こと" }
+      ]
+    },
+    {
+      "lyric": "ちゃんと愛したいから",
+      "translation": "只因我想好好去爱",
+      "romanization": "cha n to a i shi ta i ka ra",
+      "annotation": [
+        { "original": "ちゃんと" },
+        { "original": "愛", "annotation": "あい" },
+        { "original": "したい" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "今日も嘘をつくの",
+      "translation": "今天依旧会口诉谎言",
+      "romanization": "kyo u mo u so wo tsu ku no",
+      "annotation": [
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "も" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "を" },
+        { "original": "つくの" }
+      ]
+    },
+    {
+      "lyric": "この言葉がいつか",
+      "translation": "期望这谎言",
+      "romanization": "ko no ko to ba ga i tsu ka",
+      "annotation": [
+        { "original": "この" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "が" },
+        { "original": "いつか" }
+      ]
+    },
+    {
+      "lyric": "本当になる日を願って",
+      "translation": "总有一日化作真实",
+      "romanization": "ho n to u ni na ru hi wo ne ga tte",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "になる" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "を" },
+        { "original": "願", "annotation": "ねが" },
+        { "original": "って" }
+      ]
+    },
+    {
+      "lyric": "それでもまだ",
+      "translation": "即便如此",
+      "romanization": "so re de mo ma da",
+      "annotation": [{ "original": "それでも" }, { "original": "まだ" }]
+    },
+    {
+      "lyric": "君と君にだけは言えずにいたけど",
+      "translation": "唯独面对你与你 我从未说过这些话",
+      "romanization": "ki mi to ki mi ni da ke wa i e zu ni i ta ke do",
+      "annotation": [
+        { "original": "君", "annotation": "きみ" },
+        { "original": "と" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "に" },
+        { "original": "だけは" },
+        { "original": "言", "annotation": "い" },
+        { "original": "えずに" },
+        { "original": "いたけど" }
+      ]
+    },
+    {
+      "lyric": "やっと言えた",
+      "translation": "终于得以说出口",
+      "romanization": "ya tto i e ta",
+      "annotation": [
+        { "original": "やっと" },
+        { "original": "言", "annotation": "い" },
+        { "original": "えた" }
+      ]
+    },
+    {
+      "lyric": "これは絶対嘘じゃない",
+      "translation": "这句话绝对不是谎言",
+      "romanization": "ko re wa ze tta i u so ja na i",
+      "annotation": [
+        { "original": "これは" },
+        { "original": "絶対", "annotation": "ぜったい" },
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "じゃない" }
+      ]
+    },
+    {
+      "lyric": "愛してる",
+      "translation": "我爱你们",
+      "romanization": "a i shi te ru",
+      "annotation": [
+        { "original": "愛", "annotation": "あい" },
+        { "original": "してる" }
+      ]
+    }
+  ]
+}
