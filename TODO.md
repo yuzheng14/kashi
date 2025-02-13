@@ -20,5 +20,5 @@
 - [ ] Biri-Biri
 - [ ] 怪物
 - [ ] あの夢をなぞって
-- [ ] HEART BEART
+- [x] HEART BEART
 - [ ] 舞台に立つ

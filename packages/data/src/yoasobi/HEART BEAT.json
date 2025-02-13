@@ -1,0 +1,906 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "HEART BEAT",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "いつか",
+      "translation": "不知何时",
+      "romanization": "i tsu ka",
+      "annotation": [{ "original": "いつか" }]
+    },
+    {
+      "lyric": "心にも無い軽口で",
+      "translation": "那句无心的玩笑话",
+      "romanization": "ko ko ro ni mo na i ka ru ku chi de",
+      "annotation": [
+        { "original": "心", "annotation": "こころ" },
+        { "original": "にも" },
+        { "original": "無", "annotation": "な" },
+        { "original": "い" },
+        { "original": "軽口", "annotation": "かるくち" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "みだりに君を怒らせてしまったね",
+      "translation": "因冒失而惹得你生气了呢",
+      "romanization": "mi da ri ni ki mi wo o ko ra se te shi ma tta ne",
+      "annotation": [
+        { "original": "みだりに" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "を" },
+        { "original": "怒", "annotation": "おこ" },
+        { "original": "らせてしまったね" }
+      ]
+    },
+    {
+      "lyric": "「ごめんね」さえ言い出せなかった",
+      "translation": "可连「对不起」这句话我也没能道出",
+      "romanization": "go me nn ne sa e i i da se na ka tta",
+      "annotation": [
+        { "original": "「ごめんね」" },
+        { "original": "さえ" },
+        { "original": "言", "annotation": "い" },
+        { "original": "い" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "せなかった" }
+      ]
+    },
+    {
+      "lyric": "この心臓の音がうるさくて",
+      "translation": "这颗心脏的声音嘈杂不休",
+      "romanization": "ko no shi nn zo u no o to ga u ru sa ku te",
+      "annotation": [
+        { "original": "この" },
+        { "original": "心臓", "annotation": "しんぞう" },
+        { "original": "の" },
+        { "original": "音", "annotation": "おと" },
+        { "original": "がうるさくて" }
+      ]
+    },
+    {
+      "lyric": "いつだっけ",
+      "translation": "从何时起",
+      "romanization": "i tsu da kke",
+      "annotation": [{ "original": "いつだっけ" }]
+    },
+    {
+      "lyric": "これ以上は止めにしようと",
+      "translation": "我产生了不想再这样继续的想法",
+      "romanization": "ko re i jo u ha ya me ni shi yo u to",
+      "annotation": [
+        { "original": "これ" },
+        { "original": "以上", "annotation": "いじょう" },
+        { "original": "は" },
+        { "original": "止", "annotation": "や" },
+        { "original": "めにしようと" }
+      ]
+    },
+    {
+      "lyric": "組み上げてきた積み木を手放した",
+      "translation": "将精心堆积起的积木扔之一旁",
+      "romanization": "ku mi a ge te ki ta tu mi ki wo te ba na shi ta",
+      "annotation": [
+        { "original": "組", "annotation": "く" },
+        { "original": "み上げてきた" },
+        { "original": "積", "annotation": "つ" },
+        { "original": "み" },
+        { "original": "木", "annotation": "き" },
+        { "original": "を" },
+        { "original": "手放", "annotation": "てばな" },
+        { "original": "した" }
+      ]
+    },
+    {
+      "lyric": "鼓動に揺れた指先に触れて",
+      "translation": "在轻触那因心跳而颤动的指尖",
+      "romanization": "ko do u ni yu re ta yu bi sa ki ni fu re te",
+      "annotation": [
+        { "original": "鼓動", "annotation": "こどう" },
+        { "original": "に" },
+        { "original": "揺", "annotation": "ゆ" },
+        { "original": "れた" },
+        { "original": "指先", "annotation": "ゆびさき" },
+        { "original": "に" },
+        { "original": "触", "annotation": "ふ" },
+        { "original": "れて" }
+      ]
+    },
+    {
+      "lyric": "崩れてしまう前に",
+      "translation": "导致积木崩塌之前",
+      "romanization": "ku zu re te shi ma u ma e ni to",
+      "annotation": [
+        { "original": "崩", "annotation": "くず" },
+        { "original": "れてしまう" },
+        { "original": "前", "annotation": "まえ" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "そう 悩みの種は",
+      "translation": "没错 这烦恼的根源",
+      "romanization": "so u na ya mi no ta ne ha",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "悩", "annotation": "なや" },
+        { "original": "みの" },
+        { "original": "種", "annotation": "たね" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "いつも (いつも)",
+      "translation": "总是 (总是)",
+      "romanization": "i tsu mo(i tsu mo)",
+      "annotation": [{ "original": "いつも" }, { "original": "(いつも)" }]
+    },
+    {
+      "lyric": "誰かのことと",
+      "translation": "和某人之事",
+      "romanization": "da re ka no ko to to",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かの" },
+        { "original": "ことと" }
+      ]
+    },
+    {
+      "lyric": "明日のことと",
+      "translation": "和明日之事",
+      "romanization": "a shi ta no ko to to",
+      "annotation": [
+        { "original": "明日", "annotation": "あした" },
+        { "original": "のことと" }
+      ]
+    },
+    {
+      "lyric": "未来のこと",
+      "translation": "和未来",
+      "romanization": "mi ra i no ko to",
+      "annotation": [
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "のこと" }
+      ]
+    },
+    {
+      "lyric": "ばかりだ",
+      "translation": "都有所牵连",
+      "romanization": "ba ka ri da",
+      "annotation": [{ "original": "ばかりだ" }]
+    },
+    {
+      "lyric": "ねえ 考えるほど駆け足で",
+      "translation": "呐 越是思索就越发加快",
+      "romanization": "ne e ka nn ga e ru ho do ka ke a shi de",
+      "annotation": [
+        { "original": "ねえ" },
+        { "original": "考", "annotation": "かんが" },
+        { "original": "えるほど" },
+        { "original": "駆", "annotation": "か" },
+        { "original": "け" },
+        { "original": "足", "annotation": "あし" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "脈打つリズム",
+      "translation": "那脉搏的节拍",
+      "romanization": "mya ku u tsu ri zu mu",
+      "annotation": [
+        { "original": "脈打", "annotation": "みゃくう" },
+        { "original": "つ" },
+        { "original": "リズム" }
+      ]
+    },
+    {
+      "lyric": "もっと上手に",
+      "translation": "若能更巧妙地",
+      "romanization": "mo tto jo u zu ni",
+      "annotation": [
+        { "original": "もっと" },
+        { "original": "上手", "annotation": "じょうず" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "もっと綺麗に",
+      "translation": "若能更漂亮地",
+      "romanization": "mo tto ki re i ni",
+      "annotation": [
+        { "original": "もっと" },
+        { "original": "綺麗", "annotation": "きれい" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "刻めたら",
+      "translation": "铭刻心间的话",
+      "romanization": "ki za me ta ra",
+      "annotation": [
+        { "original": "刻", "annotation": "きざ" },
+        { "original": "めたら" }
+      ]
+    },
+    {
+      "lyric": "足がすくんでしまっても",
+      "translation": "即使双腿发软",
+      "romanization": "a shi ga su ku nn de shi ma tte mo",
+      "annotation": [
+        { "original": "足", "annotation": "あし" },
+        { "original": "が" },
+        { "original": "すくんでしまっても" }
+      ]
+    },
+    {
+      "lyric": "声が震えても",
+      "translation": "即使声音颤抖",
+      "romanization": "ko e ga fu ru e te mo",
+      "annotation": [
+        { "original": "声", "annotation": "こえ" },
+        { "original": "が" },
+        { "original": "震", "annotation": "ふる" },
+        { "original": "えても" }
+      ]
+    },
+    {
+      "lyric": "お構いなし",
+      "translation": "也不再介怀",
+      "romanization": "o ka ma i na shi",
+      "annotation": [
+        { "original": "お" },
+        { "original": "構", "annotation": "かま" },
+        { "original": "いなし" }
+      ]
+    },
+    {
+      "lyric": "心は置き去りのままで",
+      "translation": "就将心抛之一旁",
+      "romanization": "ko ko ro ha o ki za ri no ma ma de",
+      "annotation": [
+        { "original": "心", "annotation": "こころ" },
+        { "original": "は" },
+        { "original": "置", "annotation": "お" },
+        { "original": "き" },
+        { "original": "去", "annotation": "ざ" },
+        { "original": "りのままで" }
+      ]
+    },
+    {
+      "lyric": "加速していくビート",
+      "translation": "就算节拍不停加速",
+      "romanization": "ka so ku shi te i ku bi i to",
+      "annotation": [
+        { "original": "加速", "annotation": "かそく" },
+        { "original": "していく" },
+        { "original": "ビート" }
+      ]
+    },
+    {
+      "lyric": "まだ準備も出来ていないのに",
+      "translation": "我也都还未准备好啊",
+      "romanization": "ma da ju nn bi mo de ki te i na i no ni",
+      "annotation": [
+        { "original": "まだ" },
+        { "original": "準備", "annotation": "じゅんび" },
+        { "original": "も" },
+        { "original": "出来", "annotation": "でき" },
+        { "original": "ていないのに" }
+      ]
+    },
+    {
+      "lyric": "右向け右の通りに",
+      "translation": "向右并沿着右侧的方向",
+      "romanization": "mi gi mu ke mi gi no to o ri ni",
+      "annotation": [
+        { "original": "右向", "annotation": "みぎむ" },
+        { "original": "け" },
+        { "original": "右", "annotation": "みぎ" },
+        { "original": "の" },
+        { "original": "通", "annotation": "とお" },
+        { "original": "り" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "はみ出さないように",
+      "translation": "一步也不曾踏错",
+      "romanization": "ha mi da sa na i yo u ni",
+      "annotation": [
+        { "original": "はみ" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "さないように" }
+      ]
+    },
+    {
+      "lyric": "揃えられた僕を取り残したままで",
+      "translation": "待其汇合后 却仅将我遗留于此",
+      "romanization": "so ro e ra re ta bo ku wo to ri no ko shi ta ma ma de",
+      "annotation": [
+        { "original": "揃", "annotation": "そろ" },
+        { "original": "えられた" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "を" },
+        { "original": "取", "annotation": "と" },
+        { "original": "り" },
+        { "original": "残", "annotation": "のこ" },
+        { "original": "したままで" }
+      ]
+    },
+    {
+      "lyric": "加速する日々よ",
+      "translation": "时光啊也逐步加速",
+      "romanization": "ka so ku su ru hi bi yo",
+      "annotation": [
+        { "original": "加速", "annotation": "かそく" },
+        { "original": "する" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "よ" }
+      ]
+    },
+    {
+      "lyric": "どんな風に歩いていたっけ",
+      "translation": "曾经究竟是怎么走过来的呢",
+      "romanization": "do nn na fu u ni a ru i te i ta kke",
+      "annotation": [
+        { "original": "どんな" },
+        { "original": "風", "annotation": "ふう" },
+        { "original": "に" },
+        { "original": "歩", "annotation": "ある" },
+        { "original": "いていたっけ" }
+      ]
+    },
+    {
+      "lyric": "どんな僕が僕だったっけ",
+      "translation": "怎样的我 才算是我呢",
+      "romanization": "do nn na bo ku ga bo ku da tta kke",
+      "annotation": [
+        { "original": "どんな" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "が" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "だったっけ" }
+      ]
+    },
+    {
+      "lyric": "ずっと遠くに見ていた",
+      "translation": "我一直在眺望着远方",
+      "romanization": "zu tto to o ku ni mi te i ta",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くに" },
+        { "original": "見", "annotation": "み" },
+        { "original": "ていた" }
+      ]
+    },
+    {
+      "lyric": "ずっと先の未来は",
+      "translation": "那总在远方的未来",
+      "romanization": "zu tto sa ki no mi ra i ha",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "先", "annotation": "さき" },
+        { "original": "の" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "ずっと近くに来ていた",
+      "translation": "也正逐步接近着我",
+      "romanization": "zu tto chi ka ku ni ki te i ta",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "近", "annotation": "ちか" },
+        { "original": "くに" },
+        { "original": "来", "annotation": "き" },
+        { "original": "ていた" }
+      ]
+    },
+    {
+      "lyric": "ずっとずっと",
+      "translation": "一直一直",
+      "romanization": "zu tto zu tto",
+      "annotation": [{ "original": "ずっとずっと" }]
+    },
+    {
+      "lyric": "本当に大事なことは",
+      "translation": "真正重要的事物",
+      "romanization": "ho nn to u ni da i ji na ko to ha",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "に" },
+        { "original": "大事", "annotation": "だいじ" },
+        { "original": "な" },
+        { "original": "ことは" }
+      ]
+    },
+    {
+      "lyric": "いつも (誰も)",
+      "translation": "总是（谁也）",
+      "romanization": "i tsu mo (da re mo)",
+      "annotation": [
+        { "original": "いつも" },
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "教えてくれない",
+      "translation": "不曾告诉过我",
+      "romanization": "o shi e te ku re na i",
+      "annotation": [
+        { "original": "教", "annotation": "おし" },
+        { "original": "えてくれない" }
+      ]
+    },
+    {
+      "lyric": "これからのこと",
+      "translation": "从此以后的事情",
+      "romanization": "ko re ka ra no ko to",
+      "annotation": [{ "original": "これからのこと" }]
+    },
+    {
+      "lyric": "肝心なとこ",
+      "translation": "珍重的事物",
+      "romanization": "ka nn ji nn na to ko",
+      "annotation": [
+        { "original": "肝心", "annotation": "かんじん" },
+        { "original": "なとこ" }
+      ]
+    },
+    {
+      "lyric": "今も考えれば考えるほど",
+      "translation": "如今已经思考太多遍",
+      "romanization": "i ma mo ka nn ga e re ba ka nn ga e ru ho do",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "も" },
+        { "original": "考", "annotation": "かんが" },
+        { "original": "え" },
+        { "original": "れば" },
+        { "original": "考", "annotation": "かんが" },
+        { "original": "える" },
+        { "original": "ほど" }
+      ]
+    },
+    {
+      "lyric": "分からなくて",
+      "translation": "让我愈发困惑",
+      "romanization": "wa ka ra na ku te",
+      "annotation": [
+        { "original": "分", "annotation": "わ" },
+        { "original": "からなくて" }
+      ]
+    },
+    {
+      "lyric": "もっと格好良く",
+      "translation": "可我若能更为帅气地",
+      "romanization": "mo tto ka kko u yo ku",
+      "annotation": [
+        { "original": "もっと" },
+        { "original": "格好", "annotation": "かっこう" },
+        { "original": "良", "annotation": "よ" },
+        { "original": "く" }
+      ]
+    },
+    {
+      "lyric": "もっと胸張って",
+      "translation": "可我若能昂首挺胸",
+      "romanization": "mo tto mu ne ha tte",
+      "annotation": [
+        { "original": "もっと" },
+        { "original": "胸", "annotation": "むね" },
+        { "original": "張", "annotation": "は" },
+        { "original": "って" }
+      ]
+    },
+    {
+      "lyric": "進めたら",
+      "translation": "向前迈进的话",
+      "romanization": "su su me ta ra",
+      "annotation": [
+        { "original": "進", "annotation": "すす" },
+        { "original": "めたら" }
+      ]
+    },
+    {
+      "lyric": "足がすくんでしまっても",
+      "translation": "即使双腿发软",
+      "romanization": "a shi ga su ku nn de shi ma tte mo",
+      "annotation": [
+        { "original": "足", "annotation": "あし" },
+        { "original": "が" },
+        { "original": "すくんでしまっても" }
+      ]
+    },
+    {
+      "lyric": "声が震えても",
+      "translation": "即使声音颤抖",
+      "romanization": "ko e ga fu ru e te mo",
+      "annotation": [
+        { "original": "声", "annotation": "こえ" },
+        { "original": "が" },
+        { "original": "震", "annotation": "ふる" },
+        { "original": "えても" }
+      ]
+    },
+    {
+      "lyric": "お構いなし",
+      "translation": "也不再介怀",
+      "romanization": "o ka ma i na shi",
+      "annotation": [
+        { "original": "お" },
+        { "original": "構", "annotation": "かま" },
+        { "original": "いなし" }
+      ]
+    },
+    {
+      "lyric": "心は置き去りのままで",
+      "translation": "就将心抛之一旁",
+      "romanization": "ko ko ro ha o ki za ri no ma ma de",
+      "annotation": [
+        { "original": "心", "annotation": "こころ" },
+        { "original": "は" },
+        { "original": "置", "annotation": "お" },
+        { "original": "き" },
+        { "original": "去", "annotation": "ざ" },
+        { "original": "りのままで" }
+      ]
+    },
+    {
+      "lyric": "加速していくビート",
+      "translation": "就算节拍不停加速",
+      "romanization": "ka so ku shi te i ku bi i to",
+      "annotation": [
+        { "original": "加速", "annotation": "かそく" },
+        { "original": "していく" },
+        { "original": "ビート" }
+      ]
+    },
+    {
+      "lyric": "張り裂けてしまいそうだ",
+      "translation": "让我感到胸间撕裂般痛苦",
+      "romanization": "ha ri sa ke te shi ma i so u da",
+      "annotation": [
+        { "original": "張", "annotation": "は" },
+        { "original": "り" },
+        { "original": "裂", "annotation": "さけ" },
+        { "original": "てしまいそうだ" }
+      ]
+    },
+    {
+      "lyric": "喉につかえた「ごめんね」",
+      "translation": "咽于喉间的「对不起」",
+      "romanization": "no do ni tsu ka e ta go me nn ne",
+      "annotation": [
+        { "original": "喉", "annotation": "のど" },
+        { "original": "に" },
+        { "original": "つかえた" },
+        { "original": "「ごめんね」" }
+      ]
+    },
+    {
+      "lyric": "揺れ動く指先",
+      "translation": "为此颤动的指尖",
+      "romanization": "yu re u go ku yu bi sa ki",
+      "annotation": [
+        { "original": "揺", "annotation": "ゆ" },
+        { "original": "れ", "annotation": "れ" },
+        { "original": "動", "annotation": "うご" },
+        { "original": "く" },
+        { "original": "指先", "annotation": "ゆびさき" }
+      ]
+    },
+    {
+      "lyric": "いつも思えばこの胸の奥が",
+      "translation": "回想起来 我的内心深处",
+      "romanization": "i tsu mo o mo e ba ko no mu ne no o ku ga",
+      "annotation": [
+        { "original": "いつも" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "えば" },
+        { "original": "この" },
+        { "original": "胸", "annotation": "むね" },
+        { "original": "の" },
+        { "original": "奥", "annotation": "おく" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "痛いほど脈打つのは",
+      "translation": "总是感到痛楚的跳动都是",
+      "romanization": "i ta i ho do mya ku u tsu no ha",
+      "annotation": [
+        { "original": "痛", "annotation": "いた" },
+        { "original": "いほど" },
+        { "original": "脈打", "annotation": "みゃくう" },
+        { "original": "つのは" }
+      ]
+    },
+    {
+      "lyric": "かけがえないものに",
+      "translation": "在触碰到无可代替之物时",
+      "romanization": "ka ke ga e na i mo no ni",
+      "annotation": [{ "original": "かけがえないものに" }]
+    },
+    {
+      "lyric": "愛するべきものに",
+      "translation": "还有本该去爱之物时",
+      "romanization": "a i su ru be ki mo no ni",
+      "annotation": [
+        { "original": "愛", "annotation": "あい" },
+        { "original": "するべきものに" }
+      ]
+    },
+    {
+      "lyric": "触れた瞬間ばかりだ",
+      "translation": "那些瞬间感受到的",
+      "romanization": "fu re ta shu nn ka nn ba ka ri da",
+      "annotation": [
+        { "original": "触", "annotation": "ふ" },
+        { "original": "れた" },
+        { "original": "瞬間", "annotation": "しゅんかん" },
+        { "original": "ばかりだ" }
+      ]
+    },
+    {
+      "lyric": "きっと",
+      "translation": "一定",
+      "romanization": "ki tto",
+      "annotation": [{ "original": "きっと" }]
+    },
+    {
+      "lyric": "飛び跳ねる心臓が",
+      "translation": "那颗跳动的心脏",
+      "romanization": "to bi ha ne ru shi nn zo u ga",
+      "annotation": [
+        { "original": "飛", "annotation": "と" },
+        { "original": "び" },
+        { "original": "跳", "annotation": "は" },
+        { "original": "ねる" },
+        { "original": "心臓", "annotation": "しんぞう" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "鳴らした音は",
+      "translation": "所鸣响出的鼓动",
+      "romanization": "na ra shi ta o to ha",
+      "annotation": [
+        { "original": "鳴", "annotation": "な" },
+        { "original": "らした" },
+        { "original": "音", "annotation": "おと" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "僕にとって本当に大切なものを",
+      "translation": "就是一直都在告诉我",
+      "romanization": "bo ku ni to tte ho nn to u ni ta i se tsu na mo no wo",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "にとって" },
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "に" },
+        { "original": "大切", "annotation": "たいせつ" },
+        { "original": "なものを" }
+      ]
+    },
+    {
+      "lyric": "教えてくれていたんだずっと",
+      "translation": "哪些是对我来说重要的事物",
+      "romanization": "o shi e te ku re te i ta nn da zu tto",
+      "annotation": [
+        { "original": "教", "annotation": "おし" },
+        { "original": "えてくれていたんだずっと" }
+      ]
+    },
+    {
+      "lyric": "いつだって",
+      "translation": "无论何时",
+      "romanization": "i tsu da tte",
+      "annotation": [{ "original": "いつだって" }]
+    },
+    {
+      "lyric": "誰かに貼られた",
+      "translation": "无论是被谁贴上的",
+      "romanization": "da re ka ni ha ra re ta",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かに" },
+        { "original": "貼", "annotation": "は" },
+        { "original": "られた" }
+      ]
+    },
+    {
+      "lyric": "「らしさ」は要らない",
+      "translation": "所谓「个性」标签都是无需之物",
+      "romanization": "ra shi sa ha i ra na i",
+      "annotation": [
+        { "original": "「らしさ」は" },
+        { "original": "要", "annotation": "い" },
+        { "original": "らない" }
+      ]
+    },
+    {
+      "lyric": "どこまでも",
+      "translation": "无论到哪",
+      "romanization": "do ko ma de mo",
+      "annotation": [{ "original": "どこまでも" }]
+    },
+    {
+      "lyric": "響け僕のハートビート",
+      "translation": "响彻吧我的心音",
+      "romanization": "hi bi ke bo ku no ha a to bi i to",
+      "annotation": [
+        { "original": "響", "annotation": "ひび" },
+        { "original": "け" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "の" },
+        { "original": "ハートビート" }
+      ]
+    },
+    {
+      "lyric": "誰でもない",
+      "translation": "那是不属于他人",
+      "romanization": "da re de mo na i",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "でもない" }
+      ]
+    },
+    {
+      "lyric": "自分の証",
+      "translation": "而是我的证明",
+      "romanization": "ji bu nn no a ka shi",
+      "annotation": [
+        { "original": "自分", "annotation": "じぶん" },
+        { "original": "の" },
+        { "original": "証", "annotation": "あかし" }
+      ]
+    },
+    {
+      "lyric": "誇らしく鳴らせ",
+      "translation": "就让它自豪地鸣响吧",
+      "romanization": "ho ko ra shi ku na ra se",
+      "annotation": [
+        { "original": "誇", "annotation": "ほこ" },
+        { "original": "らしく" },
+        { "original": "鳴", "annotation": "な" },
+        { "original": "らせ" }
+      ]
+    },
+    {
+      "lyric": "張り裂けそうな",
+      "translation": "让那颗快要撕裂的",
+      "romanization": "ha ri sa ke so u na",
+      "annotation": [
+        { "original": "張", "annotation": "は" },
+        { "original": "り" },
+        { "original": "裂", "annotation": "さ" },
+        { "original": "けそうな" }
+      ]
+    },
+    {
+      "lyric": "心で鳴らせ",
+      "translation": "心脏去响彻世间",
+      "romanization": "ko ko ro de na ra se",
+      "annotation": [
+        { "original": "心", "annotation": "こころ" },
+        { "original": "で" },
+        { "original": "鳴", "annotation": "な" },
+        { "original": "らせ" }
+      ]
+    },
+    {
+      "lyric": "世界で一つの証",
+      "translation": "毕竟那是世界上唯一的证明",
+      "romanization": "se ka i de hi to tsu no a ka shi",
+      "annotation": [
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "で" },
+        { "original": "一", "annotation": "ひと" },
+        { "original": "つ" },
+        { "original": "の" },
+        { "original": "証", "annotation": "あかし" }
+      ]
+    },
+    {
+      "lyric": "ずっと遠くに見ていた",
+      "translation": "我一直在眺望着远方",
+      "romanization": "zu tto to o ku ni mi te i ta",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くに" },
+        { "original": "見", "annotation": "み" },
+        { "original": "ていた" }
+      ]
+    },
+    {
+      "lyric": "ずっと先の未来は",
+      "translation": "那总在远方的未来",
+      "romanization": "zu tto sa ki no mi ra i ha",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "先", "annotation": "さき" },
+        { "original": "の" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "ずっと近くに来ている",
+      "translation": "也正逐步接近着我",
+      "romanization": "zu tto chi ka ku ni ki te i ru",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "近", "annotation": "ちか" },
+        { "original": "くに" },
+        { "original": "来", "annotation": "き" },
+        { "original": "ている" }
+      ]
+    },
+    {
+      "lyric": "ずっとずっと",
+      "translation": "一直一直",
+      "romanization": "zu tto zu tto",
+      "annotation": [{ "original": "ずっとずっと" }]
+    },
+    {
+      "lyric": "ずっと前から僕が",
+      "translation": "很久以前的我",
+      "romanization": "zu tto ma e ka ra bo ku ga",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "前", "annotation": "まえ" },
+        { "original": "から" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "ずっと探していたものは",
+      "translation": "一直在寻找的事物",
+      "romanization": "zu tto sa ga shi te i ta mo no ha",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "探", "annotation": "さが" },
+        { "original": "していた" },
+        { "original": "ものは" }
+      ]
+    },
+    {
+      "lyric": "ずっと近くにあったんだ",
+      "translation": "其实一直在我身旁",
+      "romanization": "zu tto chi ka ku ni a tta nn da",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "近", "annotation": "ちか" },
+        { "original": "くに" },
+        { "original": "あったんだ" }
+      ]
+    },
+    {
+      "lyric": "ずっとずっと",
+      "translation": "一直一直",
+      "romanization": "zu tto zu tto",
+      "annotation": [{ "original": "ずっとずっと" }]
+    },
+    {
+      "lyric": "これは始まりの合図だ",
+      "translation": "这是开始的信号",
+      "romanization": "ko re ha ha ji ma ri no a i zu da",
+      "annotation": [
+        { "original": "これは" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "まりの" },
+        { "original": "合図", "annotation": "あいず" },
+        { "original": "だ" }
+      ]
+    }
+  ]
+}
