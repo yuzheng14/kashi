@@ -133,5 +133,9 @@
   "少し": [
     { "original": "少", "annotation": "すこ" },
     { "original": "し" }
+  ],
+  "繰り": [
+    { "original": "繰", "annotation": "く" },
+    { "original": "り" }
   ]
 }

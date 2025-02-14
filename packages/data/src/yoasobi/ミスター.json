@@ -1,0 +1,506 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "ミスター",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "Lalalalala-La",
+      "translation": "",
+      "romanization": "Lalalalala-La",
+      "annotation": [{ "original": "Lalalalala-La" }]
+    },
+    {
+      "lyric": "La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "La-Lalalala-LaLaaa" }]
+    },
+    {
+      "lyric": "シングルサイズの部屋で1人きり",
+      "translation": "独自一人蜷缩在这弹丸之地",
+      "romanization": "shi n gu ru sa i zu no he ya de hi to ri ki ri",
+      "annotation": [
+        { "original": "シングルサイズ" },
+        { "original": "の" },
+        { "original": "部屋", "annotation": "へや" },
+        { "original": "で" },
+        { "original": "1人", "annotation": "ひとり" },
+        { "original": "きり" }
+      ]
+    },
+    {
+      "lyric": "思い出すのはあなたとの暮らし",
+      "translation": "脑海早已被与你的故事占据",
+      "romanization": "o mo i da su no wa a na ta to no ku ra shi",
+      "annotation": [
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "すのは" },
+        { "original": "あなた" },
+        { "original": "との" },
+        { "original": "暮", "annotation": "く" },
+        { "original": "らし" }
+      ]
+    },
+    {
+      "lyric": "物語の舞台はビルが群れる",
+      "translation": "思绪逐渐飘向那遥远的海岸",
+      "romanization": "mo no ga ta ri no bu ta i wa bi ru ga mu re ru",
+      "annotation": [
+        { "original": "物語", "annotation": "ものがたり" },
+        { "original": "の" },
+        { "original": "舞台", "annotation": "ぶたい" },
+        { "original": "は" },
+        { "original": "ビル" },
+        { "original": "が" },
+        { "original": "群", "annotation": "む" },
+        { "original": "れる" }
+      ]
+    },
+    {
+      "lyric": "大都会を遠くに見る海辺の街",
+      "translation": "就在那车水马龙的大都市中",
+      "romanization": "da i to ka i wo to o ku ni mi ru u mi be no ma chi",
+      "annotation": [
+        { "original": "大都会", "annotation": "だいとかい" },
+        { "original": "を" },
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くに" },
+        { "original": "見", "annotation": "み" },
+        { "original": "る" },
+        { "original": "海辺", "annotation": "みべ" },
+        { "original": "の" },
+        { "original": "街", "annotation": "まち" }
+      ]
+    },
+    {
+      "lyric": "Lalalalala-La",
+      "translation": "",
+      "romanization": "Lalalalala-La",
+      "annotation": [{ "original": "Lalalalala-La" }]
+    },
+    {
+      "lyric": "La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "La-Lalalala-LaLaaa" }]
+    },
+    {
+      "lyric": "初めて会った日のことだって",
+      "translation": "初见那日所发生的一切",
+      "romanization": "ha ji me te a tta hi no ko to da tte",
+      "annotation": [
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めて" },
+        { "original": "会", "annotation": "あ" },
+        { "original": "った" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "ことだって" }
+      ]
+    },
+    {
+      "lyric": "今もまだちゃんと覚えてる",
+      "translation": "直到现在也还历历在目",
+      "romanization": "i ma mo ma da cha n to o bo e te ru",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "も" },
+        { "original": "まだ" },
+        { "original": "ちゃんと" },
+        { "original": "覚", "annotation": "おぼ" },
+        { "original": "えてる" }
+      ]
+    },
+    {
+      "lyric": "フォーマルなシャツ、ジャケットが",
+      "translation": "精致的衬衫与夹克",
+      "romanization": "foo ma ru na sha tsu、ja ke tto ga",
+      "annotation": [
+        { "original": "フォーマルな" },
+        { "original": "シャツ" },
+        { "original": "、" },
+        { "original": "ジャケット" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "少し不似合いなあなた",
+      "translation": "怎么整理也有些不合身",
+      "romanization": "su ko shi fu ni a i na a na ta",
+      "annotation": [
+        { "original": "少し", "annotation": "すこし" },
+        { "original": "不似合", "annotation": "ふにあ" },
+        { "original": "いな" },
+        { "original": "あなた" }
+      ]
+    },
+    {
+      "lyric": "言葉数は少なくて",
+      "translation": "先生你总是沉默寡言",
+      "romanization": "ko to ba ka zu wa su ku na ku te",
+      "annotation": [
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "数", "annotation": "かず" },
+        { "original": "は" },
+        { "original": "少", "annotation": "すく" },
+        { "original": "なくて" }
+      ]
+    },
+    {
+      "lyric": "いつも厳しくて叱られてばかりで",
+      "translation": "一开口便是严厉的苛责",
+      "romanization": "i tsu mo ki bi shi ku te shi ka ra re te ba ka ri de",
+      "annotation": [
+        { "original": "いつも" },
+        { "original": "厳", "annotation": "きび" },
+        { "original": "しくて" },
+        { "original": "叱", "annotation": "しか" },
+        { "original": "られてばかりで" }
+      ]
+    },
+    {
+      "lyric": "機械仕掛けのこころを",
+      "translation": "这机械一般的内心",
+      "romanization": "ki ka i shi ka ke no ko ko ro wo",
+      "annotation": [
+        { "original": "機械", "annotation": "きかい" },
+        { "original": "仕掛", "annotation": "しか" },
+        { "original": "けの" },
+        { "original": "こころ" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "無力さが包んでいった",
+      "translation": "被无力感层层笼罩",
+      "romanization": "mu ryo ku sa ga tsu tsu n de i tta",
+      "annotation": [
+        { "original": "無力", "annotation": "むりょく" },
+        { "original": "さが" },
+        { "original": "包", "annotation": "つつ" },
+        { "original": "んでいった" }
+      ]
+    },
+    {
+      "lyric": "でも､",
+      "translation": "但是",
+      "romanization": "de mo、",
+      "annotation": [{ "original": "でも､" }]
+    },
+    {
+      "lyric": "あなたを知りたくて",
+      "translation": "但我还是想要了解你",
+      "romanization": "a na ta wo shi ri ta ku te",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "を" },
+        { "original": "知", "annotation": "し" },
+        { "original": "りたくて" }
+      ]
+    },
+    {
+      "lyric": "なにもかも知っていたくて",
+      "translation": "想要去了解你的一切",
+      "romanization": "na ni mo ka mo shi tte i ta ku te",
+      "annotation": [
+        { "original": "なにもかも" },
+        { "original": "知", "annotation": "し" },
+        { "original": "っていたくて" }
+      ]
+    },
+    {
+      "lyric": "だけど教えてなんて",
+      "translation": "可得到的回应仅仅是",
+      "romanization": "da ke do o shi e te na n te",
+      "annotation": [
+        { "original": "だけど" },
+        { "original": "教", "annotation": "おし" },
+        { "original": "えてなんて" }
+      ]
+    },
+    {
+      "lyric": "言えずに1人そっと夜に祈る",
+      "translation": "独自站在夜色中祈愿",
+      "romanization": "i e zu ni hi to ri so tto yo ru ni i no ru",
+      "annotation": [
+        { "original": "言", "annotation": "い" },
+        { "original": "えずに" },
+        { "original": "1人", "annotation": "ひとり" },
+        { "original": "そっと" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "に" },
+        { "original": "祈", "annotation": "いの" },
+        { "original": "る" }
+      ]
+    },
+    {
+      "lyric": "少しでも分かりたくて",
+      "translation": "哪怕一丝一毫也好 我只想要了解你",
+      "romanization": "su ko shi de mo wa ka ri ta ku te",
+      "annotation": [
+        { "original": "少し", "annotation": "すこし" },
+        { "original": "でも" },
+        { "original": "分", "annotation": "わ" },
+        { "original": "かりたくて" }
+      ]
+    },
+    {
+      "lyric": "そんな日々を繰り返した",
+      "translation": "那样的日子一次又一次的重复",
+      "romanization": "so n na hi bi wo ku ri ka e shi ta",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "を" },
+        { "original": "繰", "annotation": "く" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "した" }
+      ]
+    },
+    {
+      "lyric": "Lalalalala-La La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "Lalalalala-La La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "Lalalalala-La La-Lalalala-LaLaaa" }]
+    },
+    {
+      "lyric": "Lalalalala-La La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "Lalalalala-La La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "Lalalalala-La La-Lalalala-LaLaaa" }]
+    },
+    {
+      "lyric": "それでも時折見せてくれた",
+      "translation": "尽管如此 有时也能看到",
+      "romanization": "so re de mo to ki o ri mi se te ku re ta",
+      "annotation": [
+        { "original": "それでも" },
+        { "original": "時", "annotation": "とき" },
+        { "original": "折", "annotation": "おり" },
+        { "original": "見", "annotation": "み" },
+        { "original": "せてくれた" }
+      ]
+    },
+    {
+      "lyric": "穏やかなあの表情も",
+      "translation": "先生你那温和的表情",
+      "romanization": "o da ya ka na a no hyo u jo u mo",
+      "annotation": [
+        { "original": "穏", "annotation": "おだ" },
+        { "original": "やかな" },
+        { "original": "あの" },
+        { "original": "表情", "annotation": "ひょうじょう" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "1度だけ浮かべた涙も",
+      "translation": "那仅仅流露一次的感情",
+      "romanization": "i chi do da ke u ka be ta na mi da mo",
+      "annotation": [
+        { "original": "1度", "annotation": "いちど" },
+        { "original": "だけ" },
+        { "original": "浮", "annotation": "う" },
+        { "original": "かべた" },
+        { "original": "涙", "annotation": "なみだ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "隠しきれずにこぼれてた",
+      "translation": "再也无法掩饰泪水充盈双目",
+      "romanization": "ka ku shi ki re zu ni ko bo re te ta",
+      "annotation": [
+        { "original": "隠", "annotation": "かく" },
+        { "original": "しきれずに" },
+        { "original": "こぼれてた" }
+      ]
+    },
+    {
+      "lyric": "優しさだった (あの日もそうだった)",
+      "translation": "温柔夺眶而出 即便是那些日子也是如此啊",
+      "romanization": "ya sa shi sa da tta",
+      "annotation": [
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しさだった" },
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "も" },
+        { "original": "そうだった" }
+      ]
+    },
+    {
+      "lyric": "あれは2人最後の思い出",
+      "translation": "这便是我们最后的回忆",
+      "romanization": "a re wa fu ta ri sa i go no o mo i de",
+      "annotation": [
+        { "original": "あれは" },
+        { "original": "2人", "annotation": "ふたり" },
+        { "original": "最後", "annotation": "さいご" },
+        { "original": "の" },
+        { "original": "思い出", "annotation": "おもいで" }
+      ]
+    },
+    {
+      "lyric": "暗闇で",
+      "translation": "在黑夜中",
+      "romanization": "ku ra ya mi de",
+      "annotation": [
+        { "original": "暗闇", "annotation": "くらやみ" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "この手を握り返して",
+      "translation": "握紧彼此的手",
+      "romanization": "ko no te wo ni gi ri ka e shi te",
+      "annotation": [
+        { "original": "この" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "握", "annotation": "にぎ" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "して" }
+      ]
+    },
+    {
+      "lyric": "笑ってくれた",
+      "translation": "对着彼此展露笑容",
+      "romanization": "wa ra tte ku re ta",
+      "annotation": [
+        { "original": "笑", "annotation": "わら" },
+        { "original": "ってくれた" }
+      ]
+    },
+    {
+      "lyric": "あなたはもういない",
+      "translation": "如今你却从我身边消失",
+      "romanization": "a na ta wa mo u i na i",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "は" },
+        { "original": "もう" },
+        { "original": "いない" }
+      ]
+    },
+    {
+      "lyric": "今でも聞きたくて",
+      "translation": "现在也还是想听到",
+      "romanization": "i ma de mo ki ki ta ku te",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "でも" },
+        { "original": "聞", "annotation": "き" },
+        { "original": "きたくて" }
+      ]
+    },
+    {
+      "lyric": "もう一度聞かせて欲しくって",
+      "translation": "想要再次听到先生你用那",
+      "romanization": "mo u i chi do ki ka se te ho shi ku tte",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "一度", "annotation": "いちど" },
+        { "original": "聞", "annotation": "き" },
+        { "original": "かせて" },
+        { "original": "欲", "annotation": "ほ" },
+        { "original": "しくって" }
+      ]
+    },
+    {
+      "lyric": "優しくて不器用な",
+      "translation": "温柔又略显笨拙的声音来",
+      "romanization": "ya sa shi ku te bu ki yo u na",
+      "annotation": [
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しくて" },
+        { "original": "不器用", "annotation": "ぶきよう" },
+        { "original": "な" }
+      ]
+    },
+    {
+      "lyric": "あなたの声を厳しい言葉を",
+      "translation": "对我说出严厉的话语什么呀",
+      "romanization": "a na ta no ko e wo ki bi shi i ko to ba wo",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "の" },
+        { "original": "声", "annotation": "こえ" },
+        { "original": "を" },
+        { "original": "厳", "annotation": "きび" },
+        { "original": "しい" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "なんて願う",
+      "translation": "我是多么希望",
+      "romanization": "na n te ne ga u",
+      "annotation": [
+        { "original": "なんて" },
+        { "original": "願", "annotation": "ねが" },
+        { "original": "う" }
+      ]
+    },
+    {
+      "lyric": "この気持ちはどんな名前なんですか",
+      "translation": "这份心情究竟该如何形容",
+      "romanization": "ko no ki mo chi wa do n na na ma e na n de su ka",
+      "annotation": [
+        { "original": "この" },
+        { "original": "気持", "annotation": "きも" },
+        { "original": "ちは" },
+        { "original": "どんな" },
+        { "original": "名前", "annotation": "なまえ" },
+        { "original": "なんですか" }
+      ]
+    },
+    {
+      "lyric": "またいつもと同じように",
+      "translation": "就像往常那样就好",
+      "romanization": "ma ta i tsu mo to o na ji yo u ni",
+      "annotation": [
+        { "original": "また" },
+        { "original": "いつも" },
+        { "original": "と" },
+        { "original": "同", "annotation": "おな" },
+        { "original": "じように" }
+      ]
+    },
+    {
+      "lyric": "私の事叱ってよ",
+      "translation": "对我说些苛责的话语吧",
+      "romanization": "wa ta shi no ko to shi ka tte yo",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "事", "annotation": "こと" },
+        { "original": "叱", "annotation": "しか" },
+        { "original": "ってよ" }
+      ]
+    },
+    {
+      "lyric": "ミスター",
+      "translation": "先生",
+      "romanization": "mi su taa",
+      "annotation": [{ "original": "ミスター" }]
+    },
+    {
+      "lyric": "Lalalalala-La La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "Lalalalala-La La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "Lalalalala-La La-Lalalala-LaLaaa" }]
+    },
+    {
+      "lyric": "Lalalalala-La La-Lalalala-LaLaaa",
+      "translation": "",
+      "romanization": "Lalalalala-La La-Lalalala-LaLaaa",
+      "annotation": [{ "original": "Lalalalala-La La-Lalalala-LaLaaa" }]
+    }
+  ]
+}
