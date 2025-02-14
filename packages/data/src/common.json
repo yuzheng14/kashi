@@ -137,5 +137,13 @@
   "繰り": [
     { "original": "繰", "annotation": "く" },
     { "original": "り" }
+  ],
+  "一つ": [
+    { "original": "一", "annotation": "ひと" },
+    { "original": "つ" }
+  ],
+  "二つ": [
+    { "original": "二", "annotation": "ふた" },
+    { "original": "つ" }
   ]
 }

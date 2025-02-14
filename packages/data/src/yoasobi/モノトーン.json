@@ -1,0 +1,778 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "モノトーン",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "ずっと　僕は　僕らは",
+      "translation": "一直以来 我 我们啊",
+      "romanization": "Zutto boku wa bokura wa",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らは" }
+      ]
+    },
+    {
+      "lyric": "一人きりの世界を生きている",
+      "translation": "都生活在自己一人的世界里",
+      "romanization": "Hitori-kiri no sekai o ikite-iru",
+      "annotation": [
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "きりの" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "を" },
+        { "original": "生きている", "annotation": "いきている" }
+      ]
+    },
+    {
+      "lyric": "隣り合う世界にそっとふれる度",
+      "translation": "却在悄然触及到与彼此相邻的世界时",
+      "romanization": "Tonari-au sekai ni sotto fureru tabi",
+      "annotation": [
+        { "original": "隣", "annotation": "とな" },
+        { "original": "り" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "う" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "に" },
+        { "original": "そっと" },
+        { "original": "ふれる", "annotation": "ふれる" },
+        { "original": "度", "annotation": "たび" }
+      ]
+    },
+    {
+      "lyric": "思い知るんだ",
+      "translation": "有所领会",
+      "romanization": "Omoi-shiru nda",
+      "annotation": [
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "知", "annotation": "し" },
+        { "original": "るんだ" }
+      ]
+    },
+    {
+      "lyric": "思い出すんだ",
+      "translation": "有所回想",
+      "romanization": "Omoi-dasu nda",
+      "annotation": [
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "すんだ" }
+      ]
+    },
+    {
+      "lyric": "幼い頃の僕らは",
+      "translation": "儿时的我们啊",
+      "romanization": "Osanai koro no bokura wa",
+      "annotation": [
+        { "original": "幼", "annotation": "おさな" },
+        { "original": "い" },
+        { "original": "頃", "annotation": "ころ" },
+        { "original": "の" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らは" }
+      ]
+    },
+    {
+      "lyric": "無邪気さに守られたまま",
+      "translation": "一直为天真无邪所呵护着",
+      "romanization": "Mujakisa ni mamorareta mama",
+      "annotation": [
+        { "original": "無邪気", "annotation": "むじゃき" },
+        { "original": "さに" },
+        { "original": "守", "annotation": "まも" },
+        { "original": "られた" },
+        { "original": "まま" }
+      ]
+    },
+    {
+      "lyric": "呼び合う名前と明日の約束",
+      "translation": "呼唤彼此名字 相约明天再会",
+      "romanization": "Yobi-au namae to ashita no yakusoku",
+      "annotation": [
+        { "original": "呼", "annotation": "よ" },
+        { "original": "び" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "う" },
+        { "original": "名前", "annotation": "なまえ" },
+        { "original": "と" },
+        { "original": "明日", "annotation": "あした" },
+        { "original": "の" },
+        { "original": "約束", "annotation": "やくそく" }
+      ]
+    },
+    {
+      "lyric": "それだけで",
+      "translation": "就这么简单地",
+      "romanization": "Soredake de",
+      "annotation": [{ "original": "それだけで" }]
+    },
+    {
+      "lyric": "世界は一つだと思えた",
+      "translation": "以为我们的世界也是一体的",
+      "romanization": "Sekai wa hitotsuda to omoeta",
+      "annotation": [
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "は" },
+        { "original": "一", "annotation": "ひと" },
+        { "original": "つ" },
+        { "original": "だと" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "えた" }
+      ]
+    },
+    {
+      "lyric": "分かり合えないことが",
+      "translation": "然而 有时我们无法互相理解",
+      "romanization": "Wakari-aenai koto ga",
+      "annotation": [
+        { "original": "分", "annotation": "わ" },
+        { "original": "かり" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "えない" },
+        { "original": "ことが" }
+      ]
+    },
+    {
+      "lyric": "許し合えないことが",
+      "translation": "有时我们难以彼此体谅",
+      "romanization": "Yurushi-aenai koto ga",
+      "annotation": [
+        { "original": "許", "annotation": "ゆる" },
+        { "original": "し" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "えない" },
+        { "original": "ことが" }
+      ]
+    },
+    {
+      "lyric": "一つ二つ増えていく",
+      "translation": "这样的事也开始一件一件地多起来",
+      "romanization": "Hitotsu futatsu fuete-iku",
+      "annotation": [
+        { "original": "一", "annotation": "ひと" },
+        { "original": "つ" },
+        { "original": "二", "annotation": "ふた" },
+        { "original": "つ" },
+        { "original": "増", "annotation": "ふ" },
+        { "original": "えていく" }
+      ]
+    },
+    {
+      "lyric": "その度に僕は",
+      "translation": "每当这时总让我",
+      "romanization": "Sonotabi ni boku wa",
+      "annotation": [
+        { "original": "その" },
+        { "original": "度", "annotation": "たび" },
+        { "original": "に" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "信じ合えると期待することさえも",
+      "translation": "连对彼此之间相互信任",
+      "romanization": "Shinji-aeru to kitaisuru koto sae mo",
+      "annotation": [
+        { "original": "信", "annotation": "しん" },
+        { "original": "じ" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "える" },
+        { "original": "と" },
+        { "original": "期待", "annotation": "きたい" },
+        { "original": "する" },
+        { "original": "こと" },
+        { "original": "さえも" }
+      ]
+    },
+    {
+      "lyric": "やめてしまった",
+      "translation": "也不再抱有期待",
+      "romanization": "Yamete-shimatta",
+      "annotation": [
+        { "original": "やめて", "annotation": "やめて" },
+        { "original": "しまった", "annotation": "しまった" }
+      ]
+    },
+    {
+      "lyric": "ずっと　僕は 僕らは",
+      "translation": "一直以来 我 我们啊",
+      "romanization": "Zutto boku wa bokura wa",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らは" }
+      ]
+    },
+    {
+      "lyric": "それぞれ別の世界を生きている",
+      "translation": "都生活在互相隔绝的世界里",
+      "romanization": "Sorezore betsu no sekai o ikite-iru",
+      "annotation": [
+        { "original": "それぞれ" },
+        { "original": "別", "annotation": "べつ" },
+        { "original": "の" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "を" },
+        { "original": "生", "annotation": "い" },
+        { "original": "きている" }
+      ]
+    },
+    {
+      "lyric": "近付いたと思えば",
+      "translation": "本想着已经彼此靠近",
+      "romanization": "Chikazu-ita to omoe ba",
+      "annotation": [
+        { "original": "近付", "annotation": "ちかづ" },
+        { "original": "いた" },
+        { "original": "と" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "えば" }
+      ]
+    },
+
+    {
+      "lyric": "離れ離れに",
+      "translation": "却终究咫尺天涯",
+      "romanization": "Hanare-banare ni",
+      "annotation": [
+        { "original": "離", "annotation": "はな" },
+        { "original": "れ" },
+        { "original": "離", "annotation": "ばな" },
+        { "original": "れに" }
+      ]
+    },
+    {
+      "lyric": "そう繰り返す度",
+      "translation": "如此循环往复",
+      "romanization": "Sō kuri-kaesu tabi",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "繰", "annotation": "く" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "す" },
+        { "original": "度", "annotation": "たび" }
+      ]
+    },
+    {
+      "lyric": "一人きりを思い知るんだ",
+      "translation": "才终于领悟到孑然一身的感受",
+      "romanization": "Hitori-kiri o omoi-shiru nda",
+      "annotation": [
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "きりを" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "知", "annotation": "し" },
+        { "original": "るんだ" }
+      ]
+    },
+    {
+      "lyric": "僕が",
+      "translation": "可是 我",
+      "romanization": "Boku ga",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "僕らが",
+      "translation": "我们啊",
+      "romanization": "Bokura ga",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らが" }
+      ]
+    },
+    {
+      "lyric": "それでも誰かを求めるのは",
+      "translation": "即使这样 也渴求着去触及对方的世界",
+      "romanization": "Soredemo dareka o motomeru nowa",
+      "annotation": [
+        { "original": "それでも" },
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "かを" },
+        { "original": "求", "annotation": "もと" },
+        { "original": "めるのは" }
+      ]
+    },
+    {
+      "lyric": "孤独をただ素直に受け入れたまま",
+      "translation": "是因为我们还没有成长到 能够坦然接受这份孤独",
+      "romanization": "Kodoku o tada sunao ni uke-ireta mama",
+      "annotation": [
+        { "original": "孤独", "annotation": "こどく" },
+        { "original": "を" },
+        { "original": "ただ" },
+        { "original": "素直", "annotation": "すなお" },
+        { "original": "に" },
+        { "original": "受", "annotation": "う" },
+        { "original": "け" },
+        { "original": "入", "annotation": "い" },
+        { "original": "れたまま" }
+      ]
+    },
+    {
+      "lyric": "生きていけるほど大人じゃないから",
+      "translation": "这么独自苟活下去啊",
+      "romanization": "Ikite-ikeru hodo otona-janai kara",
+      "annotation": [
+        { "original": "生", "annotation": "い" },
+        { "original": "きていけるほど" },
+        { "original": "大人", "annotation": "おとな" },
+        { "original": "じゃないから" }
+      ]
+    },
+    {
+      "lyric": "教室の後ろに貼られた",
+      "translation": "在教室后面张贴着的画作",
+      "romanization": "Kyōshitsu no ushiro ni harareta",
+      "annotation": [
+        { "original": "教室", "annotation": "きょうしつ" },
+        { "original": "の" },
+        { "original": "後", "annotation": "うし" },
+        { "original": "ろ" },
+        { "original": "に" },
+        { "original": "貼", "annotation": "は" },
+        { "original": "られた" }
+      ]
+    },
+    {
+      "lyric": "違う色で描かれた同じ景色たち",
+      "translation": "用不同的色彩 描绘出同一片景色",
+      "romanization": "Chigau iro de egakareta onaji keshikitachi",
+      "annotation": [
+        { "original": "違", "annotation": "ちが" },
+        { "original": "う" },
+        { "original": "色", "annotation": "いろ" },
+        { "original": "で" },
+        { "original": "描", "annotation": "えが" },
+        { "original": "かれた" },
+        { "original": "同", "annotation": "おな" },
+        { "original": "じ" },
+        { "original": "景色", "annotation": "けしき" },
+        { "original": "たち" }
+      ]
+    },
+    {
+      "lyric": "僕らは誰もがそれぞれで違う",
+      "translation": "我们彼此的个性也不尽相同",
+      "romanization": "Bokura wa daremo ga sorezore de chigau",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "らは" },
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "もが" },
+        { "original": "それぞれで" },
+        { "original": "違", "annotation": "ちが" },
+        { "original": "う" }
+      ]
+    },
+    {
+      "lyric": "少しのズレもなく重なることはないのに",
+      "translation": "本就绝无可能毫无分歧 完美重合",
+      "romanization": "Sukoshi no zure mo naku kasanaru koto wa nai noni",
+      "annotation": [
+        { "original": "少", "annotation": "すこ" },
+        { "original": "し" },
+        { "original": "の" },
+        { "original": "ズレもなく" },
+        { "original": "重", "annotation": "かさ" },
+        { "original": "なることはないのに" }
+      ]
+    },
+    {
+      "lyric": "描いている理想から",
+      "translation": "像是度量着“自己离当初描绘的理想",
+      "romanization": "Egaite-iru risō kara",
+      "annotation": [
+        { "original": "描", "annotation": "えが" },
+        { "original": "いている" },
+        { "original": "理想", "annotation": "りそう" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "どれだけ離れているかで測るような",
+      "translation": "究竟偏离了多远呢”这样",
+      "romanization": "Doredake hanarete-iru ka de hakaru yōna",
+      "annotation": [
+        { "original": "どれだけ" },
+        { "original": "離", "annotation": "はな" },
+        { "original": "れているかで" },
+        { "original": "測", "annotation": "はか" },
+        { "original": "るような" }
+      ]
+    },
+    {
+      "lyric": "愛に似せた　一人よがりは",
+      "translation": "以爱之名将自己的想法施加于彼此",
+      "romanization": "Ai ni niseta hiroti-yogari wa",
+      "annotation": [
+        { "original": "愛", "annotation": "あい" },
+        { "original": "に" },
+        { "original": "似", "annotation": "に" },
+        { "original": "せた" },
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "よがりは" }
+      ]
+    },
+    {
+      "lyric": "行き過ぎた　ないものねだり",
+      "translation": "不过成了过分的强人所难",
+      "romanization": "Iki-sugita nai-mono-nedari",
+      "annotation": [
+        { "original": "行", "annotation": "い" },
+        { "original": "き" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ぎた" },
+        { "original": "ないものねだり" }
+      ]
+    },
+    {
+      "lyric": "確かめる度　嫌になって",
+      "translation": "得到结果时 又感到不快",
+      "romanization": "Tashikameru tabi iya ni natte",
+      "annotation": [
+        { "original": "確", "annotation": "たし" },
+        { "original": "かめる" },
+        { "original": "度", "annotation": "たび" },
+        { "original": "嫌", "annotation": "いや" },
+        { "original": "になって" }
+      ]
+    },
+    {
+      "lyric": "求める度　身勝手になって",
+      "translation": "渴求结果时 却任性自私",
+      "romanization": "Motomeru tabi migatte ni natte",
+      "annotation": [
+        { "original": "求", "annotation": "もと" },
+        { "original": "める" },
+        { "original": "度", "annotation": "たび" },
+        { "original": "身勝手", "annotation": "みがって" },
+        { "original": "になって" }
+      ]
+    },
+    {
+      "lyric": "失う度　臆病になった",
+      "translation": "面临失去时 才变得怯懦",
+      "romanization": "Ushinau tabi okubyō ni natta",
+      "annotation": [
+        { "original": "失", "annotation": "うしな" },
+        { "original": "う" },
+        { "original": "度", "annotation": "たび" },
+        { "original": "臆病", "annotation": "おくびょう" },
+        { "original": "になった" }
+      ]
+    },
+    {
+      "lyric": "今より多くは望まないから",
+      "translation": "我不再祈求拥有比现在更多",
+      "romanization": "Ima yori ōku wa nozomanai kara",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "より" },
+        { "original": "多", "annotation": "おお" },
+        { "original": "くは" },
+        { "original": "望", "annotation": "のぞ" },
+        { "original": "まないから" }
+      ]
+    },
+    {
+      "lyric": "今より遠くへは行かないで",
+      "translation": "请你也不要走得比现在更远",
+      "romanization": "Ima yori tōkue wa ikanaide",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "より" },
+        { "original": "遠", "annotation": "とお" },
+        { "original": "くへは" },
+        { "original": "行", "annotation": "い" },
+        { "original": "かないで" }
+      ]
+    },
+    {
+      "lyric": "そうやって",
+      "translation": "就像这样",
+      "romanization": "Sō yatte",
+      "annotation": [{ "original": "そうやって" }]
+    },
+    {
+      "lyric": "曖昧な距離を保つことが",
+      "translation": "维持着彼此暧昧的距离",
+      "romanization": "Aimaina kyori o tamotsu koto ga",
+      "annotation": [
+        { "original": "曖昧", "annotation": "あいまい" },
+        { "original": "な" },
+        { "original": "距離", "annotation": "きょり" },
+        { "original": "を" },
+        { "original": "保", "annotation": "たも" },
+        { "original": "つことが" }
+      ]
+    },
+    {
+      "lyric": "大人になることだと思い込んだ",
+      "translation": "以为这才是长大成人吧",
+      "romanization": "Otona ni naru kotoda to omoi-konda",
+      "annotation": [
+        { "original": "大人", "annotation": "おとな" },
+        { "original": "になることだと思い込んだ" }
+      ]
+    },
+    {
+      "lyric": "僕は 僕は",
+      "translation": "也许我 我啊",
+      "romanization": "Boku wa boku wa",
+      "annotation": [
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "傷付くことから逃げているだけで",
+      "translation": "只是为了不受到伤害而去逃避现实",
+      "romanization": "Kizutsuku koto kara nigete-iru dakede",
+      "annotation": [
+        { "original": "傷付", "annotation": "きずつ" },
+        { "original": "くことから" },
+        { "original": "逃", "annotation": "に" },
+        { "original": "げているだけで" }
+      ]
+    },
+    {
+      "lyric": "本当はただ 今でもまだ",
+      "translation": "其实我只是 直到现在",
+      "romanization": "Hontō wa tada ima demo mada",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "は" },
+        { "original": "ただ" },
+        { "original": "今", "annotation": "いま" },
+        { "original": "でもまだ" }
+      ]
+    },
+    {
+      "lyric": "信じたいんだ",
+      "translation": "仍然渴望彼此的信任啊",
+      "romanization": "Shinjitai nda",
+      "annotation": [
+        { "original": "信", "annotation": "しん" },
+        { "original": "じたいんだ" }
+      ]
+    },
+    {
+      "lyric": "ずっと 僕は 僕らは",
+      "translation": "一直以来 我 我们啊",
+      "romanization": "Zutto boku wa bokura wa",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "は" },
+        { "original": "僕ら", "annotation": "ぼくら" },
+        { "original": "は" }
+      ]
+    },
+    {
+      "lyric": "誰もが別の世界を生きている",
+      "translation": "无论是谁都生活在互相隔绝的世界里",
+      "romanization": "Daremo ga betsu no sekai o ikite-iru",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "もが" },
+        { "original": "別", "annotation": "べつ" },
+        { "original": "の" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "を" },
+        { "original": "生きている" }
+      ]
+    },
+    {
+      "lyric": "だから手を繋いで",
+      "translation": "所以 牵起彼此的手吧",
+      "romanization": "Dakara te o tsunaide",
+      "annotation": [
+        { "original": "だから" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "繋", "annotation": "つな" },
+        { "original": "いで" }
+      ]
+    },
+    {
+      "lyric": "そう 言葉を交わして",
+      "translation": "就这样 互相交换心声",
+      "romanization": "Sō kotoba o kawashite",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "を" },
+        { "original": "交", "annotation": "か" },
+        { "original": "わして" }
+      ]
+    },
+    {
+      "lyric": "一人きりではないよと",
+      "translation": "“我们不再是孤身一人了呢”",
+      "romanization": "Hitori-kiri-dewanai yo to",
+      "annotation": [
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "きりではないよと" }
+      ]
+    },
+    {
+      "lyric": "お互いに誤魔化し合うんだ",
+      "translation": "就算是互相敷衍蒙蔽也好啊",
+      "romanization": "Otagaini gomakashi-au nda",
+      "annotation": [
+        { "original": "お" },
+        { "original": "互", "annotation": "たが" },
+        { "original": "いに" },
+        { "original": "誤魔化", "annotation": "ごまか" },
+        { "original": "し合うんだ" }
+      ]
+    },
+    {
+      "lyric": "いつか いつか",
+      "translation": "也许总有一天 总有一天",
+      "romanization": "Itsuka itsuka",
+      "annotation": [{ "original": "いつか" }, { "original": "いつか" }]
+    },
+    {
+      "lyric": "この未熟な孤独に包まれて",
+      "translation": "我们会被这份不成熟的孤独所笼罩",
+      "romanization": "Kono mijukuna kodoku ni tsuzumarete",
+      "annotation": [
+        { "original": "この" },
+        { "original": "未熟", "annotation": "みじゅく" },
+        { "original": "な" },
+        { "original": "孤独", "annotation": "こどく" },
+        { "original": "に" },
+        { "original": "包", "annotation": "つつ" },
+        { "original": "まれて" }
+      ]
+    },
+    {
+      "lyric": "覚えた寂しさと痛みの分だけ",
+      "translation": "若是那感受到的寂寞与痛苦",
+      "romanization": "Oboeta sabishisa to itami no bun dake",
+      "annotation": [
+        { "original": "覚", "annotation": "おぼ" },
+        { "original": "えた" },
+        { "original": "寂", "annotation": "さび" },
+        { "original": "しさ" },
+        { "original": "と" },
+        { "original": "痛", "annotation": "いた" },
+        { "original": "み" },
+        { "original": "の" },
+        { "original": "分だけ" }
+      ]
+    },
+    {
+      "lyric": "優しくなれたら",
+      "translation": "能够变得温柔的话",
+      "romanization": "Yasashiku-nare tara",
+      "annotation": [
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しくなれたら" }
+      ]
+    },
+    {
+      "lyric": "人を信じられたら",
+      "translation": "若是能够去信任他人的话就好了",
+      "romanization": "Hito o shinjirare tara",
+      "annotation": [
+        { "original": "人", "annotation": "ひと" },
+        { "original": "を" },
+        { "original": "信", "annotation": "しん" },
+        { "original": "じられたら" }
+      ]
+    },
+    {
+      "lyric": "ずっと 僕も　君も",
+      "translation": "一直以来 我 你",
+      "romanization": "Zutto boku mo kimi mo",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "僕", "annotation": "ぼく" },
+        { "original": "も" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "誰もが一人だ",
+      "translation": "无论谁都是孤身一人",
+      "romanization": "Daremo ga hitorida",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "もが" },
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "分かり合いたいと",
+      "translation": "当追求互相理解的",
+      "romanization": "Wakari-aitai to",
+      "annotation": [
+        { "original": "分", "annotation": "わ" },
+        { "original": "かり" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "いたいと" }
+      ]
+    },
+    {
+      "lyric": "寄り添い合った心が",
+      "translation": "互相依偎着的两颗心",
+      "romanization": "Yori-soi-atta kokoro ga",
+      "annotation": [
+        { "original": "寄", "annotation": "よ" },
+        { "original": "り" },
+        { "original": "添", "annotation": "そ" },
+        { "original": "い" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "った" },
+        { "original": "心", "annotation": "こころ" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "ふれるその時",
+      "translation": "得以触及到彼此时",
+      "romanization": "Fureru sonotoki",
+      "annotation": [
+        { "original": "ふれる" },
+        { "original": "その" },
+        { "original": "時", "annotation": "とき" }
+      ]
+    },
+    {
+      "lyric": "一瞬この世界は一つに見えた",
+      "translation": "在这一瞬 我们的世界仿佛又化为了一体",
+      "romanization": "Isshun kono sekai wa hitotsuni mieta",
+      "annotation": [
+        { "original": "一瞬", "annotation": "いっしゅん" },
+        { "original": "この" },
+        { "original": "世界", "annotation": "せかい" },
+        { "original": "は" },
+        { "original": "一", "annotation": "ひと" },
+        { "original": "つ" },
+        { "original": "に" },
+        { "original": "見", "annotation": "み" },
+        { "original": "えた" }
+      ]
+    }
+  ]
+}
