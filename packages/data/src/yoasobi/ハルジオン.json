@@ -1,0 +1,654 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "ハルジオン",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "過ぎてゆく時間の中",
+      "translation": "在流逝而去的时光中",
+      "romanization": "su gi te yu ku to ki no na ka",
+      "annotation": [
+        { "original": "過", "annotation": "す" },
+        { "original": "ぎてゆく" },
+        { "original": "時間", "annotation": "とき" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" }
+      ]
+    },
+    {
+      "lyric": "あなたを思い出す",
+      "translation": "我回想起你的事情",
+      "romanization": "a na ta o o mo i da su",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "を" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "す" }
+      ]
+    },
+    {
+      "lyric": "物憂げに眺める画面に映った二人",
+      "translation": "懒懒地眺望着画面里映出的两人后",
+      "romanization": "mo no u ge ni na ga me ru ka men ni u tsu tta fu ta ri",
+      "annotation": [
+        { "original": "物憂", "annotation": "ものう" },
+        { "original": "げに" },
+        { "original": "眺", "annotation": "なが" },
+        { "original": "める" },
+        { "original": "画面", "annotation": "かめん" },
+        { "original": "に" },
+        { "original": "映", "annotation": "うつ" },
+        { "original": "った" },
+        { "original": "二人", "annotation": "ふたり" }
+      ]
+    },
+    {
+      "lyric": "笑っていた",
+      "translation": "笑了起来",
+      "romanization": "wa ra tte i ta",
+      "annotation": [
+        { "original": "笑", "annotation": "わら" },
+        { "original": "っていた" }
+      ]
+    },
+    {
+      "lyric": "知りたくないほど",
+      "translation": "就因为知道得太多",
+      "romanization": "shi ri ta ku na i ho do",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "りたくない" },
+        { "original": "ほど" }
+      ]
+    },
+    {
+      "lyric": "知りすぎてくこと",
+      "translation": "以致于不想再知道",
+      "romanization": "shi ri su gi te ku ko to",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "りすぎてく" },
+        { "original": "こと" }
+      ]
+    },
+    {
+      "lyric": "ただ過ぎる日々に呑み込まれたの",
+      "translation": "只能被流逝的时光完全吞没其中吧",
+      "romanization": "ta da su gi ru hi bi ni no mi ko ma re ta no",
+      "annotation": [
+        { "original": "ただ" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ぎる" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" },
+        { "original": "呑", "annotation": "の" },
+        { "original": "み" },
+        { "original": "込", "annotation": "こ" },
+        { "original": "まれたの" }
+      ]
+    },
+    {
+      "lyric": "それでもただもう一度だけ会いたくて",
+      "translation": "即便如此哪怕只有一次我也依然想见你",
+      "romanization": "so re de mo ta da mo u i chi do da ke a i ta ku te",
+      "annotation": [
+        { "original": "それでも" },
+        { "original": "ただ" },
+        { "original": "もう" },
+        { "original": "一度", "annotation": "いちど" },
+        { "original": "だけ" },
+        { "original": "会", "annotation": "あ" },
+        { "original": "いたくて" }
+      ]
+    },
+    {
+      "lyric": "あなたの言葉に頷き信じた私を",
+      "translation": "那曾经点头相信你所说你所言的我",
+      "romanization": "a na ta no ko to ba ni u na su ki shi n ji ta wa ta shi wo",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "の" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "に" },
+        { "original": "頷", "annotation": "うなす" },
+        { "original": "き" },
+        { "original": "信", "annotation": "しん" },
+        { "original": "じた" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "一人置き去りに時間は過ぎる",
+      "translation": "被时光独自留下 它却不曾停息",
+      "romanization": "hi to ri o ki sa ri ni to ki wa su gi ru",
+      "annotation": [
+        { "original": "一人", "annotation": "ひとり" },
+        { "original": "置", "annotation": "お" },
+        { "original": "き" },
+        { "original": "去", "annotation": "さ" },
+        { "original": "りに" },
+        { "original": "時間", "annotation": "とき" },
+        { "original": "は" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ぎる" }
+      ]
+    },
+    {
+      "lyric": "見えていたはずの 未来も指の隙間をすり抜けた",
+      "translation": "那本该映入眼帘的未来也从指缝中悄然滑落了",
+      "romanization": "mi e te i ta ha zu no mi ra i mo yu bi no su ki ma wo su ri nu ke ta",
+      "annotation": [
+        { "original": "見", "annotation": "み" },
+        { "original": "えていた" },
+        { "original": "はず" },
+        { "original": "の" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "も" },
+        { "original": "指", "annotation": "ゆび" },
+        { "original": "の" },
+        { "original": "隙間", "annotation": "すきま" },
+        { "original": "を" },
+        { "original": "すり" },
+        { "original": "抜", "annotation": "ぬ" },
+        { "original": "けた" }
+      ]
+    },
+    {
+      "lyric": "戻れない日々の欠片とあなたの気配を 今でも探してしまうよ",
+      "translation": "此刻依然不禁找寻着已无法挽回的时光碎片与你的气息",
+      "romanization": "mo do re na i hi bi no ka ke ra to a na ta no ki ha i wo i ma de mo sa ga shi te shi ma u yo",
+      "annotation": [
+        { "original": "戻", "annotation": "もど" },
+        { "original": "れない" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "の" },
+        { "original": "欠片", "annotation": "かけら" },
+        { "original": "と" },
+        { "original": "あなた" },
+        { "original": "の" },
+        { "original": "気配", "annotation": "きはい" },
+        { "original": "を" },
+        { "original": "今", "annotation": "いま" },
+        { "original": "でも" },
+        { "original": "探", "annotation": "さが" },
+        { "original": "してしまうよ" }
+      ]
+    },
+    {
+      "lyric": "まだあの日の二人に手を伸ばしてる",
+      "translation": "依然竭力伸出手想要触碰那天的你我",
+      "romanization": "ma da a no hi no fu ta ri ni te wo no ba shi te ru",
+      "annotation": [
+        { "original": "まだ" },
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "に" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "伸", "annotation": "の" },
+        { "original": "ばしてる" }
+      ]
+    },
+    {
+      "lyric": "境界線は自分で引いた",
+      "translation": "在自己划出的分界线里",
+      "romanization": "kyo kai sen wa ji bun de hii ta",
+      "annotation": [
+        { "original": "境界線", "annotation": "きょかいせん" },
+        { "original": "は" },
+        { "original": "自分", "annotation": "じぶん" },
+        { "original": "で" },
+        { "original": "引", "annotation": "ひ" },
+        { "original": "いた" }
+      ]
+    },
+    {
+      "lyric": "「現実は」って見ないフリをしていた",
+      "translation": "假装无法看到而询问着现实又在哪里",
+      "romanization": "gen ji tsu wa tte mi nai fu ri wo shi te i ta",
+      "annotation": [
+        { "original": "「" },
+        { "original": "現実", "annotation": "げんじつ" },
+        { "original": "は" },
+        { "original": "」" },
+        { "original": "って" },
+        { "original": "見", "annotation": "み" },
+        { "original": "ない" },
+        { "original": "フリ" },
+        { "original": "を" },
+        { "original": "していた" }
+      ]
+    },
+    {
+      "lyric": "そんな私じゃ",
+      "translation": "若是那样的我",
+      "romanization": "so n na wa ta shi jya",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "じゃ" }
+      ]
+    },
+    {
+      "lyric": "見えない見えない",
+      "translation": "便无法看到 无法看到",
+      "romanization": "mi e na i mi e na i",
+      "annotation": [
+        { "original": "見", "annotation": "み" },
+        { "original": "えない" },
+        { "original": "見", "annotation": "み" },
+        { "original": "えない" }
+      ]
+    },
+    {
+      "lyric": "境界線の向こうに咲いた",
+      "translation": "在那条分界线的另一端",
+      "romanization": "kyo kai sen no mu ko u ni sa i ta",
+      "annotation": [
+        { "original": "境界線", "annotation": "きょかいせん" },
+        { "original": "の" },
+        { "original": "向", "annotation": "む" },
+        { "original": "こうに" },
+        { "original": "咲", "annotation": "さ" },
+        { "original": "いた" }
+      ]
+    },
+    {
+      "lyric": "鮮烈な花達も",
+      "translation": "绽放着的灿烂的花朵",
+      "romanization": "sen re tsu na ha na ta chi mo",
+      "annotation": [
+        { "original": "鮮烈", "annotation": "せんれつ" },
+        { "original": "な" },
+        { "original": "花達", "annotation": "はなたち" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "本当は見えてたのに",
+      "translation": "其实明明就能看得见",
+      "romanization": "hon to wa mi e te ta no ni",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんと" },
+        { "original": "は" },
+        { "original": "見", "annotation": "み" },
+        { "original": "えてた" },
+        { "original": "のに" }
+      ]
+    },
+    {
+      "lyric": "知らず知らずの内に",
+      "translation": "就在不知不觉之间",
+      "romanization": "shi ra zu shi ra zu no u chi ni",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "らず" },
+        { "original": "知", "annotation": "し" },
+        { "original": "らず" },
+        { "original": "の" },
+        { "original": "内", "annotation": "うち" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "擦り減らした心の扉に鍵をかけたの",
+      "translation": "那已经磨损的心扉却早已上了锁",
+      "romanization": "su ri he ra shi ta ko ko ro no do bi ra ni ka gi wo ka ke ta no",
+      "annotation": [
+        { "original": "擦", "annotation": "す" },
+        { "original": "り" },
+        { "original": "減", "annotation": "へ" },
+        { "original": "らした" },
+        { "original": "心", "annotation": "こころ" },
+        { "original": "の" },
+        { "original": "扉", "annotation": "とびら" },
+        { "original": "に" },
+        { "original": "鍵", "annotation": "かぎ" },
+        { "original": "を" },
+        { "original": "かけたの" }
+      ]
+    },
+    {
+      "lyric": "そこにはただ美しさの無い",
+      "translation": "而在那扇门扉之中所留下的",
+      "romanization": "so ko ni wa ta da u zu ku shi sa no na i",
+      "annotation": [
+        { "original": "そこ" },
+        { "original": "には" },
+        { "original": "ただ" },
+        { "original": "美", "annotation": "うず" },
+        { "original": "しさ" },
+        { "original": "の" },
+        { "original": "無", "annotation": "な" },
+        { "original": "い" }
+      ]
+    },
+    {
+      "lyric": "私だけが残されていた",
+      "translation": "只有毫无美感可言的我",
+      "romanization": "wa ta shi da ke ga no ko sa re te i ta",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "だけ" },
+        { "original": "が" },
+        { "original": "残", "annotation": "のこ" },
+        { "original": "されていた" }
+      ]
+    },
+    {
+      "lyric": "青過ぎる空に目の奥が染みた",
+      "translation": "过于蔚蓝的天空映染在我眼眸深处",
+      "romanization": "a o su gi ru so ra ni me wo no o ku ga shi mi ta",
+      "annotation": [
+        { "original": "青", "annotation": "あお" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ぎる" },
+        { "original": "空", "annotation": "そら" },
+        { "original": "に" },
+        { "original": "目", "annotation": "め" },
+        { "original": "の" },
+        { "original": "奥", "annotation": "おく" },
+        { "original": "が" },
+        { "original": "染", "annotation": "し" },
+        { "original": "みた" }
+      ]
+    },
+    {
+      "lyric": "あの日の景色に取りに帰るの",
+      "translation": "是否还能找回在那年夏天的景色里",
+      "romanization": "a no hi no ke shi ki ni to ri ni ka e ru no",
+      "annotation": [
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "景色", "annotation": "けしき" },
+        { "original": "に" },
+        { "original": "取", "annotation": "と" },
+        { "original": "り" },
+        { "original": "に" },
+        { "original": "帰", "annotation": "かえ" },
+        { "original": "る" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "あなたが好きだと言ってくれた私を",
+      "translation": "没有任何犹豫对你直言喜欢的那个我",
+      "romanization": "a na ta ga su ki da to i tte ku re ta wa ta shi wo",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "が" },
+        { "original": "好", "annotation": "す" },
+        { "original": "き" },
+        { "original": "だ" },
+        { "original": "と" },
+        { "original": "言", "annotation": "い" },
+        { "original": "って" },
+        { "original": "くれた" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "誰にも見せずに",
+      "translation": "这不对他人展现的思绪",
+      "romanization": "da re ni mo mi se zu ni",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "にも" },
+        { "original": "見", "annotation": "み" },
+        { "original": "せず" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "この手で隠した思いが",
+      "translation": "隐藏在双手之中",
+      "romanization": "ko no te de ka ku shi ta o mo i ga",
+      "annotation": [
+        { "original": "この" },
+        { "original": "手", "annotation": "て" },
+        { "original": "で" },
+        { "original": "隠", "annotation": "かく" },
+        { "original": "した" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "今も私の中で生きている",
+      "translation": "至今仍残留在我的体内",
+      "romanization": "i ma mo wa ta shi no na ka de i ki te i ru",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "も" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" },
+        { "original": "で" },
+        { "original": "生", "annotation": "い" },
+        { "original": "きて" },
+        { "original": "いる" }
+      ]
+    },
+    {
+      "lyric": "目を閉じてみれば",
+      "translation": "试着闭上眼睛之后",
+      "romanization": "me wo to ji te mi re ba",
+      "annotation": [
+        { "original": "目", "annotation": "め" },
+        { "original": "を" },
+        { "original": "閉", "annotation": "と" },
+        { "original": "じて" },
+        { "original": "みれば" }
+      ]
+    },
+    {
+      "lyric": "今も鮮やかに蘇る景色と",
+      "translation": "至今仍鲜明复苏的景色",
+      "romanization": "i ma mo a za ya ka ni yo mi ga e ru ke shi ki to",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "も" },
+        { "original": "鮮", "annotation": "あざ" },
+        { "original": "やか" },
+        { "original": "に" },
+        { "original": "蘇", "annotation": "よみがえ" },
+        { "original": "る" },
+        { "original": "景色", "annotation": "けしき" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "戻れない日々の欠片が",
+      "translation": "与无法再挽回的时光碎片",
+      "romanization": "mo do re na i hi bi no ka ke ra ga",
+      "annotation": [
+        { "original": "戻", "annotation": "もど" },
+        { "original": "れない" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "の" },
+        { "original": "欠片", "annotation": "かけら" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "映し出したのは",
+      "translation": "其中所倒映出的是",
+      "romanization": "u zu shi da shi ta no wa",
+      "annotation": [
+        { "original": "映", "annotation": "うつ" },
+        { "original": "し" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "した" },
+        { "original": "のは" }
+      ]
+    },
+    {
+      "lyric": "蕾のまま閉じ込めた未来",
+      "translation": "仍如花蕾般未曾绽放的未来",
+      "romanization": "tsu bo mi no ma ma do ji ko me ta mi ra i",
+      "annotation": [
+        { "original": "蕾", "annotation": "つぼみ" },
+        { "original": "のまま" },
+        { "original": "閉", "annotation": "ど" },
+        { "original": "じ" },
+        { "original": "込", "annotation": "こ" },
+        { "original": "めた" },
+        { "original": "未来", "annotation": "みらい" }
+      ]
+    },
+    {
+      "lyric": "もう一度描き出す",
+      "translation": "再一次开始描绘",
+      "romanization": "mo u i chi do e ga ki da su",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "一度", "annotation": "いちど" },
+        { "original": "描", "annotation": "えが" },
+        { "original": "き", "annotation": "き" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "す", "annotation": "す" }
+      ]
+    },
+    {
+      "lyric": "あの日のあなたの言葉と",
+      "translation": "你曾经在那天说过的话题",
+      "romanization": "a no hi no a na ta no ko to ba to",
+      "annotation": [
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "あなた" },
+        { "original": "の" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "美しい時間と",
+      "translation": "与美好的时光",
+      "romanization": "u zu ku shi i to ki to",
+      "annotation": [
+        { "original": "美", "annotation": "うつく" },
+        { "original": "しい" },
+        { "original": "時間", "annotation": "とき" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "二人で過ごしたあの景色が",
+      "translation": "还有在两人曾共度的那番景象里",
+      "romanization": "fu ta ri de su go shi ta a no ke shi ki ga",
+      "annotation": [
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "で" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ごした" },
+        { "original": "あの" },
+        { "original": "景色", "annotation": "けしき" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "忘れてた思いと",
+      "translation": "已经忘却的思绪",
+      "romanization": "wa su re te ta o mo i to",
+      "annotation": [
+        { "original": "忘", "annotation": "わす" },
+        { "original": "れてた" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "失したはずの未来を繋いでいく",
+      "translation": "与原已被我遗失的未来连接在一起",
+      "romanization": "na ku shi ta ha zu no mi ra i wo tsu na i de i ku",
+      "annotation": [
+        { "original": "失", "annotation": "なく" },
+        { "original": "した" },
+        { "original": "はず" },
+        { "original": "の" },
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "を" },
+        { "original": "繋", "annotation": "つな" },
+        { "original": "いでいく" }
+      ]
+    },
+    {
+      "lyric": "戻れない日々の続きを歩いていくんだ",
+      "translation": "迈步在早已回不去的时光后续之中",
+      "romanization": "mo do re na i hi bi no tsu zu ki wo a ru i te i ku n da",
+      "annotation": [
+        { "original": "戻", "annotation": "もど" },
+        { "original": "れない" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "の" },
+        { "original": "続", "annotation": "つづ" },
+        { "original": "き" },
+        { "original": "を" },
+        { "original": "歩", "annotation": "ある" },
+        { "original": "いていく" },
+        { "original": "んだ" }
+      ]
+    },
+    {
+      "lyric": "これからも、あなたがいなくても",
+      "translation": "哪怕由此以后已经不会再有你的身影",
+      "romanization": "ko re ka ra mo a na ta ga i na ku te mo",
+      "annotation": [
+        { "original": "これから" },
+        { "original": "も" },
+        { "original": "あなた" },
+        { "original": "が" },
+        { "original": "いなくても" }
+      ]
+    },
+    {
+      "lyric": "あの日の二人に手を振れば",
+      "translation": "若是能挥手告别那天的你我",
+      "romanization": "a no hi no fu ta ri ni te wo fu re ba",
+      "annotation": [
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "二人", "annotation": "ふたり" },
+        { "original": "に" },
+        { "original": "手", "annotation": "て" },
+        { "original": "を" },
+        { "original": "振", "annotation": "ふ" },
+        { "original": "れば" }
+      ]
+    },
+    {
+      "lyric": "確かに動き出した",
+      "translation": "我便能没有丝毫犹豫地",
+      "romanization": "ta shi ka ni u go ki da shi ta",
+      "annotation": [
+        { "original": "確", "annotation": "たしか" },
+        { "original": "に" },
+        { "original": "動", "annotation": "うご" },
+        { "original": "き" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "した" }
+      ]
+    },
+    {
+      "lyric": "未来へ",
+      "translation": "迈向未来",
+      "romanization": "mi ra i e",
+      "annotation": [
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "へ" }
+      ]
+    }
+  ]
+}

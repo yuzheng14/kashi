@@ -9,6 +9,7 @@ import _HEART_BEAT from './HEART BEAT.json'
 import _好きだ from './好きだ.json'
 import _だぶん from './だぶん.json'
 import _勇者 from './勇者.json'
+import _ハルジオン from './ハルジオン.json'
 
 export const yoasobi = {
   セブンティーン: _セブンティーン as SongJsonSchema,
@@ -21,4 +22,5 @@ export const yoasobi = {
   好きだ: _好きだ as SongJsonSchema,
   だぶん: _だぶん as SongJsonSchema,
   勇者: _勇者 as SongJsonSchema,
+  ハルジオン: _ハルジオン as SongJsonSchema,
 }
