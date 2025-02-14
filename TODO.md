@@ -19,7 +19,7 @@
 - [x] New me
 - [x] モノトーン
 - [x] 優しい彗星
-- [ ] Biri-Biri
+- [x] Biri-Biri
 - [x] 怪物
 - [x] あの夢をなぞって
 - [x] HEART BEART

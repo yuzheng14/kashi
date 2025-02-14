@@ -1,0 +1,901 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "Biri-Biri",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "「はじめまして」した日から",
+      "translation": "从说出「你好 初次见面」那天起",
+      "romanization": "「ha ji me ma shi te」shi ta hi ka ra",
+      "annotation": [
+        { "original": "「はじめまして」" },
+        { "original": "した" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "ずっと待っていた",
+      "translation": "我就等待着这天",
+      "romanization": "zu tto ma tte i ta",
+      "annotation": [
+        { "original": "ずっと" },
+        { "original": "待", "annotation": "ま" },
+        { "original": "っていた" }
+      ]
+    },
+    {
+      "lyric": "この日を想っていた",
+      "translation": "日复一日期待着这天",
+      "romanization": "ko no hi wo o mo tte i ta",
+      "annotation": [
+        { "original": "この" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "を" },
+        { "original": "想", "annotation": "おも" },
+        { "original": "っていた" }
+      ]
+    },
+    {
+      "lyric": "キラキラその目に宿った",
+      "translation": "我见到了在那眼眸中",
+      "romanization": "ki ra ki ra so no me ni ya do tta",
+      "annotation": [
+        { "original": "キラキラ" },
+        { "original": "その" },
+        { "original": "目", "annotation": "め" },
+        { "original": "に" },
+        { "original": "宿", "annotation": "やど" },
+        { "original": "った" }
+      ]
+    },
+    {
+      "lyric": "光を見たんだ",
+      "translation": "闪烁的光芒",
+      "romanization": "hi ka ri wo mi ta n da",
+      "annotation": [
+        { "original": "光", "annotation": "ひかり" },
+        { "original": "を" },
+        { "original": "見", "annotation": "み" },
+        { "original": "たんだ" }
+      ]
+    },
+    {
+      "lyric": "広がるこの大地を歩いて",
+      "translation": "在广阔的大地上迈出步伐",
+      "romanization": "hi ro ga ru ko no da i chi wo a ru i te",
+      "annotation": [
+        { "original": "広", "annotation": "ひろ" },
+        { "original": "がる" },
+        { "original": "この" },
+        { "original": "大地", "annotation": "だいち" },
+        { "original": "を" },
+        { "original": "歩", "annotation": "ある" },
+        { "original": "いて" }
+      ]
+    },
+    {
+      "lyric": "新たな出会いに触れてきっと",
+      "translation": "去接触全新的邂逅 我想一定",
+      "romanization": "a ra ta na de a i ni fu re te ki tto",
+      "annotation": [
+        { "original": "新", "annotation": "あら" },
+        { "original": "たな" },
+        { "original": "出会", "annotation": "であ" },
+        { "original": "いに" },
+        { "original": "触", "annotation": "ふ" },
+        { "original": "れてきっと" }
+      ]
+    },
+    {
+      "lyric": "見つけ出せる",
+      "translation": "能够寻找出",
+      "romanization": "mi tsu ke da se ru",
+      "annotation": [
+        { "original": "見", "annotation": "み" },
+        { "original": "つけ" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "せる" }
+      ]
+    },
+    {
+      "lyric": "きみだけのジュエル",
+      "translation": "只属于你的宝石",
+      "romanization": "ki mi da ke no ju e ru",
+      "annotation": [
+        { "original": "きみ" },
+        { "original": "だけの" },
+        { "original": "ジュエル" }
+      ]
+    },
+    {
+      "lyric": "その軌跡をセーブ",
+      "translation": "将这轨迹保存",
+      "romanization": "so no ki se ki wo see bu",
+      "annotation": [
+        { "original": "その" },
+        { "original": "軌跡", "annotation": "きせき" },
+        { "original": "を" },
+        { "original": "セーブ" }
+      ]
+    },
+    {
+      "lyric": "全部全部",
+      "translation": "全部全部",
+      "romanization": "ze n bu ze n bu",
+      "annotation": [
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "全部", "annotation": "ぜんぶ" }
+      ]
+    },
+    {
+      "lyric": "Hurry up!",
+      "translation": "",
+      "romanization": "Hurry up!",
+      "annotation": [{ "original": "Hurry up!" }]
+    },
+    {
+      "lyric": "Hurry up!",
+      "translation": "",
+      "romanization": "Hurry up!",
+      "annotation": [{ "original": "Hurry up!" }]
+    },
+    {
+      "lyric": "赤青緑色とりどり",
+      "translation": "红蓝绿五颜六色",
+      "romanization": "a ka a o mi do ri i ro to ri do ri",
+      "annotation": [
+        { "original": "赤", "annotation": "あか" },
+        { "original": "青", "annotation": "あお" },
+        { "original": "緑", "annotation": "みどり" },
+        { "original": "色", "annotation": "いろ" },
+        { "original": "とりどり" }
+      ]
+    },
+    {
+      "lyric": "宝探し たまに寄り道",
+      "translation": "在探宝路上顺路寻出",
+      "romanization": "ta ka ra sa ga shi ta ma ni yo ri mi chi",
+      "annotation": [
+        { "original": "宝探", "annotation": "たからさが" },
+        { "original": "し" },
+        { "original": "たまに" },
+        { "original": "寄", "annotation": "よ" },
+        { "original": "り" },
+        { "original": "道", "annotation": "みち" }
+      ]
+    },
+    {
+      "lyric": "手合わせ願う それじゃ一緒に",
+      "translation": "双手合十祈祷 那就一起",
+      "romanization": "te a wa se ne ga u so re ja i ssho ni",
+      "annotation": [
+        { "original": "手合", "annotation": "てあ" },
+        { "original": "わせ" },
+        { "original": "願", "annotation": "ねが" },
+        { "original": "う" },
+        { "original": "それじゃ" },
+        { "original": "一緒", "annotation": "いっしょ" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "3.2.1!",
+      "translation": "",
+      "romanization": "3.2.1!",
+      "annotation": [{ "original": "3.2.1!" }]
+    },
+    {
+      "lyric": "3.2.1!",
+      "translation": "",
+      "romanization": "3.2.1!",
+      "annotation": [{ "original": "3.2.1!" }]
+    },
+    {
+      "lyric": "「キミにきめた！」",
+      "translation": "「就决定是你了！」",
+      "romanization": "「ki mi ni ki me ta!」",
+      "annotation": [
+        { "original": "「キミ", "annotation": "きみ" },
+        { "original": "に" },
+        { "original": "きめた！」" }
+      ]
+    },
+    {
+      "lyric": "今日も幕が開けた",
+      "translation": "今天由此开幕",
+      "romanization": "kyo u mo ma ku ga a ke ta",
+      "annotation": [
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "も" },
+        { "original": "幕", "annotation": "まく" },
+        { "original": "が" },
+        { "original": "開", "annotation": "あ" },
+        { "original": "けた" }
+      ]
+    },
+    {
+      "lyric": "Let me そう Let me feel",
+      "translation": "Let me 没错 Let me feel",
+      "romanization": "Let me so u Let me feel",
+      "annotation": [
+        { "original": "Let me" },
+        { "original": "そう" },
+        { "original": "Let me feel" }
+      ]
+    },
+    {
+      "lyric": "ドキドキがもう",
+      "translation": "心跳砰砰加速",
+      "romanization": "do ki do ki ga mo u",
+      "annotation": [
+        { "original": "ドキドキ", "annotation": "どきどき" },
+        { "original": "がもう" }
+      ]
+    },
+    {
+      "lyric": "止まらない止められない",
+      "translation": "无法停止 停不下来",
+      "romanization": "to ma ra na i to me ra re na i",
+      "annotation": [
+        { "original": "止", "annotation": "と" },
+        { "original": "まらない" },
+        { "original": "止", "annotation": "と" },
+        { "original": "められない" }
+      ]
+    },
+    {
+      "lyric": "磨き続けた",
+      "translation": "继续磨练",
+      "romanization": "mi ga ki tsu zu ke ta",
+      "annotation": [
+        { "original": "磨", "annotation": "みが" },
+        { "original": "き" },
+        { "original": "続", "annotation": "つず" },
+        { "original": "けた" }
+      ]
+    },
+    {
+      "lyric": "一撃をビリビリと今",
+      "translation": "让这哔哩哔哩的一次电击",
+      "romanization": "i chi ge ki wo bi ri bi ri to i ma",
+      "annotation": [
+        { "original": "一撃", "annotation": "いちげき" },
+        { "original": "を" },
+        { "original": "ビリビリ", "annotation": "びりびり" },
+        { "original": "と" },
+        { "original": "今", "annotation": "いま" }
+      ]
+    },
+    {
+      "lyric": "狙い定めて",
+      "translation": "如今瞄准目标",
+      "romanization": "ne ra i sa da me te",
+      "annotation": [
+        { "original": "狙", "annotation": "ねら" },
+        { "original": "い" },
+        { "original": "定", "annotation": "さだ" },
+        { "original": "めて" }
+      ]
+    },
+    {
+      "lyric": "Keep it up!",
+      "translation": "Keep it up!",
+      "romanization": "Keep it up!",
+      "annotation": [{ "original": "Keep it up!" }]
+    },
+    {
+      "lyric": "さあ Pick out",
+      "translation": "来吧 Pick out",
+      "romanization": "sa a Pick out",
+      "annotation": [{ "original": "さあ" }, { "original": "Pick out" }]
+    },
+    {
+      "lyric": "実りある瞬間を駆けるの",
+      "translation": "去寻找有收获的瞬间",
+      "romanization": "mi no ri a ru shu n ka n wo ka ke ru no",
+      "annotation": [
+        { "original": "実", "annotation": "みの" },
+        { "original": "りある" },
+        { "original": "瞬間", "annotation": "しゅんかん" },
+        { "original": "を" },
+        { "original": "駆", "annotation": "か" },
+        { "original": "けるの" }
+      ]
+    },
+    {
+      "lyric": "行こう No limit よ",
+      "translation": "走吧 No limit",
+      "romanization": "i ko u No limit yo",
+      "annotation": [
+        { "original": "行", "annotation": "い" },
+        { "original": "こう" },
+        { "original": "No limit" },
+        { "original": "よ" }
+      ]
+    },
+    {
+      "lyric": "ビリビリと",
+      "translation": "释放哔哩作响的电击",
+      "romanization": "bi ri bi ri to",
+      "annotation": [
+        { "original": "ビリビリ", "annotation": "びりびり" },
+        { "original": "と" }
+      ]
+    },
+    {
+      "lyric": "今きみと",
+      "translation": "现在就和你",
+      "romanization": "i ma ki mi to",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "きみと" }
+      ]
+    },
+    {
+      "lyric": "ジリジリを",
+      "translation": "逐步逼近冠军",
+      "romanization": "ji ri ji ri wo",
+      "annotation": [
+        { "original": "ジリジリ", "annotation": "じりじり" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "Give me, Give me, more",
+      "translation": "Give me, Give me, more",
+      "romanization": "Give me, Give me, more",
+      "annotation": [{ "original": "Give me, Give me, more" }]
+    },
+    {
+      "lyric": "ヒリヒリの",
+      "translation": "让电击刺痛肌肤",
+      "romanization": "hi ri hi ri no",
+      "annotation": [
+        { "original": "ヒリヒリ", "annotation": "ひりひり" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "Living, Living, oh",
+      "translation": "Living, Living, oh",
+      "romanization": "Living, Living, oh",
+      "annotation": [{ "original": "Living, Living, oh" }]
+    },
+    {
+      "lyric": "ギリギリも",
+      "translation": "就算一分险胜",
+      "romanization": "gi ri gi ri mo",
+      "annotation": [
+        { "original": "ギリギリ", "annotation": "ぎりぎり" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "楽しむの",
+      "translation": "也要享受对战",
+      "romanization": "ta no shi mu no",
+      "annotation": [
+        { "original": "楽", "annotation": "たの" },
+        { "original": "しむの" }
+      ]
+    },
+    {
+      "lyric": "金銀クリスタル",
+      "translation": "金银水晶",
+      "romanization": "ki n gi n ku ri su ta ru",
+      "annotation": [
+        { "original": "金銀", "annotation": "きんぎん" },
+        { "original": "クリスタル", "annotation": "くりすたる" }
+      ]
+    },
+    {
+      "lyric": "欲しいのはそんなんじゃないんだ",
+      "translation": "我想要的可不是这个啊",
+      "romanization": "ho shi i no wa so n na n ja na i n da",
+      "annotation": [
+        { "original": "欲", "annotation": "ほ" },
+        { "original": "しいのは" },
+        { "original": "そんなんじゃないんだ" }
+      ]
+    },
+
+    {
+      "lyric": "新人？リーダー？",
+      "translation": "新人？馆主？",
+      "romanization": "shi n ji n? rii daa?",
+      "annotation": [
+        { "original": "新", "annotation": "しん" },
+        { "original": "人", "annotation": "じん" },
+        { "original": "？" },
+        { "original": "リーダー", "annotation": "りーだ" },
+        { "original": "？" }
+      ]
+    },
+    {
+      "lyric": "誰でも構わないや",
+      "translation": "是谁都毫无所谓",
+      "romanization": "da re de mo ka ma wa na i ya",
+      "annotation": [
+        { "original": "誰", "annotation": "だれ" },
+        { "original": "でも" },
+        { "original": "構", "annotation": "かま" },
+        { "original": "わないや" }
+      ]
+    },
+    {
+      "lyric": "蒼天の下 エメラルドの海超え",
+      "translation": "苍天之下 翡翠之海",
+      "romanization": "so u te n no mo to e me ra ru do no u mi ko e",
+      "annotation": [
+        { "original": "蒼", "annotation": "そう" },
+        { "original": "天", "annotation": "てん" },
+        { "original": "の" },
+        { "original": "下", "annotation": "もと" },
+        { "original": "エメラルド", "annotation": "えめらるど" },
+        { "original": "の" },
+        { "original": "海", "annotation": "うみ" },
+        { "original": "超", "annotation": "こ" },
+        { "original": "え" }
+      ]
+    },
+    {
+      "lyric": "探し出す紅一点",
+      "translation": "在其中寻出一点红",
+      "romanization": "sa ga shi da su ko u i tte n",
+      "annotation": [
+        { "original": "探", "annotation": "さが" },
+        { "original": "し" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "す" },
+        { "original": "紅", "annotation": "こう" },
+        { "original": "一点", "annotation": "いってん" }
+      ]
+    },
+    {
+      "lyric": "難しい問題パスして",
+      "translation": "躲开困难重重的问题",
+      "romanization": "mu zu ka shi i mo n da i pa su shi te",
+      "annotation": [
+        { "original": "難", "annotation": "むずか" },
+        { "original": "しい" },
+        { "original": "問題", "annotation": "もんだい" },
+        { "original": "パス", "annotation": "ぱす" },
+        { "original": "して" }
+      ]
+    },
+    {
+      "lyric": "面白いが眠る街へ",
+      "translation": "去往眠藏着有趣好玩的城市",
+      "romanization": "o mo shi ro i ga ne mu ru ma chi e",
+      "annotation": [
+        { "original": "面", "annotation": "おも" },
+        { "original": "白", "annotation": "しろ" },
+        { "original": "いが" },
+        { "original": "眠", "annotation": "ねむ" },
+        { "original": "る" },
+        { "original": "街", "annotation": "まち" },
+        { "original": "へ" }
+      ]
+    },
+    {
+      "lyric": "白黒付ける",
+      "translation": "标注白与黑",
+      "romanization": "shi ro ku ro tsu ke ru",
+      "annotation": [
+        { "original": "白", "annotation": "しろ" },
+        { "original": "黒", "annotation": "くろ" },
+        { "original": "付", "annotation": "つ" },
+        { "original": "ける" }
+      ]
+    },
+    {
+      "lyric": "知ってるバトルのHow toなら",
+      "translation": "若是知道的对战该How to的话",
+      "romanization": "shi tte ru ba to ru no How tona ra",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "ってる" },
+        { "original": "バトル", "annotation": "ばとる" },
+        { "original": "の" },
+        { "original": "How to", "annotation": "How to" },
+        { "original": "なら" }
+      ]
+    },
+    {
+      "lyric": "ABC から XYZ",
+      "translation": "从 ABC 到 XYZ",
+      "romanization": "ABC ka ra XYZ",
+      "annotation": [
+        { "original": "ABC" },
+        { "original": "から" },
+        { "original": "XYZ" }
+      ]
+    },
+    {
+      "lyric": "きみに会えた",
+      "translation": "终于见到你了",
+      "romanization": "ki mi ni a e ta",
+      "annotation": [
+        { "original": "きみ" },
+        { "original": "に" },
+        { "original": "会", "annotation": "あ" },
+        { "original": "えた" }
+      ]
+    },
+    {
+      "lyric": "やっと巡り会えた",
+      "translation": "终于与你邂逅了",
+      "romanization": "ya tto me gu ri a e ta",
+      "annotation": [
+        { "original": "やっと" },
+        { "original": "巡", "annotation": "めぐ" },
+        { "original": "り" },
+        { "original": "会", "annotation": "あ" },
+        { "original": "えた" }
+      ]
+    },
+    {
+      "lyric": "Let me そう Let me feel",
+      "translation": "Let me 没错 Let me feel",
+      "romanization": "Let me so u Let me feel",
+      "annotation": [
+        { "original": "Let me" },
+        { "original": "そう" },
+        { "original": "Let me" },
+        { "original": "feel" }
+      ]
+    },
+    {
+      "lyric": "ドキドキしてるの",
+      "translation": "心跳砰砰加速",
+      "romanization": "do ki do ki shi te ru no",
+      "annotation": [
+        { "original": "ドキドキ", "annotation": "どきどき" },
+        { "original": "してるの" }
+      ]
+    },
+    {
+      "lyric": "きみも同じかな",
+      "translation": "你也一样吗",
+      "romanization": "ki mi mo o na ji ka na",
+      "annotation": [
+        { "original": "きみ" },
+        { "original": "も" },
+        { "original": "同", "annotation": "おな" },
+        { "original": "じかな" }
+      ]
+    },
+    {
+      "lyric": "陽が差す朝も",
+      "translation": "即使在阳光普照的日晨",
+      "romanization": "hi ga sa su a sa mo",
+      "annotation": [
+        { "original": "陽", "annotation": "ひ" },
+        { "original": "が" },
+        { "original": "差", "annotation": "さ" },
+        { "original": "す" },
+        { "original": "朝", "annotation": "あさ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "月が見える夜も",
+      "translation": "看到月亮的夜晚",
+      "romanization": "tsu ki ga mi e ru yo ru mo",
+      "annotation": [
+        { "original": "月", "annotation": "つき" },
+        { "original": "が" },
+        { "original": "見", "annotation": "み" },
+        { "original": "える" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "積み上げてきたもの",
+      "translation": "就让我们用积累起来的经验",
+      "romanization": "tsu mi a ge te ki ta mo no",
+      "annotation": [
+        { "original": "積", "annotation": "つ" },
+        { "original": "み" },
+        { "original": "上", "annotation": "あ" },
+        { "original": "げてきたもの" }
+      ]
+    },
+    {
+      "lyric": "ぶつけ合おう",
+      "translation": "相互碰撞吧",
+      "romanization": "bu tsu ke a o u",
+      "annotation": [
+        { "original": "ぶつけ" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "おう" }
+      ]
+    },
+    {
+      "lyric": "真剣勝負",
+      "translation": "来场认真的对战",
+      "romanization": "shi n ke n sho u bu",
+      "annotation": [
+        { "original": "真", "annotation": "しん" },
+        { "original": "剣", "annotation": "けん" },
+        { "original": "勝", "annotation": "しょう" },
+        { "original": "負", "annotation": "ぶ" }
+      ]
+    },
+
+    {
+      "lyric": "どうしたってもう止まんない",
+      "translation": "无论如何都无法停止",
+      "romanization": "do u shi ta tte mo u to ma n na i",
+      "annotation": [
+        { "original": "どうしたってもう" },
+        { "original": "止", "annotation": "と" },
+        { "original": "まんない" }
+      ]
+    },
+    {
+      "lyric": "夢に見た",
+      "translation": "在这个我梦寐以求",
+      "romanization": "yu me ni mi ta",
+      "annotation": [
+        { "original": "夢", "annotation": "ゆめ" },
+        { "original": "に" },
+        { "original": "見", "annotation": "み" },
+        { "original": "た" }
+      ]
+    },
+    {
+      "lyric": "このステージで",
+      "translation": "渴望站上的舞台之上",
+      "romanization": "ko no su tee ji de",
+      "annotation": [
+        { "original": "この" },
+        { "original": "ステージ" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "「キミにきめた！」",
+      "translation": "「就决定是你了！」",
+      "romanization": "「ki mi ni ki me ta!」",
+      "annotation": [
+        { "original": "「キミ", "annotation": "きみ" },
+        { "original": "に" },
+        { "original": "きめた！」" }
+      ]
+    },
+    {
+      "lyric": "待ち侘びたこの時を   さあ",
+      "translation": "在这个等候已久的时刻 来吧",
+      "romanization": "ma chi wa bi ta ko no to ki wo   sa a",
+      "annotation": [
+        { "original": "待", "annotation": "ま" },
+        { "original": "ち" },
+        { "original": "侘", "annotation": "わ" },
+        { "original": "びた" },
+        { "original": "この" },
+        { "original": "時", "annotation": "とき" },
+        { "original": "を" },
+        { "original": "さあ" }
+      ]
+    },
+    {
+      "lyric": "ドクドクと",
+      "translation": "心跳砰砰加速",
+      "romanization": "do ku do ku to",
+      "annotation": [{ "original": "ドクドク" }, { "original": "と" }]
+    },
+    {
+      "lyric": "感じる鼓動の先に行こう",
+      "translation": "去感受这份心跳的尽头",
+      "romanization": "ka n ji ru ko do u no sa ki ni i ko u",
+      "annotation": [
+        { "original": "感", "annotation": "かん" },
+        { "original": "じる" },
+        { "original": "鼓動", "annotation": "こどう" },
+        { "original": "の" },
+        { "original": "先", "annotation": "さき" },
+        { "original": "に" },
+        { "original": "行", "annotation": "い" },
+        { "original": "こう" }
+      ]
+    },
+    {
+      "lyric": "磨き続けた",
+      "translation": "继续磨练",
+      "romanization": "mi ga ki tsu zu ke ta",
+      "annotation": [
+        { "original": "磨", "annotation": "みが" },
+        { "original": "き" },
+        { "original": "続", "annotation": "つず" },
+        { "original": "けた" }
+      ]
+    },
+    {
+      "lyric": "一撃をビリビリと今",
+      "translation": "让这哔哩哔哩的一次电击",
+      "romanization": "i chi ge ki wo bi ri bi ri to i ma",
+      "annotation": [
+        { "original": "一撃", "annotation": "いちげき" },
+        { "original": "を" },
+        { "original": "ビリビリ" },
+        { "original": "と" },
+        { "original": "今", "annotation": "いま" }
+      ]
+    },
+    {
+      "lyric": "狙い定めて",
+      "translation": "如今瞄准目标",
+      "romanization": "ne ra i za da me te",
+      "annotation": [
+        { "original": "狙", "annotation": "ねら" },
+        { "original": "い" },
+        { "original": "定", "annotation": "さだ" },
+        { "original": "めて" }
+      ]
+    },
+    {
+      "lyric": "Keep it up!",
+      "translation": "",
+      "romanization": "Keep it up!",
+      "annotation": [{ "original": "Keep it up!" }]
+    },
+    {
+      "lyric": "Keep it up!",
+      "translation": "",
+      "romanization": "Keep it up!",
+      "annotation": [{ "original": "Keep it up!" }]
+    },
+    {
+      "lyric": "さあ Pick out",
+      "translation": "来吧 Pick out",
+      "romanization": "sa a Pick out",
+      "annotation": [{ "original": "さあ" }, { "original": "Pick out" }]
+    },
+    {
+      "lyric": "実りある瞬間にしよう",
+      "translation": "去寻找有收获的瞬间",
+      "romanization": "mi no ri a ru shu n ka n ni shi yo u",
+      "annotation": [
+        { "original": "実", "annotation": "みの" },
+        { "original": "りある" },
+        { "original": "瞬間", "annotation": "しゅんかん" },
+        { "original": "に" },
+        { "original": "しよう" }
+      ]
+    },
+    {
+      "lyric": "いつでも No limit よ",
+      "translation": "无论何时 No limit",
+      "romanization": "i tsu de mo No limit yo",
+      "annotation": [
+        { "original": "いつでも" },
+        { "original": "No limit" },
+        { "original": "よ" }
+      ]
+    },
+    {
+      "lyric": "スカした顔のきみも",
+      "translation": "无论是一脸阴沉的你",
+      "romanization": "su ka shi ta ka o no ki mi mo",
+      "annotation": [
+        { "original": "スカした" },
+        { "original": "顔", "annotation": "かお" },
+        { "original": "の" },
+        { "original": "きみ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "人見知りなきみも",
+      "translation": "还是那怕生羞涩的你",
+      "romanization": "hi to mi shi ri na ki mi mo",
+      "annotation": [
+        { "original": "人見知", "annotation": "ひとみし" },
+        { "original": "りな" },
+        { "original": "きみ" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "下向いてた過去にバイバイを",
+      "translation": "现在就向那低头的过去说拜拜",
+      "romanization": "shi ta mu i te ta ka ko ni ba i ba i wo",
+      "annotation": [
+        { "original": "下向", "annotation": "したむ" },
+        { "original": "いてた" },
+        { "original": "過去", "annotation": "かこ" },
+        { "original": "に" },
+        { "original": "バイバイ" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "未来をゲット！",
+      "translation": "未来Get！",
+      "romanization": "mi ra i wo ge tto!",
+      "annotation": [
+        { "original": "未来", "annotation": "みらい" },
+        { "original": "を" },
+        { "original": "ゲット" }
+      ]
+    },
+    {
+      "lyric": "ビリビリと",
+      "translation": "释放哔哩作响的电击",
+      "romanization": "bi ri bi ri to",
+      "annotation": [{ "original": "ビリビリ" }, { "original": "と" }]
+    },
+    {
+      "lyric": "今きみと",
+      "translation": "现在就和你",
+      "romanization": "i ma ki mi to",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "きみと" }
+      ]
+    },
+    {
+      "lyric": "ジリジリを",
+      "translation": "逐步逼近冠军",
+      "romanization": "ji ri ji ri wo",
+      "annotation": [
+        { "original": "ジリジリ", "annotation": "じりじり" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "Give me, Give me, more",
+      "translation": "Give me, Give me, more",
+      "romanization": "Give me, Give me, more",
+      "annotation": [{ "original": "Give me, Give me, more" }]
+    },
+    {
+      "lyric": "Give me, Give me, more",
+      "translation": "Give me, Give me, more",
+      "romanization": "Give me, Give me, more",
+      "annotation": [{ "original": "Give me, Give me, more" }]
+    },
+    {
+      "lyric": "ヒリヒリの",
+      "translation": "让电击刺痛肌肤",
+      "romanization": "hi ri hi ri no",
+      "annotation": [
+        { "original": "ヒリヒリ", "annotation": "ひりひり" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "Living, Living, oh",
+      "translation": "Living, Living, oh",
+      "romanization": "Living, Living, oh",
+      "annotation": [{ "original": "Living, Living, oh" }]
+    },
+    {
+      "lyric": "Living, Living, oh",
+      "translation": "Living, Living, oh",
+      "romanization": "Living, Living, oh",
+      "annotation": [{ "original": "Living, Living, oh" }]
+    },
+    {
+      "lyric": "ギリギリも",
+      "translation": "就算一分险胜",
+      "romanization": "gi ri gi ri mo",
+      "annotation": [
+        { "original": "ギリギリ", "annotation": "ぎりぎり" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "楽しむの",
+      "translation": "也要享受对战",
+      "romanization": "ta no shi mu no",
+      "annotation": [
+        { "original": "楽", "annotation": "たの" },
+        { "original": "しむの" }
+      ]
+    }
+  ]
+}

@@ -18,6 +18,7 @@ import _New_me from './New me.json'
 import _ミスター from './ミスター.json'
 import _モノトーン from './モノトーン.json'
 import _優しい彗星 from './優しい彗星.json'
+import _Biri_Biri from './Biri-Biri.json'
 
 export const yoasobi = {
   セブンティーン: _セブンティーン as SongJsonSchema,
@@ -39,4 +40,5 @@ export const yoasobi = {
   ミスター: _ミスター as SongJsonSchema,
   モノトーン: _モノトーン as SongJsonSchema,
   優しい彗星: _優しい彗星 as SongJsonSchema,
+  'Biri-Biri': _Biri_Biri as SongJsonSchema,
 }
