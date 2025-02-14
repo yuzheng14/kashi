@@ -1,0 +1,613 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "New me",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "お決まりの今日が 退屈な日々が",
+      "translation": "一如往常的今日 依旧如此索然无味",
+      "romanization": "o ki ma ri no kyo u ga ta i ku tsu na hi bi ga",
+      "annotation": [
+        { "original": "お", "annotation": "お" },
+        { "original": "決", "annotation": "き" },
+        { "original": "まりの" },
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "が" },
+        { "original": "退屈", "annotation": "たいくつ" },
+        { "original": "な" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "変わり始めた ある日の物語",
+      "translation": "可也了发生转变 化作某一天的故事",
+      "romanization": "ka wa ri ha ji me ta a ru hi no mo no ga ta ri",
+      "annotation": [
+        { "original": "変", "annotation": "か" },
+        { "original": "わり" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "めた" },
+        { "original": "ある" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "の" },
+        { "original": "物語", "annotation": "ものがたり" }
+      ]
+    },
+    {
+      "lyric": "ここからきっと これまでのどんな私よりずっと",
+      "translation": "自此起始 我定会超越过去往昔",
+      "romanization": "ko ko ka ra ki tto ko re ma de no do n na wa ta shi yo ri zu tto",
+      "annotation": [
+        { "original": "ここ" },
+        { "original": "から" },
+        { "original": "きっと" },
+        { "original": "これ" },
+        { "original": "までの" },
+        { "original": "どんな" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "より" },
+        { "original": "ずっと" }
+      ]
+    },
+    {
+      "lyric": "私になる new me",
+      "translation": "成为全新的自己 New me",
+      "romanization": "wa ta shi ni na ru new me",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "になる" },
+        { "original": "new me" }
+      ]
+    },
+    {
+      "lyric": "どんどん上手になっていく smile",
+      "translation": "愈发擅长的笑颜",
+      "romanization": "do n do n jo u zu ni na tte i ku smile",
+      "annotation": [
+        { "original": "どんどん" },
+        { "original": "上手", "annotation": "じょうず" },
+        { "original": "に" },
+        { "original": "なっていく" },
+        { "original": "smile" }
+      ]
+    },
+    {
+      "lyric": "いつも愛想良く day by day 擦り減らした",
+      "translation": "总是那么亲切和善 日复一日也褪去了真实",
+      "romanization": "i tsu mo a i so yo ku day by day su ri he ra shi ta",
+      "annotation": [
+        { "original": "いつも" },
+        { "original": "愛想", "annotation": "あいそ" },
+        { "original": "良", "annotation": "よ" },
+        { "original": "く" },
+        { "original": "day by day" },
+        { "original": "擦", "annotation": "す" },
+        { "original": "り" },
+        { "original": "減", "annotation": "へ" },
+        { "original": "らした" }
+      ]
+    },
+    {
+      "lyric": "本当の自分なんて居ない",
+      "translation": "真正的自我已不复存在",
+      "romanization": "ho n to u no ji bu n na n te i na i",
+      "annotation": [
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "の" },
+        { "original": "自分", "annotation": "じぶん" },
+        { "original": "なんて" },
+        { "original": "居", "annotation": "い" },
+        { "original": "ない" }
+      ]
+    },
+    {
+      "lyric": "嘯いた \"I'm feeling good\"",
+      "translation": "若无其事地说着 \"我感觉很好\"",
+      "romanization": "u so bu i ta \"I'm feeling good\"",
+      "annotation": [
+        { "original": "嘯", "annotation": "うそ" },
+        { "original": "いた" },
+        { "original": "\"I'm feeling good\"" }
+      ]
+    },
+    {
+      "lyric": "嘘付きな \"I'm feeling you\"",
+      "translation": "而你却谎说\"我懂你的感受\"",
+      "romanization": "u so tsu ki na \"I'm feeling you\"",
+      "annotation": [
+        { "original": "嘘", "annotation": "うそ" },
+        { "original": "付", "annotation": "つ" },
+        { "original": "きな" },
+        { "original": "\"I'm feeling you\"" }
+      ]
+    },
+    {
+      "lyric": "たまらないわ",
+      "translation": "我实在难以承受",
+      "romanization": "ta ma ra na i wa",
+      "annotation": [{ "original": "たまらない" }, { "original": "わ" }]
+    },
+    {
+      "lyric": "Hey you 恋人は？",
+      "translation": "嘿 你有恋人吗？",
+      "romanization": "Hey you ko i bi to wa?",
+      "annotation": [
+        { "original": "Hey you" },
+        { "original": "恋人", "annotation": "こいびと" },
+        { "original": "は？" }
+      ]
+    },
+    {
+      "lyric": "出会いとかはどう？始まった",
+      "translation": "邂逅如何？由此开始交谈",
+      "romanization": "de a i to ka wa do u?ha ji ma tta",
+      "annotation": [
+        { "original": "出会", "annotation": "であ" },
+        { "original": "い" },
+        { "original": "とか" },
+        { "original": "はどう？" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "まった" }
+      ]
+    },
+    {
+      "lyric": "Bad day (Bad things)",
+      "translation": "倒霉的一日 糟糕的诸事 我的上司",
+      "romanization": "Bad day (Bad things)",
+      "annotation": [{ "original": "Bad day (Bad things)" }]
+    },
+    {
+      "lyric": "My boss (Oh-oh)",
+      "translation": "Oh, oh...",
+      "romanization": "My boss (Oh-oh)",
+      "annotation": [{ "original": "My boss (Oh-oh)" }]
+    },
+    {
+      "lyric": "嫌いなの 話しかけないで",
+      "translation": "不要附加上讨厌的话题",
+      "romanization": "ki ra i na no ha na shi ka ke na i de",
+      "annotation": [
+        { "original": "嫌", "annotation": "きら" },
+        { "original": "いなの" },
+        { "original": "話", "annotation": "はなし" },
+        { "original": "しかけないで" }
+      ]
+    },
+    {
+      "lyric": "不愉快なお節介で決まった 憂鬱な約束",
+      "translation": "因那悲伤的多管闲事而定下这郁闷的约定",
+      "romanization": "fu yu ka i na o se kka i de ki ma tta yu u u tsu na ya ku so ku",
+      "annotation": [
+        { "original": "不愉快", "annotation": "ふゆかい" },
+        { "original": "な" },
+        { "original": "お" },
+        { "original": "節介", "annotation": "せっかい" },
+        { "original": "で" },
+        { "original": "決", "annotation": "き" },
+        { "original": "まった" },
+        { "original": "憂鬱", "annotation": "ゆううつ" },
+        { "original": "な" },
+        { "original": "約束", "annotation": "やくそく" }
+      ]
+    },
+    {
+      "lyric": "そんな一日が始まる",
+      "translation": "而后这样的一日拉开了帷幕",
+      "romanization": "so n na tsu i ta chi ga ha ji ma ru",
+      "annotation": [
+        { "original": "そんな" },
+        { "original": "一日", "annotation": "ついたち" },
+        { "original": "が" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "まる" }
+      ]
+    },
+    {
+      "lyric": "待ち合わせは朝の station",
+      "translation": "约会地点在清晨的站台",
+      "romanization": "ma chi a wa se wa a sa no station",
+      "annotation": [
+        { "original": "待", "annotation": "ま" },
+        { "original": "ち" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "わせ" },
+        { "original": "は" },
+        { "original": "朝", "annotation": "あさ" },
+        { "original": "の" },
+        { "original": "station" }
+      ]
+    },
+    {
+      "lyric": "いつもよりも着飾る but not special",
+      "translation": "但并非特别 穿着却胜过平素",
+      "romanization": "i tsu mo yo ri mo ki ka za ru but not special",
+      "annotation": [
+        { "original": "いつも" },
+        { "original": "よりも" },
+        { "original": "着飾", "annotation": "きかざ" },
+        { "original": "る" },
+        { "original": "but not special" }
+      ]
+    },
+    {
+      "lyric": "浮き足立つ私の",
+      "translation": "内心飘飘然的我",
+      "romanization": "u ki a shi ta tsu wa ta shi no",
+      "annotation": [
+        { "original": "浮", "annotation": "う" },
+        { "original": "き" },
+        { "original": "足", "annotation": "あし" },
+        { "original": "立", "annotation": "た" },
+        { "original": "つ" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "名前を呼ぶその声に 顔上げた",
+      "translation": "听到你呼唤我的名字 而抬起头",
+      "romanization": "na ma e wo yo bu so no ko e ni ka o a ge ta",
+      "annotation": [
+        { "original": "名前", "annotation": "なまえ" },
+        { "original": "を" },
+        { "original": "呼", "annotation": "よ" },
+        { "original": "ぶ" },
+        { "original": "その" },
+        { "original": "声", "annotation": "こえ" },
+        { "original": "に" },
+        { "original": "顔", "annotation": "かお" },
+        { "original": "上", "annotation": "あ" },
+        { "original": "げた" }
+      ]
+    },
+    {
+      "lyric": "I've met the unknown",
+      "translation": "我邂逅了未知",
+      "romanization": "I've met the unknown",
+      "annotation": [{ "original": "I've met the unknown" }]
+    },
+    {
+      "lyric": "I don't know what you mean at all",
+      "translation": "我不知你于众人之中何处",
+      "romanization": "I don't know what you mean at all",
+      "annotation": [{ "original": "I don't know what you mean at all" }]
+    },
+    {
+      "lyric": "Oh, I've met the unknown",
+      "translation": "噢 我寻找到了那未知",
+      "romanization": "Oh, I've met the unknown",
+      "annotation": [{ "original": "Oh, I've met the unknown" }]
+    },
+    {
+      "lyric": "長い前髪の",
+      "translation": "是那留着长长刘海的",
+      "romanization": "na ga i ma e ga mi no",
+      "annotation": [
+        { "original": "長", "annotation": "なが" },
+        { "original": "い" },
+        { "original": "前髪", "annotation": "まえがみ" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "I've met the unknown",
+      "translation": "我已与未知邂逅",
+      "romanization": "I've met the unknown",
+      "annotation": [{ "original": "I've met the unknown" }]
+    },
+    {
+      "lyric": "I've met him, he's mysterious",
+      "translation": "我邂逅了 神秘莫测的他",
+      "romanization": "I've met him, he's mysterious",
+      "annotation": [{ "original": "I've met him, he's mysterious" }]
+    },
+    {
+      "lyric": "まさかの出会いから始まる物語",
+      "translation": "从邂逅开始的故事",
+      "romanization": "ma sa ka no de a i ka ra ha ji ma ru mo no ga ta ri",
+      "annotation": [
+        { "original": "まさかの" },
+        { "original": "出会", "annotation": "であ" },
+        { "original": "いから" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "まる" },
+        { "original": "物語", "annotation": "ものがたり" }
+      ]
+    },
+    {
+      "lyric": "初めましてを交わしてから",
+      "translation": "在互道初次相见之后",
+      "romanization": "ha ji me ma shi te wo ka wa shi te ka ra",
+      "annotation": [
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めましてを" },
+        { "original": "交", "annotation": "か" },
+        { "original": "わしてから" }
+      ]
+    },
+    {
+      "lyric": "あっという間に今",
+      "translation": "转瞬间直至当下",
+      "romanization": "a tto i u ma ni i ma",
+      "annotation": [
+        { "original": "あっという" },
+        { "original": "間", "annotation": "ま" },
+        { "original": "に" },
+        { "original": "今", "annotation": "いま" }
+      ]
+    },
+    {
+      "lyric": "風切り駆け出した",
+      "translation": "如风般奔跑着",
+      "romanization": "ka za ki ri ka ke da shi ta",
+      "annotation": [
+        { "original": "風", "annotation": "かぜ" },
+        { "original": "切", "annotation": "き" },
+        { "original": "り" },
+        { "original": "駆", "annotation": "か" },
+        { "original": "け" },
+        { "original": "出", "annotation": "だ" },
+        { "original": "した" }
+      ]
+    },
+    {
+      "lyric": "ありきたりな日々を背に二人",
+      "translation": "我们两人背对着那些平凡",
+      "romanization": "a ri ki ta ri na hi bi wo se ni fu ta ri",
+      "annotation": [
+        { "original": "ありきたりな" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "を" },
+        { "original": "背", "annotation": "せ" },
+        { "original": "に" },
+        { "original": "二人", "annotation": "ふたり" }
+      ]
+    },
+    {
+      "lyric": "街を抜ける",
+      "translation": "穿梭过城市",
+      "romanization": "ma chi wo nu ke ru",
+      "annotation": [
+        { "original": "街", "annotation": "まち" },
+        { "original": "を" },
+        { "original": "抜", "annotation": "ぬ" },
+        { "original": "ける" }
+      ]
+    },
+    {
+      "lyric": "そう I've met the unknown",
+      "translation": "没错 我邂逅了未知",
+      "romanization": "so u I've met the unknown",
+      "annotation": [
+        { "original": "そう" },
+        { "original": "I've met the unknown" }
+      ]
+    },
+    {
+      "lyric": "I don't know what you mean at all",
+      "translation": "我不知你于众人之中何处",
+      "romanization": "I don't know what you mean at all",
+      "annotation": [{ "original": "I don't know what you mean at all" }]
+    },
+    {
+      "lyric": "Oh, I've met the unknown",
+      "translation": "噢 我寻找到了那未知",
+      "romanization": "Oh, I've met the unknown",
+      "annotation": [{ "original": "Oh, I've met the unknown" }]
+    },
+    {
+      "lyric": "ダボついたシャツの",
+      "translation": "穿着宽松衬衫的",
+      "romanization": "da bo tsu i ta sha tsu no",
+      "annotation": [
+        { "original": "ダボついた" },
+        { "original": "シャツ" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "I've met the unknown",
+      "translation": "我已与未知邂逅",
+      "romanization": "I've met the unknown",
+      "annotation": [{ "original": "I've met the unknown" }]
+    },
+    {
+      "lyric": "Don't know what path I'd call my own",
+      "translation": "却不知何路应该属于我",
+      "romanization": "Don't know what path I'd call my own",
+      "annotation": [{ "original": "Don't know what path I'd call my own" }]
+    },
+    {
+      "lyric": "ありえない展開 でも",
+      "translation": "即便这是不可能的发展",
+      "romanization": "a ri e na i te n ka i de mo",
+      "annotation": [
+        { "original": "ありえない" },
+        { "original": "展開", "annotation": "てんかい" },
+        { "original": "でも" }
+      ]
+    },
+    {
+      "lyric": "あなたがくれた 驚きに満ちた",
+      "translation": "满是你赐予我的惊喜",
+      "romanization": "a na ta ga ku re ta o do ro ki ni mi chi ta",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "が" },
+        { "original": "くれた" },
+        { "original": "驚", "annotation": "おどろ" },
+        { "original": "きに" },
+        { "original": "満", "annotation": "み" },
+        { "original": "ちた" }
+      ]
+    },
+    {
+      "lyric": "慌ただしい今日が 気付かせてくれた",
+      "translation": "忙碌的今日让我意识到",
+      "romanization": "a wa ta da shi i kyo u ga ki zu ka se te ku re ta",
+      "annotation": [
+        { "original": "慌", "annotation": "あわ" },
+        { "original": "ただしい" },
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "が" },
+        { "original": "気付", "annotation": "きず" },
+        { "original": "かせてくれた" }
+      ]
+    },
+    {
+      "lyric": "私がずっと 本当に嫌いだったのはきっと",
+      "translation": "我一直以来真正厌恶的",
+      "romanization": "wa ta shi ga zu tto ho n to u ni ki ra i da tta no wa ki tto",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "が" },
+        { "original": "ずっと" },
+        { "original": "本当", "annotation": "ほんとう" },
+        { "original": "に" },
+        { "original": "嫌", "annotation": "きら" },
+        { "original": "いだったのはきっと" }
+      ]
+    },
+    {
+      "lyric": "私自身だった",
+      "translation": "就是我自己啊",
+      "romanization": "wa ta shi ji shi n da tta",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "自身", "annotation": "じしん" },
+        { "original": "だった" }
+      ]
+    },
+    {
+      "lyric": "新しい毎日に take off",
+      "translation": "在崭新的每日腾飞",
+      "romanization": "a ta ra shi i ma i ni chi ni take off",
+      "annotation": [
+        { "original": "新", "annotation": "あたら" },
+        { "original": "しい" },
+        { "original": "毎日", "annotation": "まいにち" },
+        { "original": "に" },
+        { "original": "take off" }
+      ]
+    },
+    {
+      "lyric": "いつもの私ごと 全部壊して oh, oh",
+      "translation": "将过去的我全然摧毁 oh， oh",
+      "romanization": "i tsu mo no wa ta shi go to ze n bu ko wa shi te oh, oh",
+      "annotation": [
+        { "original": "いつもの" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "ごと" },
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "壊", "annotation": "こわ" },
+        { "original": "して" },
+        { "original": "oh, oh" }
+      ]
+    },
+    {
+      "lyric": "どんな明日が来ようと",
+      "translation": "无论明天如何",
+      "romanization": "do n na a shi ta ga ko yo u to",
+      "annotation": [
+        { "original": "どんな" },
+        { "original": "明日", "annotation": "あした" },
+        { "original": "が" },
+        { "original": "来", "annotation": "こ" },
+        { "original": "ようと" }
+      ]
+    },
+    {
+      "lyric": "私は私を生きると そう決めたの",
+      "translation": "我决意活出真实的自我",
+      "romanization": "wa ta shi wa wa ta shi wo i ki ru to so u ki me ta no",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "は" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "を" },
+        { "original": "生", "annotation": "い" },
+        { "original": "きると" },
+        { "original": "そう" },
+        { "original": "決", "annotation": "き" },
+        { "original": "めたの" }
+      ]
+    },
+    {
+      "lyric": "I've met the unknown",
+      "translation": "我邂逅了未知",
+      "romanization": "I've met the unknown",
+      "annotation": [{ "original": "I've met the unknown" }]
+    },
+    {
+      "lyric": "Unlocking doors all of my own",
+      "translation": "开启了属于我的所有门扉",
+      "romanization": "Unlocking doors all of my own",
+      "annotation": [{ "original": "Unlocking doors all of my own" }]
+    },
+    {
+      "lyric": "Oh, I'll meet new unknowns",
+      "translation": "噢 我将邂逅新的未知",
+      "romanization": "Oh, I'll meet new unknowns",
+      "annotation": [{ "original": "Oh, I'll meet new unknowns" }]
+    },
+    {
+      "lyric": "お決まりの今日を 退屈な日々を",
+      "translation": "一如往常的今日 依旧如此索然无味",
+      "romanization": "o ki ma ri no kyo u wo ta i ku tsu na hi bi wo",
+      "annotation": [
+        { "original": "お" },
+        { "original": "決", "annotation": "き" },
+        { "original": "まりの" },
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "を" },
+        { "original": "退屈", "annotation": "たいくつ" },
+        { "original": "な" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "変えるのは今日だ",
+      "translation": "改变就在当下",
+      "romanization": "ka e ru no wa kyo u da",
+      "annotation": [
+        { "original": "変", "annotation": "か" },
+        { "original": "えるのは" },
+        { "original": "今日", "annotation": "きょう" },
+        { "original": "だ" }
+      ]
+    },
+    {
+      "lyric": "振り返らないで",
+      "translation": "请勿蓦然回首",
+      "romanization": "fu ri ka e ra na i de",
+      "annotation": [
+        { "original": "振", "annotation": "ふ" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "らないで" }
+      ]
+    },
+    {
+      "lyric": "ここから始まる",
+      "translation": "从这里开始的",
+      "romanization": "ko ko ka ra ha ji ma ru",
+      "annotation": [
+        { "original": "ここから" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "まる" }
+      ]
+    },
+    {
+      "lyric": "私の物語",
+      "translation": "是属于我的故事",
+      "romanization": "wa ta shi no mo no ga ta ri",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "物語", "annotation": "ものがたり" }
+      ]
+    }
+  ]
+}
