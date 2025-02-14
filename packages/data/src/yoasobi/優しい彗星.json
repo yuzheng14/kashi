@@ -1,0 +1,531 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "優しい彗星",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "今、静かな夜の中で",
+      "translation": "此刻 在寂静的夜晚",
+      "romanization": "ima shizu kana yoru no nakade",
+      "annotation": [
+        { "original": "今", "annotation": "いま" },
+        { "original": "、" },
+        { "original": "静", "annotation": "しず" },
+        { "original": "かな" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "無計画に車を走らせた",
+      "translation": "我漫无目的地开着车",
+      "romanization": "muke i kaku ni kurumawo hashira se ta",
+      "annotation": [
+        { "original": "無計画", "annotation": "むけいかく" },
+        { "original": "に" },
+        { "original": "車", "annotation": "くるま" },
+        { "original": "を" },
+        { "original": "走", "annotation": "はし" },
+        { "original": "らせた" }
+      ]
+    },
+    {
+      "lyric": "左隣、あなたの",
+      "translation": "月光 照在坐在副驾的",
+      "romanization": "hitari to nari anata no",
+      "annotation": [
+        { "original": "左隣", "annotation": "ひたりとなり" },
+        { "original": "、" },
+        { "original": "あなた" },
+        { "original": "の" }
+      ]
+    },
+    {
+      "lyric": "横顔を月が照らした",
+      "translation": "你的侧脸",
+      "romanization": "yokogao wo tsu ki ga terashi ta",
+      "annotation": [
+        { "original": "横顔", "annotation": "よこがお" },
+        { "original": "を" },
+        { "original": "月", "annotation": "つき" },
+        { "original": "が" },
+        { "original": "照", "annotation": "て" },
+        { "original": "らした" }
+      ]
+    },
+    {
+      "lyric": "ただ、思い出を探るように",
+      "translation": "只是边走边找 像是寻索回忆",
+      "romanization": "tada omoi dewo sagu ru yo ni",
+      "annotation": [
+        { "original": "ただ" },
+        { "original": "、" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "出", "annotation": "で" },
+        { "original": "を" },
+        { "original": "探", "annotation": "さぐ" },
+        { "original": "るように" }
+      ]
+    },
+    {
+      "lyric": "辿るように言葉を繋ぎ合わせれば",
+      "translation": "连接起字字句句",
+      "romanization": "tadoru you ni koto ba wo tsu na gi awa se re ba",
+      "annotation": [
+        { "original": "辿", "annotation": "たどる" },
+        { "original": "るように" },
+        { "original": "言葉", "annotation": "ことば" },
+        { "original": "を" },
+        { "original": "繋", "annotation": "つな" },
+        { "original": "ぎ" },
+        { "original": "合", "annotation": "あ" },
+        { "original": "わせれば" }
+      ]
+    },
+    {
+      "lyric": "どうしようもなく溢れてくる",
+      "translation": "就看到那些日子的记忆 无可救药地",
+      "romanization": "dou shiyou mo naku afure te kuru",
+      "annotation": [
+        { "original": "どうしようもなく" },
+        { "original": "溢", "annotation": "あふれ" },
+        { "original": "れてくる" }
+      ]
+    },
+    {
+      "lyric": "日々の記憶",
+      "translation": "不断涌现",
+      "romanization": "hibino ki o ku",
+      "annotation": [
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "の" },
+        { "original": "記憶", "annotation": "きおく" }
+      ]
+    },
+    {
+      "lyric": "あなたのそばで生きると決めたその日から",
+      "translation": "从我决定陪在你身边的那天起",
+      "romanization": "anata no so bade ikiru to kime ta so no hi kara",
+      "annotation": [
+        { "original": "あなた" },
+        { "original": "の" },
+        { "original": "そばで" },
+        { "original": "生", "annotation": "い" },
+        { "original": "きると" },
+        { "original": "決", "annotation": "き" },
+        { "original": "めた" },
+        { "original": "その" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "から" }
+      ]
+    },
+    {
+      "lyric": "少しずつ変わり始めた世界",
+      "translation": "世界就开始渐渐改变",
+      "romanization": "su koshi zutsu kawa ri haji me ta sekai",
+      "annotation": [
+        { "original": "少", "annotation": "すこ" },
+        { "original": "し" },
+        { "original": "ずつ" },
+        { "original": "変", "annotation": "か" },
+        { "original": "わり" },
+        { "original": "始", "annotation": "はじ" },
+        { "original": "めた" },
+        { "original": "世界", "annotation": "せかい" }
+      ]
+    },
+    {
+      "lyric": "強く在るように弱さを隠すように",
+      "translation": "试着藏起脆弱 表现出坚强",
+      "romanization": "tsu yo ku aru you ni yowa sa wo kakusu you ni",
+      "annotation": [
+        { "original": "強", "annotation": "つよ" },
+        { "original": "く" },
+        { "original": "在", "annotation": "あ" },
+        { "original": "るように" },
+        { "original": "弱", "annotation": "よわ" },
+        { "original": "さを" },
+        { "original": "隠", "annotation": "かく" },
+        { "original": "すように" }
+      ]
+    },
+    {
+      "lyric": "演じてきた日々に",
+      "translation": "那些日子 我一路伪装",
+      "romanization": "en jite ki ta hibi ni",
+      "annotation": [
+        { "original": "演", "annotation": "えんじ" },
+        { "original": "じてきた" },
+        { "original": "日々", "annotation": "ひび" },
+        { "original": "に" }
+      ]
+    },
+    {
+      "lyric": "ある日突然現れたその眼差しが",
+      "translation": "直到有一天 突然出现了那个目光",
+      "romanization": "aru hi totsu zen arawa reta sono mana zashi ga",
+      "annotation": [
+        { "original": "ある" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "突然", "annotation": "とつぜん" },
+        { "original": "現", "annotation": "あらわ" },
+        { "original": "れた" },
+        { "original": "その" },
+        { "original": "眼差", "annotation": "まなざ" },
+        { "original": "し" },
+        { "original": "が" }
+      ]
+    },
+    {
+      "lyric": "知らなかったこと教えてくれた",
+      "translation": "教会了我 从不知道的事",
+      "romanization": "shirana katta koto oshie tekure ta",
+      "annotation": [
+        { "original": "知", "annotation": "し" },
+        { "original": "らなかった" },
+        { "original": "こと" },
+        { "original": "教", "annotation": "おし" },
+        { "original": "えてくれた" }
+      ]
+    },
+    {
+      "lyric": "守るべきものがあればそれだけで",
+      "translation": "有了想要守护的人事物",
+      "romanization": "mamoru be ki mo no ga are ba sore da kede",
+      "annotation": [
+        { "original": "守", "annotation": "まも" },
+        { "original": "るべき" },
+        { "original": "ものが" },
+        { "original": "あれば" },
+        { "original": "それ" },
+        { "original": "だけで" }
+      ]
+    },
+    {
+      "lyric": "こんなにも強くなれるんだ",
+      "translation": "仅此 就能变得这样充满力量",
+      "romanization": "kon nani mo tsu yoku narerun da",
+      "annotation": [
+        { "original": "こんなにも" },
+        { "original": "強", "annotation": "つよ" },
+        { "original": "くなれるんだ" }
+      ]
+    },
+    {
+      "lyric": "深い深い暗闇の中で",
+      "translation": "在深邃的黑暗里",
+      "romanization": "fukai fukai kura yami no naka de",
+      "annotation": [
+        { "original": "深", "annotation": "ふか" },
+        { "original": "い" },
+        { "original": "深", "annotation": "ふか" },
+        { "original": "い" },
+        { "original": "暗闇", "annotation": "くらやみ" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" },
+        { "original": "で" }
+      ]
+    },
+    {
+      "lyric": "出会い、共に過ごしてきた",
+      "translation": "邂逅 然后一起度过",
+      "romanization": "de a i tomo ni su goshi te ki ta",
+      "annotation": [
+        { "original": "出会", "annotation": "であ" },
+        { "original": "い" },
+        { "original": "、" },
+        { "original": "共", "annotation": "とも" },
+        { "original": "に" },
+        { "original": "過", "annotation": "す" },
+        { "original": "ごしてきた" }
+      ]
+    },
+    {
+      "lyric": "類の無い日々",
+      "translation": "无与伦比的日子",
+      "romanization": "rui no nai hibi",
+      "annotation": [
+        { "original": "類", "annotation": "るい" },
+        { "original": "の" },
+        { "original": "無", "annotation": "な" },
+        { "original": "い" },
+        { "original": "日々", "annotation": "ひび" }
+      ]
+    },
+    {
+      "lyric": "心地よかった",
+      "translation": "好温馨啊",
+      "romanization": "koko ji yo katta",
+      "annotation": [
+        { "original": "心地", "annotation": "ここじ" },
+        { "original": "よかった" }
+      ]
+    },
+    {
+      "lyric": "いや、幸せだった",
+      "translation": "不 是好幸福啊",
+      "romanization": "iya shia wa se da tta",
+      "annotation": [
+        { "original": "いや、" },
+        { "original": "幸", "annotation": "しあわ" },
+        { "original": "せだった" }
+      ]
+    },
+    {
+      "lyric": "確かにほら",
+      "translation": "是你",
+      "romanization": "tashi kani hora",
+      "annotation": [
+        { "original": "確", "annotation": "たし" },
+        { "original": "かにほら" }
+      ]
+    },
+    {
+      "lyric": "救われたんだよ",
+      "translation": "的确是你",
+      "romanization": "suku wa re ta n da yo",
+      "annotation": [
+        { "original": "救", "annotation": "すく" },
+        { "original": "われたんだよ" }
+      ]
+    },
+    {
+      "lyric": "あなたに",
+      "translation": "拯救了我",
+      "romanization": "anata ni",
+      "annotation": [{ "original": "あなたに" }]
+    },
+    {
+      "lyric": "わずかな光を捉えて輝いたのは",
+      "translation": "在微弱光芒下闪耀着的",
+      "romanization": "wazu ka na hikari wo tora e te kaga ya i tano ha",
+      "annotation": [
+        { "original": "わずかな" },
+        { "original": "光", "annotation": "ひかり" },
+        { "original": "を" },
+        { "original": "捉", "annotation": "とら" },
+        { "original": "えて" },
+        { "original": "輝", "annotation": "かがや" },
+        { "original": "いたのは" }
+      ]
+    },
+    {
+      "lyric": "まるで流れ星のような涙",
+      "translation": "仿佛流星一般的泪滴",
+      "romanization": "marure nagare hoshi no you na namida",
+      "annotation": [
+        { "original": "まるで" },
+        { "original": "流", "annotation": "なが" },
+        { "original": "れ" },
+        { "original": "星", "annotation": "ほし" },
+        { "original": "のような" },
+        { "original": "涙", "annotation": "なみだ" }
+      ]
+    },
+    {
+      "lyric": "不器用な命から流れて零れ落ちた",
+      "translation": "是从平凡的生命里 流淌落下的",
+      "romanization": "buki yo na inochi kara nagare te kobore ochi ta",
+      "annotation": [
+        { "original": "不器用", "annotation": "ぶきよ" },
+        { "original": "な" },
+        { "original": "命", "annotation": "いのち" },
+        { "original": "から" },
+        { "original": "流", "annotation": "なが" },
+        { "original": "れて" },
+        { "original": "零", "annotation": "こぼ" },
+        { "original": "れ" },
+        { "original": "落", "annotation": "お" },
+        { "original": "ちた" }
+      ]
+    },
+    {
+      "lyric": "美しい涙",
+      "translation": "美丽的泪滴",
+      "romanization": "utsu kushi i namida",
+      "annotation": [
+        { "original": "美", "annotation": "うつく" },
+        { "original": "しい" },
+        { "original": "涙", "annotation": "なみだ" }
+      ]
+    },
+    {
+      "lyric": "強く大きな体に秘めた優しさも",
+      "translation": "不论是藏在那健硕身体里的温柔",
+      "romanization": "tsu yoku ooki na kara da ni hime ta yasashi sa mo",
+      "annotation": [
+        { "original": "強", "annotation": "つよ" },
+        { "original": "く" },
+        { "original": "大", "annotation": "おお" },
+        { "original": "きな" },
+        { "original": "体", "annotation": "からだ" },
+        { "original": "に" },
+        { "original": "秘", "annotation": "ひ" },
+        { "original": "めた" },
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しさも" }
+      ]
+    },
+    {
+      "lyric": "どこか苦しげなその顔も",
+      "translation": "还是稍显苦楚的表情",
+      "romanization": "doko ka kurushi ge naso no kao mo",
+      "annotation": [
+        { "original": "どこか" },
+        { "original": "苦", "annotation": "くる" },
+        { "original": "しげな" },
+        { "original": "その" },
+        { "original": "顔", "annotation": "かお" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "愛しく思うんだ",
+      "translation": "都令我无比爱怜",
+      "romanization": "itoshi ku o mo u nda",
+      "annotation": [
+        { "original": "愛", "annotation": "いと" },
+        { "original": "しく" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "うんだ" }
+      ]
+    },
+    {
+      "lyric": "姿形じゃないんだ",
+      "translation": "绝不只是表面",
+      "romanization": "sugata kata ji jya nai n da",
+      "annotation": [
+        { "original": "姿形", "annotation": "すがたかた" },
+        { "original": "じゃないんだ" }
+      ]
+    },
+    {
+      "lyric": "やっと気付いたんだ",
+      "translation": "我终于明白了",
+      "romanization": "yatto kitsu i ta nda",
+      "annotation": [
+        { "original": "やっと" },
+        { "original": "気付", "annotation": "きつ" },
+        { "original": "いたんだ" }
+      ]
+    },
+    {
+      "lyric": "無情に響く銃声が夜を引き裂く",
+      "translation": "无情的枪声撕裂了夜晚",
+      "romanization": "mujyo o ni hibi ku jyuu se i ga yoru wo hiki saku",
+      "annotation": [
+        { "original": "無情", "annotation": "むじょう" },
+        { "original": "に" },
+        { "original": "響", "annotation": "ひび" },
+        { "original": "く" },
+        { "original": "銃声", "annotation": "じゅせい" },
+        { "original": "が" },
+        { "original": "夜", "annotation": "よる" },
+        { "original": "を" },
+        { "original": "引", "annotation": "ひ" },
+        { "original": "き" },
+        { "original": "裂", "annotation": "さ" },
+        { "original": "く" }
+      ]
+    },
+    {
+      "lyric": "別れの息吹が襲いかかる",
+      "translation": "分别的气息就此袭来",
+      "romanization": "wakare no ibuki ga osa i kakaru",
+      "annotation": [
+        { "original": "別", "annotation": "わか" },
+        { "original": "れの" },
+        { "original": "息吹", "annotation": "いぶき" },
+        { "original": "が" },
+        { "original": "襲", "annotation": "おさ" },
+        { "original": "いかかる" }
+      ]
+    },
+    {
+      "lyric": "刹那に輝いた無慈悲な流れ星",
+      "translation": "瞬间闪耀的流星",
+      "romanization": "setsu na ni kaga yai ta mushi hi na nagare hoshi",
+      "annotation": [
+        { "original": "刹那", "annotation": "せつな" },
+        { "original": "に" },
+        { "original": "輝", "annotation": "かがや" },
+        { "original": "いた" },
+        { "original": "無慈悲", "annotation": "むしひ" },
+        { "original": "な" },
+        { "original": "流", "annotation": "なが" },
+        { "original": "れ" },
+        { "original": "星", "annotation": "ほし" }
+      ]
+    },
+    {
+      "lyric": "祈りはただ届かずに消えた",
+      "translation": "那份未完成的祈祷 也就就此消失",
+      "romanization": "i nori ha tada todo ka zu ni kie ta",
+      "annotation": [
+        { "original": "祈", "annotation": "いの" },
+        { "original": "りは" },
+        { "original": "ただ" },
+        { "original": "届", "annotation": "とど" },
+        { "original": "かずに" },
+        { "original": "消", "annotation": "き" },
+        { "original": "えた" }
+      ]
+    },
+    {
+      "lyric": "この、手の中で燃え尽きた",
+      "translation": "在这只手中燃尽的",
+      "romanization": "kono te no naka de moe tsu ki ta",
+      "annotation": [
+        { "original": "この、" },
+        { "original": "手", "annotation": "て" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" },
+        { "original": "で" },
+        { "original": "燃", "annotation": "も" },
+        { "original": "え" },
+        { "original": "尽", "annotation": "つ" },
+        { "original": "きた" }
+      ]
+    },
+    {
+      "lyric": "金色の優しい彗星を",
+      "translation": "金色的温柔彗星",
+      "romanization": "kin iro no yasashi i suise i wo",
+      "annotation": [
+        { "original": "金色", "annotation": "きんにろ" },
+        { "original": "の" },
+        { "original": "優", "annotation": "やさ" },
+        { "original": "しい" },
+        { "original": "彗星", "annotation": "すいせい" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "美しいたてがみを",
+      "translation": "将美丽的鬃毛",
+      "romanization": "utsukushi i tate gamiwo",
+      "annotation": [
+        { "original": "美", "annotation": "うつく" },
+        { "original": "しい" },
+        { "original": "たてがみを" }
+      ]
+    },
+    {
+      "lyric": "暗闇の中握り締めた",
+      "translation": "握在了黑暗里",
+      "romanization": "kura yami no naka nigiri shi me ta",
+      "annotation": [
+        { "original": "暗闇", "annotation": "くらやみ" },
+        { "original": "の" },
+        { "original": "中", "annotation": "なか" },
+        { "original": "握", "annotation": "にぎ" },
+        { "original": "り" },
+        { "original": "締", "annotation": "し" },
+        { "original": "めた" }
+      ]
+    }
+  ]
+}

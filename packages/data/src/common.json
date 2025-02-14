@@ -3,6 +3,11 @@
     { "original": "思", "annotation": "おも" },
     { "original": "い" }
   ],
+  "思い出": [
+    { "original": "思", "annotation": "おも" },
+    { "original": "い" },
+    { "original": "出", "annotation": "で" }
+  ],
   "取り": [
     { "original": "取", "annotation": "と" },
     { "original": "り" }
