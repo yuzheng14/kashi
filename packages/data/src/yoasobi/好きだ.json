@@ -1,0 +1,448 @@
+{
+  "$schema": "../../../schema/schema.json",
+  "title": "好きだ",
+  "artist": ["yoasobi"],
+  "lyrics": [
+    {
+      "lyric": "急に居ても立っても居られず",
+      "translation": "忽然有些坐立不安",
+      "romanization": "kyuu ni i te mo ta tte mo i ra re zu",
+      "annotation": [
+        { "original": "急", "annotation": "きゅう" },
+        { "original": "に" },
+        { "original": "居", "annotation": "い" },
+        { "original": "ても" },
+        { "original": "立", "annotation": "た" },
+        { "original": "っても" },
+        { "original": "居", "annotation": "い" },
+        { "original": "られず" }
+      ]
+    },
+    {
+      "lyric": "友達にSOS",
+      "translation": "向朋友发出了急救信号",
+      "romanization": "to mo da chi ni SOS",
+      "annotation": [
+        { "original": "友達", "annotation": "ともだち" },
+        { "original": "に" },
+        { "original": "SOS" }
+      ]
+    },
+    {
+      "lyric": "話聞いて欲しいんだ",
+      "translation": "能否听我说",
+      "romanization": "hanashi kii te ho shi i n da",
+      "annotation": [
+        { "original": "話", "annotation": "はなし" },
+        { "original": "聞", "annotation": "き" },
+        { "original": "いて" },
+        { "original": "欲", "annotation": "ほ" },
+        { "original": "しいんだ" }
+      ]
+    },
+    {
+      "lyric": "やっぱり私　彼のことが",
+      "translation": "果然 我(喜欢)他（这件事）",
+      "romanization": "ya ppa ri watashi ka re no ko to ga",
+      "annotation": [
+        { "original": "やっぱり" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "彼", "annotation": "かれ" },
+        { "original": "のことが" }
+      ]
+    },
+    {
+      "lyric": "「そんなこと知ってるもう何度も」",
+      "translation": "「那种事情已经知道了 都多少次了」",
+      "romanization": "so n na ko to shi tte ru mou nan do mo",
+      "annotation": [
+        { "original": "そんなこと" },
+        { "original": "知", "annotation": "し" },
+        { "original": "ってる" },
+        { "original": "もう" },
+        { "original": "何度", "annotation": "なんど" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "薄っぺらなそんなリアクション",
+      "translation": "他的那种反应 有些许单薄肤浅",
+      "romanization": "usu ppera na so n na ri a ku shon",
+      "annotation": [
+        { "original": "薄", "annotation": "うす" },
+        { "original": "っぺらな" },
+        { "original": "そんな" },
+        { "original": "リアクション" }
+      ]
+    },
+    {
+      "lyric": "耳にタコが出来ててもいいから聞いて",
+      "translation": "即便听到耳朵张茧 也一定要好好听",
+      "romanization": "mimi ni ta ko ga deki te te mo ii ka ra ki i te",
+      "annotation": [
+        { "original": "耳", "annotation": "みみ" },
+        { "original": "に" },
+        { "original": "タコ" },
+        { "original": "が" },
+        { "original": "出来", "annotation": "でき" },
+        { "original": "てても" },
+        { "original": "いいから" },
+        { "original": "聞", "annotation": "き" },
+        { "original": "いて" }
+      ]
+    },
+    {
+      "lyric": "我慢出来ないんだ",
+      "translation": "我已无法忍耐",
+      "romanization": "ga man de ki na i n da",
+      "annotation": [
+        { "original": "我慢", "annotation": "がまん" },
+        { "original": "出来", "annotation": "でき" },
+        { "original": "ないんだ" }
+      ]
+    },
+    {
+      "lyric": "いざ彼に四回目の告白を",
+      "translation": "即将向他第四次告白",
+      "romanization": "i za ka re ni yon kai me no kokuhaku wo",
+      "annotation": [
+        { "original": "いざ" },
+        { "original": "彼", "annotation": "かれ" },
+        { "original": "に" },
+        { "original": "四回目", "annotation": "よんかいめ" },
+        { "original": "の" },
+        { "original": "告白", "annotation": "こくはく" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "期待薄い片思いなんて苦いだけ",
+      "translation": "希望渺茫的单相思 唯有痛苦 仅此而已",
+      "romanization": "ki tai u su i kata omoi na n te niga i da ke",
+      "annotation": [
+        { "original": "期待", "annotation": "きたい" },
+        { "original": "薄", "annotation": "うす" },
+        { "original": "い" },
+        { "original": "片思", "annotation": "かたおも" },
+        { "original": "い" },
+        { "original": "なんて" },
+        { "original": "苦", "annotation": "にが" },
+        { "original": "いだけ" }
+      ]
+    },
+    {
+      "lyric": "友達でいいよ",
+      "translation": "做朋友也可以的",
+      "romanization": "tomodachi de i i yo",
+      "annotation": [
+        { "original": "友達", "annotation": "ともだち" },
+        { "original": "で" },
+        { "original": "いいよ" }
+      ]
+    },
+    {
+      "lyric": "すれ違いざま　一言交わすだけ",
+      "translation": "哪怕擦身而过时 只能说一句话",
+      "romanization": "su re chigai za ma hitokoto ka wa su da ke",
+      "annotation": [
+        { "original": "すれ" },
+        { "original": "違", "annotation": "ちが" },
+        { "original": "いざま" },
+        { "original": "一言", "annotation": "ひとこと" },
+        { "original": "交", "annotation": "か" },
+        { "original": "わすだけ" }
+      ]
+    },
+    {
+      "lyric": "それだけでいいなんて",
+      "translation": "这样便已然足够",
+      "romanization": "so re dake de ii na n te",
+      "annotation": [
+        { "original": "それ" },
+        { "original": "だけで" },
+        { "original": "いいなんて" }
+      ]
+    },
+    {
+      "lyric": "思ってたのに",
+      "translation": "我本这样想道",
+      "romanization": "omo tte ta no ni",
+      "annotation": [
+        { "original": "思", "annotation": "おも" },
+        { "original": "ってたのに" }
+      ]
+    },
+    {
+      "lyric": "頭から離れない君の声",
+      "translation": "可你的声音 在我脑中挥之不去",
+      "romanization": "a ta ma ka ra hanare na i ki mi no koe",
+      "annotation": [
+        { "original": "頭", "annotation": "あたま" },
+        { "original": "から" },
+        { "original": "離", "annotation": "はな" },
+        { "original": "れない" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "声", "annotation": "こえ" }
+      ]
+    },
+    {
+      "lyric": "もしも君に思いを一度も",
+      "translation": "若是我未曾向你",
+      "romanization": "mo shi mo ki mi ni o mo i wo i chi do mo",
+      "annotation": [
+        { "original": "もしも" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "に" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "を" },
+        { "original": "一度", "annotation": "いちど" },
+        { "original": "も" }
+      ]
+    },
+    {
+      "lyric": "伝えていなかったらなあ",
+      "translation": "表露过情感多好",
+      "romanization": "tsutae te i na ka tta ra naa",
+      "annotation": [
+        { "original": "伝", "annotation": "つた" },
+        { "original": "えていなかったら" },
+        { "original": "なあ" }
+      ]
+    },
+    {
+      "lyric": "慣れた告白なんてちっとも",
+      "translation": "早已习惯的告白",
+      "romanization": "nare ta kokuhaku nan te chi tto mo",
+      "annotation": [
+        { "original": "慣", "annotation": "な" },
+        { "original": "れた" },
+        { "original": "告白", "annotation": "こくはく" },
+        { "original": "なんて" },
+        { "original": "ちっとも" }
+      ]
+    },
+    {
+      "lyric": "ときめかないよね",
+      "translation": "你一定不会怦然心动吧",
+      "romanization": "to ki me ka na i yo ne",
+      "annotation": [{ "original": "ときめかない" }, { "original": "よね" }]
+    },
+    {
+      "lyric": "初めて思い伝えた十年前",
+      "translation": "初次告白 在十年前",
+      "romanization": "hajimete omoi tsu ta e ta juunen ma e",
+      "annotation": [
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めて" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "伝", "annotation": "つた" },
+        { "original": "えた" },
+        { "original": "十年", "annotation": "じゅうねん" },
+        { "original": "前", "annotation": "まえ" }
+      ]
+    },
+    {
+      "lyric": "あまりにも無邪気だった",
+      "translation": "那时有些许天真无邪",
+      "romanization": "a ma ri  nimo mujaki da tta",
+      "annotation": [
+        { "original": "あまりにも" },
+        { "original": "無邪気", "annotation": "むじゃき" },
+        { "original": "だった" }
+      ]
+    },
+    {
+      "lyric": "次の五年前も軽すぎたし",
+      "translation": "然后是五年前 却过于轻率",
+      "romanization": "tsu gi no gonen mae mo karu su gi ta shi",
+      "annotation": [
+        { "original": "次", "annotation": "つぎ" },
+        { "original": "の" },
+        { "original": "五年", "annotation": "ごねん" },
+        { "original": "前", "annotation": "まえ" },
+        { "original": "も" },
+        { "original": "軽", "annotation": "かる" },
+        { "original": "すぎたし" }
+      ]
+    },
+    {
+      "lyric": "次の三年前もそうだ",
+      "translation": "再次（告白）大概是三年前",
+      "romanization": "tsu gi no sanne mmae mo so u da",
+      "annotation": [
+        { "original": "次", "annotation": "つぎ" },
+        { "original": "の" },
+        { "original": "三年", "annotation": "さんねん" },
+        { "original": "前", "annotation": "まえ" },
+        { "original": "も" },
+        { "original": "そうだ" }
+      ]
+    },
+    {
+      "lyric": "もしも根こそぎ全部やり直せたのなら",
+      "translation": "若是这一切 都能够重来的话那该多好",
+      "romanization": "mo shimo nekosogi zenbu ya ri nao se tano naraa~~",
+      "annotation": [
+        { "original": "もしも" },
+        { "original": "根", "annotation": "ね" },
+        { "original": "こそぎ" },
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "やり" },
+        { "original": "直", "annotation": "なお" },
+        { "original": "せたのなら" }
+      ]
+    },
+    {
+      "lyric": "さあタイムトラベルだ　あの日まで",
+      "translation": "那么 穿越时空 回到那日",
+      "romanization": "sa a ta i mu to ra be ru da a no hi ma de",
+      "annotation": [
+        { "original": "さあ" },
+        { "original": "タイムトラベル" },
+        { "original": "だ" },
+        { "original": "あの" },
+        { "original": "日", "annotation": "ひ" },
+        { "original": "まで" }
+      ]
+    },
+    {
+      "lyric": "取り返そう　初めての告白を",
+      "translation": "重新抹除 最初的告白",
+      "romanization": "torikae so u hajimete no kokuhaku wo",
+      "annotation": [
+        { "original": "取", "annotation": "と" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "そう" },
+        { "original": "初", "annotation": "はじ" },
+        { "original": "めての" },
+        { "original": "告白", "annotation": "こくはく" },
+        { "original": "を" }
+      ]
+    },
+    {
+      "lyric": "全部全部無かったことに",
+      "translation": "将一切都擦除而净",
+      "romanization": "zenbu zenbu na ka tta ko to ni",
+      "annotation": [
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "全部", "annotation": "ぜんぶ" },
+        { "original": "無", "annotation": "な" },
+        { "original": "かったことに" }
+      ]
+    },
+    {
+      "lyric": "それでいいんだ",
+      "translation": "那样便好了",
+      "romanization": "so re de i i n da",
+      "annotation": [{ "original": "それで" }, { "original": "いいんだ" }]
+    },
+    {
+      "lyric": "それでいいんだっけ",
+      "translation": "那样便好了吧",
+      "romanization": "so re de ii n da kke 啊~",
+      "annotation": [{ "original": "それで" }, { "original": "いいんだっけ" }]
+    },
+    {
+      "lyric": "何回フラれてがっかりしたって",
+      "translation": "无论多次被抛弃 无论多次失望",
+      "romanization": "na n  kai fu ra re te ga  kkari shi ta tte",
+      "annotation": [
+        { "original": "何回", "annotation": "なんかい" },
+        { "original": "フラれて" },
+        { "original": "がっかりしたって" }
+      ]
+    },
+    {
+      "lyric": "苦い思い繰り返したって",
+      "translation": "反复经历过多少苦痛回忆",
+      "romanization": "nigai omoi kuri ka  e shi ta tte",
+      "annotation": [
+        { "original": "苦", "annotation": "にが" },
+        { "original": "い" },
+        { "original": "思", "annotation": "おも" },
+        { "original": "い" },
+        { "original": "繰", "annotation": "く" },
+        { "original": "り" },
+        { "original": "返", "annotation": "かえ" },
+        { "original": "したって" }
+      ]
+    },
+    {
+      "lyric": "その度触れた君の好きなものが",
+      "translation": "每次触碰到你所喜爱的事物",
+      "romanization": "sono ta bi fureta kimi no suki na mo no ga",
+      "annotation": [
+        { "original": "その" },
+        { "original": "度", "annotation": "たび" },
+        { "original": "触", "annotation": "ふ" },
+        { "original": "れた" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "の" },
+        { "original": "好", "annotation": "す" },
+        { "original": "き" },
+        { "original": "なものが" }
+      ]
+    },
+    {
+      "lyric": "いつしか私の好きものになったんだ",
+      "translation": "不知不觉 就成为了我所喜爱的东西",
+      "romanization": "itsu shika watashino suki namononi  na ttanda",
+      "annotation": [
+        { "original": "いつしか" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "好", "annotation": "す" },
+        { "original": "き" },
+        { "original": "ものになったんだ" }
+      ]
+    },
+    {
+      "lyric": "それはかけがえない今の私の宝物",
+      "translation": "那一切无法代替 如今已为我的宝藏",
+      "romanization": "so re ha kakega e na  iima no watashino takaramono",
+      "annotation": [
+        { "original": "それは" },
+        { "original": "かけがえない" },
+        { "original": "今", "annotation": "いま" },
+        { "original": "の" },
+        { "original": "私", "annotation": "わたし" },
+        { "original": "の" },
+        { "original": "宝物", "annotation": "たからもの" }
+      ]
+    },
+    {
+      "lyric": "失敗してもいい",
+      "translation": "即便失败也无妨",
+      "romanization": "shippai shi te mo i i",
+      "annotation": [
+        { "original": "失敗", "annotation": "しっぱい" },
+        { "original": "してもいい" }
+      ]
+    },
+    {
+      "lyric": "もう一度言うよ",
+      "translation": "还会再说一次",
+      "romanization": "mo u ichido i u yo",
+      "annotation": [
+        { "original": "もう" },
+        { "original": "一度", "annotation": "いちど" },
+        { "original": "言", "annotation": "い" },
+        { "original": "うよ" }
+      ]
+    },
+    {
+      "lyric": "私　君のことが",
+      "translation": "我喜欢你",
+      "romanization": "wawashi kimi no koto ga",
+      "annotation": [
+        { "original": "私", "annotation": "わたし" },
+        { "original": "君", "annotation": "きみ" },
+        { "original": "のことが" }
+      ]
+    }
+  ]
+}
