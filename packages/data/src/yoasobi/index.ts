@@ -12,6 +12,7 @@ import _勇者 from './勇者.json'
 import _ハルジオン from './ハルジオン.json'
 import _もう少しだけ from './もう少しだけ.json'
 import _怪物 from './怪物.json'
+import _あの夢をなぞって from './あの夢をなぞって.json'
 
 export const yoasobi = {
   セブンティーン: _セブンティーン as SongJsonSchema,
@@ -27,4 +28,5 @@ export const yoasobi = {
   ハルジオン: _ハルジオン as SongJsonSchema,
   もう少しだけ: _もう少しだけ as SongJsonSchema,
   怪物: _怪物 as SongJsonSchema,
+  あの夢をなぞって: _あの夢をなぞって as SongJsonSchema,
 }
