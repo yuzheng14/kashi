@@ -1,29 +1,137 @@
 {
-  "思い": [{ "original": "思", "annotation": "おも" }, { "original": "い" }],
-  "取り": [{ "original": "取", "annotation": "と" }, { "original": "り" }],
-  "帰る": [{ "original": "帰", "annotation": "かえ" }, { "original": "る" }],
-  "好き": [{ "original": "好", "annotation": "す" }, { "original": "き" }],
-  "生きて": [{ "original": "生", "annotation": "い" }, { "original": "きて" }],
-  "閉じて": [{ "original": "閉", "annotation": "と" }, { "original": "じて" }],
-  "閉じ": [{ "original": "閉", "annotation": "ど" }, { "original": "じ" }],
+  "思い": [
+    { "original": "思", "annotation": "おも" },
+    { "original": "い" }
+  ],
+  "取り": [
+    { "original": "取", "annotation": "と" },
+    { "original": "り" }
+  ],
+  "帰る": [
+    { "original": "帰", "annotation": "かえ" },
+    { "original": "る" }
+  ],
+  "好き": [
+    { "original": "好", "annotation": "す" },
+    { "original": "き" }
+  ],
+  "生きて": [
+    { "original": "生", "annotation": "い" },
+    { "original": "きて" }
+  ],
+  "閉じて": [
+    { "original": "閉", "annotation": "と" },
+    { "original": "じて" }
+  ],
+  "閉じ": [
+    { "original": "閉", "annotation": "ど" },
+    { "original": "じ" }
+  ],
   "鮮やか": [
     { "original": "鮮", "annotation": "あざ" },
     { "original": "やか" }
   ],
   "蘇る": [
-    { "original": "蘇", "annotation": "よみがえ" },
+    {
+      "original": "蘇",
+      "annotation": "よみがえ"
+    },
     { "original": "る" }
   ],
   "戻れない": [
     { "original": "戻", "annotation": "もど" },
     { "original": "れない" }
   ],
-  "出した": [{ "original": "出", "annotation": "だ" }, { "original": "した" }],
-  "出す": [{ "original": "出", "annotation": "だ" }, { "original": "す" }],
+  "出した": [
+    { "original": "出", "annotation": "だ" },
+    { "original": "した" }
+  ],
+  "出す": [
+    { "original": "出", "annotation": "だ" },
+    { "original": "す" }
+  ],
   "美しい": [
     { "original": "美", "annotation": "うつく" },
     { "original": "しい" }
   ],
-  "続き": [{ "original": "続", "annotation": "つづ" }, { "original": "き" }],
-  "確かに": [{ "original": "確", "annotation": "たしか" }, { "original": "に" }]
+  "続き": [
+    { "original": "続", "annotation": "つづ" },
+    { "original": "き" }
+  ],
+  "確かに": [
+    { "original": "確", "annotation": "たしか" },
+    { "original": "に" }
+  ],
+  "踏み": [
+    { "original": "踏", "annotation": "ふ" },
+    { "original": "み" }
+  ],
+  "小さな": [
+    { "original": "小", "annotation": "ちい" },
+    { "original": "さな" }
+  ],
+  "一日": [
+    {
+      "original": "一日",
+      "annotation": "いちにち"
+    }
+  ],
+  "過ぎる朝に": [
+    { "original": "過", "annotation": "す" },
+    { "original": "ぎる" },
+    { "original": "朝", "annotation": "あさ" },
+    { "original": "に" }
+  ],
+  "喜び": [
+    { "original": "喜", "annotation": "よろこ" },
+    { "original": "び" }
+  ],
+  "暗い": [
+    { "original": "暗", "annotation": "くら" },
+    { "original": "い" }
+  ],
+  "気持ち": [
+    { "original": "気持", "annotation": "きも" },
+    { "original": "ち" }
+  ],
+  "会い": [
+    { "original": "会", "annotation": "あ" },
+    { "original": "い" }
+  ],
+  "行くよ": [
+    { "original": "行", "annotation": "い" },
+    { "original": "くよ" }
+  ],
+  "馳せる": [
+    { "original": "馳", "annotation": "は" },
+    { "original": "せる" }
+  ],
+  "早く": [
+    { "original": "早", "annotation": "はや" },
+    { "original": "く" }
+  ],
+  "出る": [
+    { "original": "出", "annotation": "で" },
+    { "original": "る" }
+  ],
+  "触れた": [
+    { "original": "触", "annotation": "ふ" },
+    { "original": "れた" }
+  ],
+  "誰か": [
+    { "original": "誰", "annotation": "だれ" },
+    { "original": "か" }
+  ],
+  "優し": [
+    { "original": "優", "annotation": "やさ" },
+    { "original": "し" }
+  ],
+  "優しさ": [
+    { "original": "優", "annotation": "やさ" },
+    { "original": "しさ" }
+  ],
+  "少し": [
+    { "original": "少", "annotation": "すこ" },
+    { "original": "し" }
+  ]
 }
