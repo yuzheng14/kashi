@@ -1,4 +1,4 @@
-- [ ] github 地址替换
+- [x] github 地址替换
 - [ ] @kashijs/data 通过 CI/CD 自动发包
 - [ ] 歌词导出 PDF
 - [ ] 歌词进度模式
