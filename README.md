@@ -1,3 +1,7 @@
 # kashijs
 
-为日语初学者准备的注音版日语歌词。
+English | [简体中文](./README.zhCN.md)
+
+Lyrics of Japanese music with phonetic made for Japanese beginner.
+
+online access: [kashi](https://kashijs.pages.dev)
